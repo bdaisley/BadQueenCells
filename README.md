@@ -13,8 +13,8 @@ During spring 2024, abnormal mortality was observed among developing queens from
 ### Raw data sources:
 FASTQ sequence files have been uploaded to the NCBI Sequence Read Archive (SRA) under the following BioProject accessions:
 - [PRJNA1525705](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1525705) - 16S rRNA gene amplicon sequencing data
-- [PRJNA1501857](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1501857) - Shotgun metagenomic sequencing data and long-read whole genome sequencing of M. plutonius isolates
 - [PRJNA1509667](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1509667) - Long-read whole genome sequencing of <i>M. plutonius</i> ATCC 35311
+- [PRJNA1501857](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1501857) - Shotgun metagenomic sequencing & long-read whole genome sequencing of queen-derived <i>M. plutonius</i> isolates
 
 The assembled complete genomes of <i>M. plutonius </i> strains from this study are available under the following RefSeq accessions: 
 - GCF_059945265.1 (qk204) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_059945265.1
