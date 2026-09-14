@@ -1,0 +1,7 @@
+L1	L2	ID	Function	Gene	Count
+MACROLIDE	MACROLIDE	NF000355.3	ABC-F type ribosomal protection protein	abc-f	2
+TETRACYCLINE	TETRACYCLINE	NF000475.1	tetracycline efflux ABC transporter Tet(46) subunit B	tetB(46)	1
+TETRACYCLINE	TETRACYCLINE	NF012185.0	tetracycline efflux MFS transporter Tet(L)	tet(L)	1
+LINCOSAMIDE/MACROLIDE/STREPTOGRAMIN	CLINDAMYCIN/ERYTHROMYCIN/STREPTOGRAMIN B	NF012220.1	23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B)	erm(B)	1
+GLYCOPEPTIDE	VANCOMYCIN	NF033091.0	vancomycin resistance histidine kinase VanS	vanS	1
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	2

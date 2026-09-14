@@ -1,0 +1,146 @@
+ID	Function	Source	Count
+2A0106	metabolite/H+ symporter	TIGR00883	1
+ATPase-IB_hvy	heavy metal translocating P-type ATPase	TIGR01525	2
+Bac_Flav_CT_J	conjugative transposon protein TraJ	TIGR03782	4
+CBS_CbpB	cyclic-di-AMP-binding protein CbpB		1
+CPSaseII_lrg	carbamoyl-phosphate synthase (glutamine-hydrolyzing) large subunit	TIGR01369	2
+EF-G	elongation factor G	TIGR00484	1
+FGAM_synth_I	phosphoribosylformylglycinamidine synthase I	TIGR01737	1
+FnlA	UDP-N-acetylglucosamine 4,6-dehydratase/5-epimerase	TIGR04130	2
+FtsH_fam	ATP-dependent zinc metalloprotease FtsH	TIGR01241	1
+GTP_HydF	[FeFe] hydrogenase H-cluster maturation GTPase HydF	TIGR03918	2
+L11_bact	50S ribosomal protein L11	TIGR01632	2
+LTA_dltB	D-alanyl-lipoteichoic acid biosynthesis protein DltB	TIGR04091	1
+L_lactate_LldD	FMN-dependent L-lactate dehydrogenase LldD		2
+MsbA_rel	ABC transporter, permease/ATP-binding protein	TIGR02204	1
+OAFO_sf	2-oxoacid:acceptor oxidoreductase subunit alpha	TIGR03710	2
+PRK00046.1	UDP-N-acetylmuramate dehydrogenase	PRK00046	2
+PRK00066.1	L-lactate dehydrogenase	PRK00066	1
+PRK00074.1	glutamine-hydrolyzing GMP synthase	PRK00074	2
+PRK00106.1	ribonuclease Y	PRK00106	2
+PRK00110.1	YebC/PmpR family DNA-binding transcriptional regulator	PRK00110	1
+PRK00139.2-3	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	PRK00139	1
+PRK00174.1	acetate--CoA ligase	PRK00174	1
+PRK00290.1	molecular chaperone DnaK	PRK00290	1
+PRK00349.1	excinuclease ABC subunit UvrA	PRK00349	2
+PRK00448.1	PolC-type DNA polymerase III	PRK00448	2
+PRK00509.1	argininosuccinate synthase	PRK00509	2
+PRK00701.1	Mn(2+) uptake NRAMP transporter MntH	PRK00701	2
+PRK00733.2-2	sodium-translocating pyrophosphatase	PRK00733	1
+PRK01045.1-4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	PRK01045	1
+PRK01076.1	L-rhamnose isomerase	PRK01076	2
+PRK01678.1	type B 50S ribosomal protein L31	PRK01678	1
+PRK02269.1	ribose-phosphate diphosphokinase	PRK02269	2
+PRK03202.1	ATP-dependent 6-phosphofructokinase	PRK03202	1
+PRK03619.1	phosphoribosylformylglycinamidine synthase subunit PurQ	PRK03619	1
+PRK05254.1-5	uracil-DNA glycosylase	PRK05254	2
+PRK05261.1-3	phosphoketolase	PRK05261	1
+PRK05286.1-4	quinone-dependent dihydroorotate dehydrogenase	PRK05286	1
+PRK05298.1	excinuclease ABC subunit UvrB	PRK05298	1
+PRK05339.1	pyruvate, phosphate dikinase/phosphoenolpyruvate synthase regulator	PRK05339	1
+PRK05474.1	xylose isomerase	PRK05474	1
+PRK05563.1	DNA polymerase III subunit gamma/tau	PRK05563	2
+PRK05621.2-1	F0F1 ATP synthase subunit gamma	PRK05621	1
+PRK05653.1-4	3-oxoacyl-ACP reductase FabG	PRK05653	1
+PRK05672.1	error-prone DNA polymerase	PRK05672	2
+PRK05815.1-4	F0F1 ATP synthase subunit A	PRK05815	1
+PRK05819.1	DeoD-type purine-nucleoside phosphorylase	PRK05819	1
+PRK06299.1-3	30S ribosomal protein S1	PRK06299	2
+PRK06997.1	enoyl-ACP reductase FabI	PRK06997	2
+PRK07097.1	gluconate 5-dehydrogenase	PRK07097	2
+PRK08654.1	acetyl-CoA carboxylase biotin carboxylase subunit	PRK08654	1
+PRK08706.1	lipid A biosynthesis lauroyl acyltransferase	PRK08706	1
+PRK09076.1	enoyl-CoA hydratase	PRK09076	2
+PRK09102.1	ribonucleoside-diphosphate reductase subunit alpha	PRK09102	1
+PRK09103.1	ribonucleoside-diphosphate reductase subunit alpha	PRK09103	1
+PRK09140.1	2-dehydro-3-deoxy-6-phosphogalactonate aldolase	PRK09140	1
+PRK09177.1	xanthine phosphoribosyltransferase	PRK09177	2
+PRK09210.1	RNA polymerase sigma factor RpoD	PRK09210	1
+PRK09263.1	anaerobic ribonucleoside-triphosphate reductase	PRK09263	1
+PRK09362.1-3	phosphoribosylaminoimidazolesuccinocarboxamide synthase	PRK09362	1
+PRK09369.1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	PRK09369	2
+PRK09441.1-2	alpha-amylase	PRK09441	1
+PRK09589.1	6-phospho-beta-glucosidase	PRK09589	2
+PRK09592.1	PTS cellobiose transporter subunit IIC	PRK09592	2
+PRK09593.1	6-phospho-beta-glucosidase	PRK09593	2
+PRK09614.1-4	ribonucleotide-diphosphate reductase subunit beta	PRK09614	2
+PRK10084.1	dTDP-glucose 4,6-dehydratase	PRK10084	1
+PRK10369.1	heme lyase NrfEFG subunit NrfE	PRK10369	2
+PRK10668.1	multidrug efflux transporter transcriptional repressor AcrR	PRK10668	1
+PRK10787.1	endopeptidase La	PRK10787	2
+PRK10922.1	4-hydroxy-3-polyprenylbenzoate decarboxylase	PRK10922	2
+PRK10953.1	NADPH-dependent assimilatory sulfite reductase flavoprotein subunit	PRK10953	4
+PRK11160.1	cysteine/glutathione ABC transporter ATP-binding protein/permease CydC	PRK11160	1
+PRK11264.1	L-cystine ABC transporter ATP-binding protein YecC	PRK11264	1
+PRK11650.1	sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC	PRK11650	1
+PRK11819.1	energy-dependent translational throttle protein EttA	PRK11819	1
+PRK12297.1	GTPase ObgE	PRK12297	1
+PRK12311.1	30S ribosomal protein S2	PRK12311	1
+PRK12464.1	1-deoxy-D-xylulose-5-phosphate reductoisomerase	PRK12464	4
+PRK12465.1	xylose isomerase	PRK12465	1
+PRK12735.1	elongation factor Tu	PRK12735	1
+PRK12901.1	preprotein translocase subunit SecA	PRK12901	2
+PRK13030.1	indolepyruvate ferredoxin oxidoreductase family protein	PRK13030	1
+PRK13210.1	L-ribulose-5-phosphate 3-epimerase	PRK13210	1
+PRK13357.1	branched-chain amino acid aminotransferase	PRK13357	1
+PRK13748.1	mercury(II) reductase	PRK13748	4
+PRK13832.1	plasmid partitioning protein	PRK13832	1
+PRK13977.1	oleate hydratase	PRK13977	2
+PRK14354.1	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU	PRK14354	2
+PRK14608.1	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	PRK14608	2
+PRK14703.1	glutamine--tRNA ligase/YqeY domain fusion protein	PRK14703	2
+PRK14771.1	lipoprotein signal peptidase	PRK14771	2
+PRK14939.1	DNA gyrase subunit B	PRK14939	2
+PRK15134.1	microcin C ABC transporter ATP-binding protein YejF	PRK15134	1
+PTS-II-BC-nag	N-acetylglucosamine-specific PTS transporter subunit IIBC	TIGR01998	1
+PhnE	phosphonate ABC transporter, permease protein PhnE	TIGR01097	1
+PhnT2	putative 2-aminoethylphosphonate ABC transporter ATP-binding protein	TIGR03265	1
+Q_tRNA_tgt	tRNA guanosine(34) transglycosylase Tgt	TIGR00430	1
+RND_permease_1	multidrug efflux RND transporter permease subunit		2
+RNR_1b_NrdE	class 1b ribonucleoside-diphosphate reductase subunit alpha	TIGR04170	2
+RNase_Z	ribonuclease Z	TIGR02651	1
+TIGR00006	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	TIGR00006	2
+TIGR00092	redox-regulated ATPase YchF	TIGR00092	1
+addA_Gpos	helicase-exonuclease AddAB subunit AddA	TIGR02785	4
+adh_III_F_hyde	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase	TIGR02818	2
+agaS_fam	putative sugar isomerase, AgaS family	TIGR02815	1
+alaS	alanine--tRNA ligase	TIGR00344	2
+ccpA	catabolite control protein A	TIGR01481	1
+chaperone_ClpB	ATP-dependent chaperone ClpB	TIGR03346	8
+citE	citrate (pro-3S)-lyase subunit beta	TIGR01588	4
+copper_res_A	copper resistance system multicopper oxidase	TIGR01480	2
+eno	phosphopyruvate hydratase	TIGR01060	1
+fabZ	3-hydroxyacyl-ACP dehydratase FabZ	TIGR01750	1
+ftsZ	cell division protein FtsZ	TIGR00065	4
+fumC_II	class II fumarate hydratase	TIGR00979	1
+gidA	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	TIGR00136	1
+glgX_debranch	glycogen debranching protein GlgX	TIGR02100	2
+glyS	glycine--tRNA ligase subunit beta	TIGR00211	2
+guan_deamin	guanine deaminase	TIGR02967	1
+hisD	histidinol dehydrogenase	TIGR00069	1
+lactal_redase	lactaldehyde reductase	TIGR02638	1
+mpl	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase	TIGR01081	3
+mutl	DNA mismatch repair endonuclease MutL	TIGR00585	1
+nickel_nikD	nickel import ATP-binding protein NikD	TIGR02770	1
+nifR3_yhdG	tRNA dihydrouridine synthase DusB	TIGR00737	2
+parC_Gpos	DNA topoisomerase IV subunit A	TIGR01061	1
+pbuX	xanthine permease	TIGR03173	1
+purH	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	TIGR00355	2
+quinone_pig3	putative NAD(P)H quinone oxidoreductase, PIG3 family	TIGR02824	1
+rad_fix_GrcA3	autonomous glycyl radical cofactor GrcA3		1
+recQ	DNA helicase RecQ	TIGR01389	2
+rlpA	septal ring lytic transglycosylase RlpA family protein	TIGR00413	1
+rluA_subfam	RluA family pseudouridine synthase	TIGR00005	1
+rmlA	glucose-1-phosphate thymidylyltransferase RfbA	TIGR01207	2
+rpoB	DNA-directed RNA polymerase subunit beta	TIGR02013	3
+rpsG_bact	30S ribosomal protein S7	TIGR01029	1
+selA_rel	DgaE family pyridoxal phosphate-dependent ammonia lyase	TIGR01437	2
+spore_0_A	sporulation transcription factor Spo0A	TIGR02875	2
+spore_IV_A	stage IV sporulation protein A	TIGR02836	4
+spore_IV_B	SpoIVB peptidase	TIGR02860	1
+strep_PBP1B	penicillin-binding protein PBP1B		2
+thym_sym	thymidylate synthase	TIGR03284	2
+traC_PFL_4706	conjugative transfer ATPase	TIGR03744	3
+transpos_IS256	IS256 family transposase		1
+udk	uridine kinase	TIGR00235	9
+uvra	excinuclease ABC subunit UvrA	TIGR00630	2

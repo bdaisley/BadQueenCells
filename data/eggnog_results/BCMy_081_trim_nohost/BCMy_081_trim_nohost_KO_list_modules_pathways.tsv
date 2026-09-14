@@ -1,0 +1,143 @@
+module_accession	completeness	pathway_name	pathway_class	matching_ko	missing_ko
+M00005	100.0	PRPP biosynthesis, ribose 5P => PRPP	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00948	
+M00015	100.0	Proline biosynthesis, glutamate => proline	Pathway modules; Amino acid metabolism; Arginine and proline metabolism	K00147,K00286,K00931	
+M00083	100.0	Fatty acid biosynthesis, elongation	Pathway modules; Lipid metabolism; Fatty acid metabolism	K00059,K00208,K00647,K02372	
+M00086	100.0	beta-Oxidation, acyl-CoA synthesis	Pathway modules; Lipid metabolism; Fatty acid metabolism	K01897	
+M00134	100.0	Polyamine biosynthesis, arginine => ornithine => putrescine	Pathway modules; Amino acid metabolism; Polyamine biosynthesis	K01476	
+M00881	100.0	Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K03644,K03801	
+M00051	83.33	De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP	Pathway modules; Nucleotide metabolism; Pyrimidine metabolism	K00254,K01465,K01591,K11541	K00762
+M00793	83.33	dTDP-L-rhamnose biosynthesis	Pathway modules; Biosynthesis of terpenoids and polyketides; Polyketide sugar unit biosynthesis	K00067,K00973,K01710	K01790
+M00572	66.67	Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00059,K00208,K00647,K02372	K02169,K02170
+M00844	66.67	Arginine biosynthesis, ornithine => arginine	Pathway modules; Amino acid metabolism; Arginine and proline metabolism	K01755,K01940	K00611
+M00883	66.67	Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K03644,K16869	K23735
+M00002	60.0	Glycolysis, core module involving three-carbon compounds	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00873,K01689,K01803	K00134,K00927,K01834
+M00018	60.0	Threonine biosynthesis, aspartate => homoserine => threonine	Pathway modules; Amino acid metabolism; Serine and threonine metabolism	K00003,K00928,K01733	K00133,K00872
+M00029	60.0	Urea cycle	Pathway modules; Amino acid metabolism; Arginine and proline metabolism	K01476,K01755,K01940	K00611,K01948
+M00938	60.0	Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP	Pathway modules; Nucleotide metabolism; Pyrimidine metabolism	K00525,K00526,K00560,K00943	K00940,K01520
+M00017	57.14	Methionine biosynthesis, aspartate => homoserine => methionine	Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism	K00003,K00548,K00928,K01760	K00133,K00651,K01739
+M00001	55.56	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00845,K00850,K00873,K01689,K01803	K01623,K01810,K01834,K11389
+M00007	50.0	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00615,K01783	K00616,K01807
+M00024	50.0	Phenylalanine biosynthesis, chorismate => phenylpyruvate => phenylalanine	Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism	K00832	K01713,K01850
+M00025	50.0	Tyrosine biosynthesis, chorismate => HPP => tyrosine	Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism	K00832	K01850,K04517
+M00048	50.0	De novo purine biosynthesis, PRPP + glutamine => IMP	Pathway modules; Nucleotide metabolism; Purine metabolism	K00602,K01923,K01945,K01952	K00601,K00764,K01756,K01933
+M00053	50.0	Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP	Pathway modules; Nucleotide metabolism; Purine metabolism	K00525,K00526	K00940
+M00096	50.0	C5 isoprenoid biosynthesis, non-mevalonate pathway	Pathway modules; Biosynthesis of terpenoids and polyketides; Terpenoid backbone biosynthesis	K00099,K00919,K01662,K03527	K00991,K01770,K01823,K03526
+M00122	50.0	Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K02227,K02231,K02233	K00768,K00798,K02226,K02232
+M00126	50.0	Tetrahydrofolate biosynthesis, GTP => THF	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00796,K01113,K11754	K00287,K01495,K13940
+M00151	50.0	Cytochrome bc1 complex respiratory unit	Pathway modules; Energy metabolism; ATP synthesis	K00411	K00412,K00413
+M00168	50.0	CAM (Crassulacean acid metabolism), dark	Pathway modules; Energy metabolism; Carbon fixation	K01595	K00025
+M00169	50.0	CAM (Crassulacean acid metabolism), light	Pathway modules; Energy metabolism; Carbon fixation	K01006	K00029
+M00172	50.0	C4-dicarboxylic acid cycle, NADP - malic enzyme type	Pathway modules; Energy metabolism; Carbon fixation	K01006,K01595	K00029,K00051
+M00176	50.0	Assimilatory sulfate reduction, sulfate => H2S	Pathway modules; Energy metabolism; Sulfur metabolism	K00380,K00390	K00381,K00860,K00958
+M00700	50.0	Multidrug resistance, efflux pump AbcA	Signature modules; Gene set; Drug resistance	K18104	K18906
+M00704	50.0	Tetracycline resistance, efflux pump Tet38	Signature modules; Gene set; Drug resistance	K08168	K18906
+M00854	50.0	Glycogen biosynthesis, glucose-1P => glycogen/starch	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K16153	K00963
+M00855	50.0	Glycogen degradation, glycogen => glucose-6P	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00688,K00705	K02438,K15779
+M00882	50.0	Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K03644	K23735
+M00884	50.0	Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K03644	K23750
+M00959	50.0	Guanine ribonucleotide degradation, GMP => Urate	Pathway modules; Nucleotide metabolism; Purine metabolism	K01487,K03784	K00087,K01081,K13479,K13480
+M00004	41.67	Pentose phosphate pathway (Pentose phosphate cycle)	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00615,K01783,K07404	K00033,K00036,K00616,K01807,K01810
+M00978	41.67	Ornithine-ammonia cycle	Pathway modules; Amino acid metabolism; Arginine and proline metabolism	K01755,K01940,K01955	K00611,K01915,K01956,K27542
+M00061	40.0	D-Glucuronate degradation, D-glucuronate => pyruvate + D-glyceraldehyde 3P	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00874,K01686	K00040,K01625,K01812
+M00064	40.0	ADP-L-glycero-D-manno-heptose biosynthesis	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	K03272	K03271,K03273,K03274
+M00909	40.0	UDP-N-acetyl-D-glucosamine biosynthesis, prokaryotes, glucose => UDP-GlcNAc	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00845,K04042	K00820,K01810,K03431
+M00157	37.5	F-type ATPase, prokaryotes and chloroplasts	Pathway modules; Energy metabolism; ATP synthesis	K02108,K02112,K02115	K02109,K02110,K02111,K02113,K02114
+M00011	36.67	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00174,K00241,K01679	K00026,K00175,K00239,K00240,K01902,K01903
+M00027	33.33	GABA (gamma-Aminobutyrate) shunt	Pathway modules; Amino acid metabolism; Other amino acid metabolism	K00135	K01580,K13524
+M00040	33.33	Tyrosine biosynthesis, chorismate => arogenate => tyrosine	Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism	K00832	K00220,K01850
+M00133	33.33	Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine	Pathway modules; Amino acid metabolism; Polyamine biosynthesis	K00797	K01480,K01584,K01611
+M00153	33.33	Cytochrome bd ubiquinol oxidase	Pathway modules; Energy metabolism; ATP synthesis	K00425	K00424,K00426
+M00345	33.33	Formaldehyde assimilation, ribulose monophosphate pathway	Pathway modules; Energy metabolism; Methane metabolism	K00850	K01624,K08093,K08094
+M00432	33.33	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism	K01649	K00052,K01702
+M00525	33.33	Lysine biosynthesis, acetyl-DAP pathway, aspartate => lysine	Pathway modules; Amino acid metabolism; Lysine metabolism	K00841,K00928,K01778	K00133,K00215,K01586,K01714,K05822,K05823
+M00549	33.33	Nucleotide sugar biosynthesis, glucose => UDP-glucose	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00845	K00963,K01835
+M00565	33.33	Trehalose biosynthesis, D-glucose 1P => trehalose	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00700,K01214	K00703,K00975,K01236,K06044
+M00627	33.33	beta-Lactam resistance, Bla system	Signature modules; Gene set; Drug resistance	K17836	K02171,K02172
+M00718	33.33	Multidrug resistance, efflux pump MexAB-OprM	Signature modules; Gene set; Drug resistance	K03585,K18138	K18131,K18139
+M00726	33.33	Cationic antimicrobial peptide (CAMP) resistance, lysyl-phosphatidylglycerol (L-PG) synthase MprF	Signature modules; Gene set; Drug resistance	K14205	K19077,K19078
+M00874	33.33	Fatty acid biosynthesis in mitochondria, fungi	Pathway modules; Lipid metabolism; Fatty acid metabolism	K00059,K09458	K00645,K03955,K07512,K11262,K22541
+M00922	33.33	CMP-Neu5Ac biosynthesis	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	K01654	K00983,K24257
+M00958	33.33	Adenine ribonucleotide degradation, AMP => Urate	Pathway modules; Nucleotide metabolism; Purine metabolism	K03784	K00106,K01081,K01490
+M00972	33.33	Proline metabolism	Pathway modules; Amino acid metabolism; Arginine and proline metabolism	K00286	K00318,K00819
+M00144	31.82	NADH	Pathway modules; Energy metabolism; ATP synthesis	K00335,K00337,K00342,K00343	K00330,K00331,K00332,K00333,K00334,K00336,K00338,K00339,K00340,K00341
+M00034	31.25	Methionine salvage pathway	Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism	K00797,K00832,K01243	K00789,K00899,K01611,K08963,K08967,K16054
+M00003	28.57	Gluconeogenesis, oxaloacetate => fructose-6P	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K01689,K01803	K00134,K00927,K01596,K01623,K01834,K03841
+M00014	28.57	Glucuronate pathway (uronate pathway)	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00008,K00854	K00002,K00012,K03331,K12447,K13247,K16190
+M00171	28.57	C4-dicarboxylic acid cycle, NAD - malic enzyme type	Pathway modules; Energy metabolism; Carbon fixation	K01006,K01595	K00025,K00028,K00814,K14454,K14455
+M00527	28.57	Lysine biosynthesis, DAP aminotransferase pathway, aspartate => lysine	Pathway modules; Amino acid metabolism; Lysine metabolism	K00928,K01778	K00133,K00215,K01586,K01714,K10206
+M00845	28.57	Arginine biosynthesis, glutamate => acetylcitrulline => arginine	Pathway modules; Amino acid metabolism; Arginine and proline metabolism	K01755,K01940	K00145,K00821,K01438,K09065,K22478
+M00117	27.78	Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00568,K03182	K03179,K03181,K03183,K03184,K03185,K03186,K18800
+M00895	27.78	Thiamine biosynthesis, prokaryotes, AIR (+ DXP/glycine) => TMP/TPP	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00788,K00946,K03153	K00941,K03147,K03148,K03149,K03151,K03154,K10810
+M00173	27.5	Reductive citrate cycle (Arnon-Buchanan cycle)	Pathway modules; Energy metabolism; Carbon fixation	K00170,K00174,K00241,K01006,K01595,K01679	K00024,K00031,K00169,K00171,K00172,K00175,K00239,K00240,K01681,K01902,K01903,K15230,K15231
+M00165	27.27	Reductive pentose phosphate cycle (Calvin cycle)	Pathway modules; Energy metabolism; Carbon fixation	K00615,K01783,K01803	K00855,K00927,K01100,K01601,K01623,K01807,K03841,K05298
+M00357	26.67	Methanogenesis, acetate => methane	Pathway modules; Energy metabolism; Methane metabolism	K01895,K03388	K00193,K00194,K00197,K00399,K00401,K00402,K00577,K00578,K00579,K00580,K00581,K00584,K03389,K03390
+M00006	25.0	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K07404	K00033,K00036
+M00008	25.0	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K07404	K00036,K01625,K01690
+M00019	25.0	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism	K00826	K00053,K01652,K01653,K01687
+M00026	25.0	Histidine biosynthesis, PRPP => histidine	Pathway modules; Amino acid metabolism; Histidine metabolism	K00013,K00817	K00765,K01089,K01496,K01523,K01814,K02500,K02501
+M00028	25.0	Ornithine biosynthesis, glutamate => ornithine	Pathway modules; Amino acid metabolism; Arginine and proline metabolism	K14681	K00145,K00818,K00930,K01438
+M00035	25.0	Methionine degradation	Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism	K01251	K00552,K00789,K01697
+M00045	25.0	Histidine degradation, histidine => N-formiminoglutamate => glutamate	Pathway modules; Amino acid metabolism; Histidine metabolism	K01712	K01468,K01479,K01745
+M00049	25.0	Adenine ribonucleotide biosynthesis, IMP => ADP,ATP	Pathway modules; Nucleotide metabolism; Purine metabolism	K01939	K00939,K00940,K01756
+M00050	25.0	Guanine ribonucleotide biosynthesis, IMP => GDP,GTP	Pathway modules; Nucleotide metabolism; Purine metabolism	K01951	K00088,K00940,K00942
+M00077	25.0	Chondroitin sulfate degradation	Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism	K01197	K01132,K01135,K01195
+M00079	25.0	Keratan sulfate degradation	Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism	K12373	K01132,K01137,K12309
+M00082	25.0	Fatty acid biosynthesis, initiation	Pathway modules; Lipid metabolism; Fatty acid metabolism	K01961,K02160	K00665,K01962,K01963
+M00149	25.0	Succinate dehydrogenase, prokaryotes	Pathway modules; Energy metabolism; ATP synthesis	K00241	K00239,K00240,K00242
+M00155	25.0	Cytochrome c oxidase, prokaryotes	Pathway modules; Energy metabolism; ATP synthesis	K02274	K02275,K02276
+M00170	25.0	C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type	Pathway modules; Energy metabolism; Carbon fixation	K01595	K01610,K14454,K14455
+M00307	25.0	Pyruvate oxidation, pyruvate => acetyl-CoA	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00170	K00169,K00171,K00172
+M00308	25.0	Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00874	K00134,K00927,K01625,K05308
+M00344	25.0	Formaldehyde assimilation, xylulose monophosphate pathway	Pathway modules; Energy metabolism; Methane metabolism	K00863	K01624,K03841,K17100
+M00632	25.0	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K01784	K00849,K00965,K01785
+M00641	25.0	Multidrug resistance, efflux pump MexEF-OprN	Signature modules; Gene set; Drug resistance	K18299	K18297,K18298
+M00846	25.0	Siroheme biosynthesis, glutamyl-tRNA => siroheme	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K01719,K02496	K01698,K01749,K01845,K02304,K02492
+M00896	25.0	Thiamine biosynthesis, archaea, AIR (+ NAD+) => TMP/TPP	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00788,K00946	K00941,K03147,K22699
+M00899	25.0	Thiamine salvage pathway, HMP/HET => TMP	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00788	K00878,K00941
+M00975	25.0	Betaine degradation, bacteria, betaine => pyruvate	Pathway modules; Amino acid metabolism; Serine and threonine metabolism	K01752	K00301,K00309,K00479,K00600,K21832
+M00009	22.92	Citrate cycle (TCA cycle, Krebs cycle)	Pathway modules; Carbohydrate metabolism; Central carbohydrate metabolism	K00174,K00241,K01679	K00026,K00031,K00175,K00239,K00240,K01647,K01681,K01902,K01903
+M00016	22.22	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	Pathway modules; Amino acid metabolism; Lysine metabolism	K00928,K01778	K00133,K00215,K00674,K00821,K01439,K01586,K01714
+M00060	22.22	KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	K00748,K02517	K00677,K00912,K02527,K02535,K02536,K02560,K03269
+M00119	22.22	Pantothenate biosynthesis, valine/L-aspartate => pantothenate	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00077,K00826	K00606,K01579,K01918
+M00125	22.22	Riboflavin biosynthesis, plants and bacteria, GTP => riboflavin/FMN/FAD	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K11753,K21064	K00082,K00793,K00794,K01497,K01498,K02858
+M00346	22.22	Formaldehyde assimilation, serine pathway	Pathway modules; Energy metabolism; Methane metabolism	K01595,K01689	K00018,K00024,K00600,K00830,K08691,K08692,K11529,K14067
+M00866	22.22	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type	Pathway modules; Glycan metabolism; Lipopolysaccharide metabolism	K00748,K02517	K00677,K00912,K02527,K02535,K02536,K03269,K09778
+M00013	20.0	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00248	K00140,K05605,K07511,K23146
+M00033	20.0	Ectoine biosynthesis, aspartate => ectoine	Pathway modules; Amino acid metabolism; Serine and threonine metabolism	K00928	K00133,K00836,K06718,K06720
+M00044	20.0	Tyrosine degradation, tyrosine => homogentisate	Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism	K00832	K00451,K00457,K01555,K01800
+M00076	20.0	Dermatan sulfate degradation	Pathway modules; Glycan metabolism; Glycosaminoglycan metabolism	K01197	K01135,K01136,K01195,K01217
+M00115	20.0	NAD biosynthesis, aspartate => quinolinate => NAD	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00278	K00767,K00969,K01916,K03517
+M00121	20.0	Heme biosynthesis, plants and bacteria, glutamate => heme	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K01719,K01885	K00228,K00230,K01599,K01698,K01749,K01772,K01845,K02492
+M00550	20.0	Ascorbate degradation, ascorbate => D-xylulose-5P	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K03079	K02821,K02822,K03077,K03078,K03475,K03476
+M00552	20.0	D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K01631	K00134,K00883,K00927,K01684
+M00570	20.0	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism	K00826	K00053,K01652,K01653,K01687,K17989
+M00631	20.0	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00874	K00041,K01625,K01685,K01812
+M00841	20.0	Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K11754	K01495,K13941,K13998,K22101
+M00957	20.0	Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA	Pathway modules; Amino acid metabolism; Lysine metabolism	K00135	K00468,K01506,K14268,K15736,K15737
+M00982	19.05	Methylcitrate cycle	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00241,K01679	K00024,K00239,K00240,K01659,K01682,K01720,K03417
+M00023	16.67	Tryptophan biosynthesis, chorismate => tryptophan	Pathway modules; Amino acid metabolism; Aromatic amino acid metabolism	K01696	K00766,K01656,K01657,K01658,K01695,K01817
+M00036	16.67	Leucine degradation, leucine => acetoacetate + acetyl-CoA	Pathway modules; Amino acid metabolism; Branched-chain amino acid metabolism	K00826	K00166,K00167,K00253,K00382,K01640,K01968,K01969,K05607,K09699
+M00127	16.67	Thiamine biosynthesis, prokaryotes, AIR (+ DXP/tyrosine) => TMP/TPP	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00788,K00946	K00941,K03147,K03148,K03149,K03150,K03151,K03154
+M00526	16.67	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	Pathway modules; Amino acid metabolism; Lysine metabolism	K00928	K00133,K00215,K01586,K01714,K03340
+M00609	16.67	Cysteine biosynthesis, methionine => cysteine	Pathway modules; Amino acid metabolism; Cysteine and methionine metabolism	K01243	K00789,K07173,K17216,K17217,K17462
+M00873	16.67	Fatty acid biosynthesis in mitochondria, animals	Pathway modules; Lipid metabolism; Fatty acid metabolism	K09458	K00645,K03955,K07512,K11539,K13370,K18660,K22540
+M00892	16.67	UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc	Pathway modules; Carbohydrate metabolism; Other carbohydrate metabolism	K00845	K00621,K00820,K00972,K01810,K01836
+M00913	16.67	Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00077	K00128,K00606,K01918,K13367
+M00860	14.29	Bacillus anthracis pathogenicity signature, polyglutamic acid capsule biosynthesis	Signature modules; Gene set; Pathogenicity	K07282	K01932,K22116,K22976,K22977,K22980,K22981
+M00914	14.29	Coenzyme A biosynthesis, archaea, 2-oxoisovalerate => 4-phosphopantoate => CoA	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K00077	K00606,K02201,K06982,K09722,K09735,K13038
+M00956	14.29	Lysine degradation, bacteria, L-lysine => succinate	Pathway modules; Amino acid metabolism; Lysine metabolism	K00135	K00137,K01582,K07250,K09251,K15736,K15737
+M00030	12.5	Lysine biosynthesis, AAA pathway, 2-oxoglutarate => 2-aminoadipate => lysine	Pathway modules; Amino acid metabolism; Lysine metabolism	K00290	K00143,K00293,K00838,K01655,K01705,K05824,K17450
+M00868	12.5	Heme biosynthesis, animals and fungi, glycine => heme	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K01719	K00228,K00231,K00643,K01599,K01698,K01749,K01772
+M00356	11.11	Methanogenesis, methanol => methane	Pathway modules; Energy metabolism; Methane metabolism	K03388	K00399,K00401,K00402,K03389,K03390,K04480,K14080,K14081
+M00769	11.11	Multidrug resistance, efflux pump MexPQ-OpmE	Signature modules; Gene set; Drug resistance	K19594	K18304,K19591,K19593,K19595
+M00926	11.11	Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K01719	K00231,K00435,K01599,K01698,K01749,K01772,K01845,K02492
+M00376	10.19	3-Hydroxypropionate bi-cycle	Pathway modules; Energy metabolism; Carbon fixation	K00241,K01679,K01961,K02160	K00239,K00240,K01847,K01962,K01963,K05606,K08691,K09709,K14449,K14468,K14469,K14470,K14471,K14472,K15052
+M00152	10.0	Cytochrome bc1 complex	Pathway modules; Energy metabolism; ATP synthesis	K00411	K00412,K00413,K00414,K00415,K00416,K00417,K00418,K00419,K00420
+M00374	9.62	Dicarboxylate-hydroxybutyrate cycle	Pathway modules; Energy metabolism; Carbon fixation	K00170,K00241,K01595	K00024,K00169,K00171,K00172,K00239,K00240,K00626,K01007,K01677,K01678,K01902,K01903,K14465,K14467,K14534,K15016,K15038
+M00924	9.09	Cobalamin biosynthesis, anaerobic, uroporphyrinogen III => sirohydrochlorin => cobyrinate a,c-diamide	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K02190	K00595,K02188,K02189,K02224,K02302,K03394,K05895,K05934,K05936,K06042
+M00563	8.33	Methanogenesis, methylamine/dimethylamine/trimethylamine => methane	Pathway modules; Energy metabolism; Methane metabolism	K03388	K00399,K00401,K00402,K03389,K03390,K14082,K16177
+M00725	8.33	Cationic antimicrobial peptide (CAMP) resistance, dltABCD operon	Signature modules; Gene set; Drug resistance	K03740	K03367,K03739,K14188,K19077,K19078
+M00620	7.14	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	Pathway modules; Energy metabolism; Carbon fixation	K00170,K00174	K00024,K00169,K00171,K00172,K00175,K00176,K00177,K01677,K01678,K01902,K01903,K01959,K01960,K18209,K18210
+M00154	6.67	Cytochrome c oxidase	Pathway modules; Energy metabolism; ATP synthesis	K02261	K02256,K02257,K02258,K02259,K02260,K02262,K02263,K02264,K02265,K02266,K02267,K02268,K02270,K02272
+M00567	4.17	Methanogenesis, CO2 => methane	Pathway modules; Energy metabolism; Methane metabolism	K03388	K00200,K00201,K00202,K00203,K00205,K00319,K00320,K00399,K00401,K00402,K00577,K00578,K00579,K00580,K00581,K00584,K00672,K01499,K03389,K03390
+M00925	3.03	Cobalamin biosynthesis, aerobic, uroporphyrinogen III => precorrin 2 => cobyrinate a,c-diamide	Pathway modules; Metabolism of cofactors and vitamins; Cofactor and vitamin metabolism	K02230	K00595,K02224,K02228,K02229,K02303,K03394,K05895,K05934,K05936,K06042,K09882,K09883

@@ -1,0 +1,635 @@
+ID	Function	Gene	Count
+TIGR00002	ribosomal protein bS16	rpsP	7
+TIGR00005	pseudouridine synthase, RluA family		6
+TIGR00006	16S rRNA (cytosine(1402)-N(4))-methyltransferase	rsmH	11
+TIGR00008	translation initiation factor IF-1	infA	7
+TIGR00010	hydrolase, TatD family		4
+TIGR00011	Cys-tRNA(Pro) deacylase	ybaK	5
+TIGR00012	ribosomal protein uL29	rpmC	3
+TIGR00016	acetate kinase	ackA	10
+TIGR00017	cytidylate kinase	cmk	6
+TIGR00019	peptide chain release factor 1	prfA	25
+TIGR00020	peptide chain release factor 2	prfB	19
+TIGR00021	ribose 5-phosphate isomerase A	rpiA	8
+TIGR00030	ribosomal protein bS21	rpsU	1
+TIGR00042	non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family	rdgB	1
+TIGR00043	rRNA maturation RNase YbeY	ybeY	3
+TIGR00045	glycerate kinase		2
+TIGR00048	23S rRNA (adenine(2503)-C(2))-methyltransferase	rlmN	2
+TIGR00054	RIP metalloprotease RseP	rseP	4
+TIGR00055	di-trans,poly-cis-decaprenylcistransferase	uppS	8
+TIGR00057	tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family		1
+TIGR00059	ribosomal protein bL17	rplQ	2
+TIGR00060	ribosomal protein uL18	rplR	6
+TIGR00062	ribosomal protein bL27	rpmA	4
+TIGR00064	signal recognition particle-docking protein FtsY	ftsY	15
+TIGR00065	cell division protein FtsZ	ftsZ	16
+TIGR00067	glutamate racemase	murI	3
+TIGR00069	histidinol dehydrogenase	hisD	1
+TIGR00078	nicotinate-nucleotide diphosphorylase (carboxylating)	nadC	16
+TIGR00079	peptide deformylase	def	1
+TIGR00081	phosphoribosylaminoimidazolesuccinocarboxamide synthase	purC	3
+TIGR00086	SsrA-binding protein	smpB	6
+TIGR00088	tRNA (guanine(37)-N(1))-methyltransferase	trmD	8
+TIGR00090	ribosome silencing factor	rsfS	1
+TIGR00091	tRNA (guanine-N(7)-)-methyltransferase	trmB	3
+TIGR00092	GTP-binding protein YchF	ychF	15
+TIGR00096	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	rsmI	3
+TIGR00097	hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	thiD	11
+TIGR00099	Cof-like hydrolase		7
+TIGR00101	urease accessory protein UreG	ureG	2
+TIGR00107	purine nucleoside phosphorylase	deoD	10
+TIGR00110	dihydroxy-acid dehydratase	ilvD	1
+TIGR00113	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	queA	24
+TIGR00115	trigger factor	tig	2
+TIGR00116	translation elongation factor Ts	tsf	7
+TIGR00117	aconitate hydratase 2	acnB	1
+TIGR00126	deoxyribose-phosphate aldolase	deoC	2
+TIGR00131	galactokinase	galK	1
+TIGR00132	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit	gatA	25
+TIGR00133	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, B subunit	gatB	7
+TIGR00136	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	gidA	70
+TIGR00137	tRNA:m(5)U-54 methyltransferase	trmFO	32
+TIGR00138	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	rsmG	4
+TIGR00147	lipid kinase, YegS/Rv2252/BmrU family		2
+TIGR00159	TIGR00159 family protein		12
+TIGR00160	methylglyoxal synthase	mgsA	11
+TIGR00168	translation initiation factor IF-3	infC	14
+TIGR00170	3-isopropylmalate dehydratase, large subunit	leuC	2
+TIGR00171	3-isopropylmalate dehydratase, small subunit	leuD	1
+TIGR00174	tRNA dimethylallyltransferase	miaA	5
+TIGR00180	ParB/RepB/Spo0J family partition protein		1
+TIGR00181	oligoendopeptidase F	pepF	18
+TIGR00182	fatty acid/phospholipid synthesis protein PlsX	plsX	2
+TIGR00184	adenylosuccinate synthase	purA	37
+TIGR00185	tRNA (cytidine(34)-2'-O)-methyltransferase	trmL	5
+TIGR00186	RNA methyltransferase, TrmH family, group 3		5
+TIGR00194	excinuclease ABC subunit C	uvrC	7
+TIGR00198	catalase/peroxidase HPI	katG	1
+TIGR00200	competence/damage-inducible protein CinA N-terminal domain		3
+TIGR00211	glycine--tRNA ligase, beta subunit	glyS	7
+TIGR00225	C-terminal processing peptidase		2
+TIGR00232	transketolase	tkt	38
+TIGR00233	tryptophan--tRNA ligase	trpS	2
+TIGR00234	tyrosine--tRNA ligase	tyrS	11
+TIGR00235	uridine kinase	udk	8
+TIGR00236	UDP-N-acetylglucosamine 2-epimerase		17
+TIGR00237	exodeoxyribonuclease VII, large subunit	xseA	26
+TIGR00244	transcriptional regulator NrdR	nrdR	10
+TIGR00245	TIGR00245 family protein		1
+TIGR00256	D-tyrosyl-tRNA(Tyr) deacylase	dtd	5
+TIGR00257	uncharacterized protein, YigZ family		7
+TIGR00274	N-acetylmuramic acid 6-phosphate etherase	murQ	24
+TIGR00278	putative membrane protein insertion efficiency factor	yidD	4
+TIGR00282	metallophosphoesterase, MG_246/BB_0505 family		10
+TIGR00331	heat-inducible transcription repressor HrcA	hrcA	6
+TIGR00334	ribonuclease M5	rnmV	7
+TIGR00336	orotate phosphoribosyltransferase	pyrE	3
+TIGR00337	CTP synthase	pyrG	32
+TIGR00342	tRNA sulfurtransferase ThiI	thiI	6
+TIGR00344	alanine--tRNA ligase	alaS	18
+TIGR00355	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	purH	18
+TIGR00357	methionine-R-sulfoxide reductase	msrB	11
+TIGR00359	PTS system, cellobiose-specific IIC component	celB	6
+TIGR00362	chromosomal replication initiator protein DnaA	dnaA	27
+TIGR00366	TIGR00366 family protein		2
+TIGR00382	ATP-dependent Clp protease, ATP-binding subunit ClpX	clpX	29
+TIGR00388	glycine--tRNA ligase, alpha subunit	glyQ	17
+TIGR00390	ATP-dependent protease HslVU, ATPase subunit	hslU	29
+TIGR00392	isoleucine--tRNA ligase	ileS	30
+TIGR00394	PTS system, lactose-specific IIC component		27
+TIGR00396	leucine--tRNA ligase	leuS	55
+TIGR00398	methionine--tRNA ligase	metG	19
+TIGR00399	methionine--tRNA ligase, beta subunit	metG	5
+TIGR00401	peptide-methionine (S)-S-oxide reductase	msrA	5
+TIGR00406	ribosomal protein L11 methyltransferase	prmA	3
+TIGR00409	proline--tRNA ligase	proS	19
+TIGR00410	PTS system, lactose/cellobiose family IIC component		6
+TIGR00414	serine--tRNA ligase	serS	97
+TIGR00416	DNA repair protein RadA	radA	46
+TIGR00418	threonine--tRNA ligase	thrS	40
+TIGR00420	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	trmU	12
+TIGR00422	valine--tRNA ligase	valS	57
+TIGR00426	competence protein ComEA helix-hairpin-helix repeat region		3
+TIGR00430	tRNA-guanine transglycosylase	tgt	42
+TIGR00431	tRNA pseudouridine(55) synthase	truB	1
+TIGR00435	cysteine--tRNA ligase	cysS	22
+TIGR00436	GTP-binding protein Era	era	13
+TIGR00437	ferrous iron transport protein B	feoB	21
+TIGR00440	glutamine--tRNA ligase	glnS	1
+TIGR00442	histidine--tRNA ligase	hisS	10
+TIGR00445	phospho-N-acetylmuramoyl-pentapeptide-transferase	mraY	5
+TIGR00447	aminoacyl-tRNA hydrolase	pth	11
+TIGR00449	tRNA-guanine family transglycosylase		1
+TIGR00450	tRNA modification GTPase TrmE	trmE	24
+TIGR00456	arginine--tRNA ligase	argS	2
+TIGR00457	asparagine--tRNA ligase	asnS	21
+TIGR00459	aspartate--tRNA ligase	aspS	16
+TIGR00460	methionyl-tRNA formyltransferase	fmt	14
+TIGR00461	glycine dehydrogenase	gcvP	1
+TIGR00464	glutamate--tRNA ligase	gltX	20
+TIGR00468	phenylalanine--tRNA ligase, alpha subunit	pheS	14
+TIGR00472	phenylalanine--tRNA ligase, beta subunit	pheT	13
+TIGR00478	TlyA family rRNA methyltransferase/putative hemolysin		6
+TIGR00479	23S rRNA (uracil-5-)-methyltransferase RumA	rumA	6
+TIGR00484	translation elongation factor G	fusA	85
+TIGR00485	translation elongation factor Tu	tuf	81
+TIGR00487	translation initiation factor IF-2	infB	29
+TIGR00492	alanine racemase	alr	1
+TIGR00493	ATP-dependent Clp endopeptidase, proteolytic subunit ClpP	clpP	10
+TIGR00496	ribosome recycling factor	frr	14
+TIGR00499	lysine--tRNA ligase	lysS	41
+TIGR00500	methionine aminopeptidase, type I	map	4
+TIGR00502	glucosamine-6-phosphate deaminase	nagB	5
+TIGR00503	peptide chain release factor 3	prfC	31
+TIGR00504	pyroglutamyl-peptidase I	pcp	8
+TIGR00513	acetyl-CoA carboxylase, carboxyl transferase, alpha subunit	accA	15
+TIGR00514	acetyl-CoA carboxylase, biotin carboxylase subunit	accC	39
+TIGR00515	acetyl-CoA carboxylase, carboxyl transferase, beta subunit	accD	15
+TIGR00517	acyl carrier protein	acpP	1
+TIGR00531	acetyl-CoA carboxylase, biotin carboxyl carrier protein	accB	8
+TIGR00538	oxygen-independent coproporphyrinogen III oxidase	hemN	1
+TIGR00545	lipoyltransferase and lipoate-protein ligase		11
+TIGR00549	mevalonate kinase	mvk	4
+TIGR00550	quinolinate synthetase complex, A subunit	nadA	12
+TIGR00551	L-aspartate oxidase	nadB	13
+TIGR00552	NAD+ synthetase	nadE	2
+TIGR00554	pantothenate kinase	coaA	12
+TIGR00563	16S rRNA (cytosine(967)-C(5))-methyltransferase	rsmB	8
+TIGR00567	DNA-3-methyladenine glycosylase		1
+TIGR00575	DNA ligase, NAD-dependent	ligA	14
+TIGR00577	DNA-formamidopyrimidine glycosylase	mutM	2
+TIGR00580	transcription-repair coupling factor	mfd	59
+TIGR00585	DNA mismatch repair protein MutL	mutL	23
+TIGR00587	apurinic endonuclease (APN1)		5
+TIGR00589	methylated-DNA--[protein]-cysteine S-methyltransferase		10
+TIGR00593	DNA polymerase I	polA	39
+TIGR00594	DNA polymerase III, alpha subunit	dnaE	25
+TIGR00595	primosomal protein N'	priA	36
+TIGR00608	DNA repair protein RadC		2
+TIGR00611	DNA replication and repair protein RecF	recF	4
+TIGR00615	recombination protein RecR	recR	5
+TIGR00618	exonuclease SbcC		4
+TIGR00619	exonuclease SbcCD, D subunit	sbcD	2
+TIGR00621	single-stranded DNA-binding protein	ssb	8
+TIGR00624	DNA-3-methyladenine glycosylase I	tag	2
+TIGR00628	uracil-DNA glycosylase	ung	4
+TIGR00630	excinuclease ABC subunit A	uvrA	64
+TIGR00631	excinuclease ABC subunit B	uvrB	62
+TIGR00634	DNA repair protein RecN	recN	11
+TIGR00635	Holliday junction DNA helicase RuvB	ruvB	31
+TIGR00639	phosphoribosylglycinamide formyltransferase	purN	5
+TIGR00643	ATP-dependent DNA helicase RecG	recG	32
+TIGR00644	single-stranded-DNA-specific exonuclease RecJ	recJ	6
+TIGR00647	DNA-binding protein WhiA	whiA	7
+TIGR00648	recombination protein U	recU	11
+TIGR00649	beta-CASP ribonuclease, RNase J family		11
+TIGR00651	phosphate acetyltransferase	pta	11
+TIGR00653	glutamine synthetase, type I	glnA	20
+TIGR00658	ornithine carbamoyltransferase	argF	29
+TIGR00665	replicative DNA helicase	dnaB	29
+TIGR00670	aspartate carbamoyltransferase	pyrB	4
+TIGR00674	4-hydroxy-tetrahydrodipicolinate synthase	dapA	1
+TIGR00678	DNA polymerase III, delta' subunit	holB	1
+TIGR00679	HPr(Ser) kinase/phosphatase	hprK	10
+TIGR00680	K+-transporting ATPase, A subunit	kdpA	2
+TIGR00691	RelA/SpoT family protein		25
+TIGR00694	hydroxyethylthiazole kinase	thiM	2
+TIGR00695	mannonate dehydratase	uxuA	11
+TIGR00717	ribosomal protein bS1	rpsA	2
+TIGR00718	L-serine dehydratase, iron-sulfur-dependent, alpha subunit	sdaAA	47
+TIGR00719	L-serine dehydratase, iron-sulfur-dependent, beta subunit	sdaAB	8
+TIGR00732	DNA protecting protein DprA	dprA	1
+TIGR00735	imidazoleglycerol phosphate synthase, cyclase subunit	hisF	4
+TIGR00737	putative TIM-barrel protein, nifR3 family		21
+TIGR00744	ROK family protein (putative glucokinase)		14
+TIGR00746	carbamate kinase	arcC	18
+TIGR00747	3-oxoacyl-[acyl-carrier-protein] synthase III	fabH	1
+TIGR00755	ribosomal RNA small subunit methyltransferase A	rsmA	1
+TIGR00757	ribonuclease, Rne/Rng family		4
+TIGR00759	pyruvate dehydrogenase (acetyl-transferring), homodimeric type	aceE	2
+TIGR00760	L-ribulose-5-phosphate 4-epimerase	araD	21
+TIGR00763	endopeptidase La	lon	1
+TIGR00767	transcription termination factor Rho	rho	50
+TIGR00783	citrate carrier protein, CCS family		5
+TIGR00790	formate/nitrite transporter	fnt	5
+TIGR00792	sugar (Glycoside-Pentoside-Hexuronide) transporter	gph	7
+TIGR00794	potassium uptake protein	kup	2
+TIGR00796	branched-chain amino acid transport system II carrier protein	brnQ	6
+TIGR00801	uracil-xanthine permease		2
+TIGR00804	nucleoside transporter, NupC family		7
+TIGR00822	PTS system, mannose/fructose/sorbose family, IIC component		8
+TIGR00823	PTS system, lactose-specific IIa component	lacF	1
+TIGR00828	PTS system, mannose/fructose/sorbose family, IID component		14
+TIGR00829	PTS system, Fru family, IIB component		2
+TIGR00848	PTS system, fructose subfamily, IIA component	fruA	1
+TIGR00854	PTS system, mannose/fructose/sorbose family, IIB component		1
+TIGR00855	ribosomal protein bL12	rplL	4
+TIGR00857	dihydroorotase, multifunctional complex type	pyrC	14
+TIGR00871	glucose-6-phosphate dehydrogenase	zwf	16
+TIGR00873	6-phosphogluconate dehydrogenase (decarboxylating)	gnd	43
+TIGR00874	transaldolase	tal	4
+TIGR00877	phosphoribosylamine--glycine ligase	purD	4
+TIGR00878	phosphoribosylformylglycinamidine cyclo-ligase	purM	6
+TIGR00884	GMP synthase (glutamine-hydrolyzing), C-terminal domain	guaA	30
+TIGR00888	GMP synthase (glutamine-hydrolyzing), N-terminal domain	guaA	10
+TIGR00904	cell shape determining protein, MreB/Mrl family		2
+TIGR00909	amino acid transporter		1
+TIGR00924	amino acid/peptide transporter (Peptide:H+ symporter)		4
+TIGR00928	adenylosuccinate lyase	purB	7
+TIGR00931	Na+/H+ antiporter NhaC	nhaC	2
+TIGR00933	potassium uptake protein, TrkH family		4
+TIGR00937	chromate efflux transporter	chrA	1
+TIGR00952	ribosomal protein uS15	rpsO	9
+TIGR00959	signal recognition particle protein	ffh	36
+TIGR00962	ATP synthase F1, alpha subunit	atpA	44
+TIGR00963	preprotein translocase, SecA subunit	secA	43
+TIGR00964	preprotein translocase, SecE subunit	secE	1
+TIGR00965	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	dapD	1
+TIGR00967	preprotein translocase, SecY subunit	secY	16
+TIGR00968	sulfate ABC transporter, ATP-binding protein	cysA	2
+TIGR00972	phosphate ABC transporter, ATP-binding protein	pstB	38
+TIGR00974	phosphate ABC transporter, permease protein PstA	pstA	5
+TIGR00979	fumarate hydratase, class II	fumC	1
+TIGR00981	ribosomal protein uS12	rpsL	15
+TIGR01003	phosphocarrier, HPr family		3
+TIGR01009	ribosomal protein uS3	rpsC	10
+TIGR01011	ribosomal protein uS2	rpsB	21
+TIGR01017	ribosomal protein uS4	rpsD	10
+TIGR01021	ribosomal protein uS5	rpsE	7
+TIGR01022	ribosomal protein bL36	rpmJ	4
+TIGR01024	ribosomal protein bL19	rplS	11
+TIGR01027	glutamate 5-kinase	proB	1
+TIGR01029	ribosomal protein uS7	rpsG	13
+TIGR01030	ribosomal protein bL34	rpmH	1
+TIGR01031	ribosomal protein bL32	rpmF	2
+TIGR01032	ribosomal protein bL20	rplT	8
+TIGR01033	DNA-binding regulatory protein, YebC/PmpR family		18
+TIGR01034	methionine adenosyltransferase	metK	13
+TIGR01037	dihydroorotate dehydrogenase family protein		18
+TIGR01039	ATP synthase F1, beta subunit	atpD	45
+TIGR01044	ribosomal protein uL22	rplV	9
+TIGR01049	ribosomal protein uS10	rpsJ	11
+TIGR01050	ribosomal protein uS19	rpsS	3
+TIGR01051	DNA topoisomerase I	topA	18
+TIGR01056	DNA topoisomerase III	topB	11
+TIGR01058	DNA topoisomerase IV, B subunit	parE	39
+TIGR01059	DNA gyrase, B subunit	gyrB	47
+TIGR01060	phosphopyruvate hydratase	eno	40
+TIGR01061	DNA topoisomerase IV, A subunit	parC	38
+TIGR01062	DNA topoisomerase IV, A subunit	parC	1
+TIGR01063	DNA gyrase, A subunit	gyrA	61
+TIGR01064	pyruvate kinase	pyk	25
+TIGR01066	ribosomal protein uL13	rplM	2
+TIGR01067	ribosomal protein uL14	rplN	6
+TIGR01068	thioredoxin	trxA	1
+TIGR01069	MutS2 family protein		22
+TIGR01070	DNA mismatch repair protein MutS	mutS	50
+TIGR01071	ribosomal protein uL15	rplO	7
+TIGR01072	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	murA	21
+TIGR01073	ATP-dependent DNA helicase PcrA	pcrA	39
+TIGR01078	arginine deiminase	arcA	16
+TIGR01079	ribosomal protein uL24	rplX	3
+TIGR01081	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase	mpl	2
+TIGR01083	endonuclease III	nth	6
+TIGR01084	A/G-specific adenine glycosylase	mutY	15
+TIGR01087	UDP-N-acetylmuramoylalanine--D-glutamate ligase	murD	1
+TIGR01090	adenine phosphoribosyltransferase	apt	6
+TIGR01091	uracil phosphoribosyltransferase	upp	4
+TIGR01093	3-dehydroquinate dehydratase, type I	aroD	2
+TIGR01097	phosphonate ABC transporter, permease protein PhnE	phnE	3
+TIGR01099	UTP--glucose-1-phosphate uridylyltransferase	galU	1
+TIGR01110	malonate decarboxylase, alpha subunit	mdcA	1
+TIGR01116	calcium-translocating P-type ATPase, SERCA-type		12
+TIGR01118	galactose-6-phosphate isomerase, LacA subunit	lacA	22
+TIGR01119	galactose-6-phosphate isomerase, LacB subunit	lacB	15
+TIGR01120	ribose 5-phosphate isomerase B	rpiB	1
+TIGR01127	threonine ammonia-lyase	ilvA	1
+TIGR01134	amidophosphoribosyltransferase	purF	2
+TIGR01135	glutamine-fructose-6-phosphate transaminase (isomerizing)	glmS	15
+TIGR01141	histidinol-phosphate transaminase	hisC	1
+TIGR01143	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	murF	7
+TIGR01146	ATP synthase F1, gamma subunit	atpG	4
+TIGR01161	phosphoribosylaminoimidazole carboxylase, ATPase subunit	purK	3
+TIGR01162	phosphoribosylaminoimidazole carboxylase, catalytic subunit	purE	14
+TIGR01163	ribulose-phosphate 3-epimerase	rpe	4
+TIGR01164	ribosomal protein uL16	rplP	7
+TIGR01169	ribosomal protein uL1	rplA	17
+TIGR01171	ribosomal protein uL2	rplB	46
+TIGR01173	UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase	glmU	7
+TIGR01179	UDP-glucose 4-epimerase GalE	galE	16
+TIGR01180	putative alpha-1,2-mannosidase		3
+TIGR01181	dTDP-glucose 4,6-dehydratase	rfbB	17
+TIGR01182	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase	eda	1
+TIGR01186	glycine betaine/L-proline transport ATP binding subunit	proV	16
+TIGR01187	polyamine ABC transporter, ATP-binding protein		22
+TIGR01188	daunorubicin resistance ABC transporter, ATP-binding protein		2
+TIGR01189	heme ABC exporter, ATP-binding protein CcmA	ccmA	2
+TIGR01192	glucan exporter ATP-binding protein		4
+TIGR01197	metal ion transporter, metal ion (Mn2+/Fe2+) transporter (Nramp) family		4
+TIGR01203	hypoxanthine phosphoribosyltransferase	hpt	4
+TIGR01205	D-alanine--D-alanine ligase		8
+TIGR01207	glucose-1-phosphate thymidylyltransferase	rfbA	35
+TIGR01212	radical SAM protein, TIGR01212 family		2
+TIGR01214	dTDP-4-dehydrorhamnose reductase	rfbD	5
+TIGR01220	phosphomevalonate kinase		30
+TIGR01221	dTDP-4-dehydrorhamnose 3,5-epimerase	rfbC	5
+TIGR01231	tagatose-6-phosphate kinase	lacC	17
+TIGR01232	tagatose 1,6-diphosphate aldolase	lacD	57
+TIGR01233	6-phospho-beta-galactosidase	lacG	40
+TIGR01238	delta-1-pyrroline-5-carboxylate dehydrogenase		1
+TIGR01239	galactose-1-phosphate uridylyltransferase	galT	34
+TIGR01240	diphosphomevalonate decarboxylase	mvaD	9
+TIGR01241	ATP-dependent metallopeptidase HflB	hflB	45
+TIGR01245	anthranilate phosphoribosyltransferase	trpD	2
+TIGR01251	ribose-phosphate diphosphokinase	prs	28
+TIGR01255	formate acetyltransferase	pflB	38
+TIGR01258	phosphoglycerate mutase 1 family		15
+TIGR01259	comEA protein		1
+TIGR01260	ATP synthase F0, C subunit	atpE	7
+TIGR01280	exodeoxyribonuclease VII, small subunit	xseB	4
+TIGR01292	thioredoxin-disulfide reductase	trxB	15
+TIGR01296	aspartate-semialdehyde dehydrogenase	asd	1
+TIGR01302	inosine-5'-monophosphate dehydrogenase	guaB	23
+TIGR01306	guanosine monophosphate reductase	guaC	36
+TIGR01308	ribosomal protein uL30	rpmD	5
+TIGR01312	xylulokinase	xylB	5
+TIGR01314	gluconate kinase	gntK	35
+TIGR01325	O-succinylhomoserine sulfhydrylase	metZ	3
+TIGR01326	O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase		1
+TIGR01341	aconitate hydratase 1	acnA	1
+TIGR01347	dihydrolipoyllysine-residue succinyltransferase, E2 component of oxoglutarate dehydrogenase (succinyl-transferring) complex	sucB	2
+TIGR01350	dihydrolipoyl dehydrogenase	lpdA	3
+TIGR01351	adenylate kinase		8
+TIGR01354	cytidine deaminase	cdd	3
+TIGR01357	3-dehydroquinate synthase	aroB	20
+TIGR01361	3-deoxy-7-phosphoheptulonate synthase	aroF	33
+TIGR01362	3-deoxy-8-phosphooctulonate synthase	kdsA	1
+TIGR01368	carbamoyl-phosphate synthase, small subunit	carA	28
+TIGR01369	carbamoyl-phosphate synthase, large subunit	carB	65
+TIGR01389	ATP-dependent DNA helicase RecQ	recQ	19
+TIGR01391	DNA primase	dnaG	6
+TIGR01393	elongation factor 4	lepA	57
+TIGR01394	GTP-binding protein TypA/BipA	typA	46
+TIGR01395	flagellar basal-body rod protein FlgC	flgC	1
+TIGR01405	DNA polymerase III, alpha subunit, Gram-positive type	polC	73
+TIGR01407	putative DnaQ family exonuclease/DinG family helicase		15
+TIGR01415	pyridoxal-phosphate dependent TrpB-like enzyme		5
+TIGR01417	phosphoenolpyruvate-protein phosphotransferase	ptsP	39
+TIGR01427	PTS system, Fru family, IIC component		5
+TIGR01435	glutamate--cysteine ligase/glutathione synthase	gshAB	17
+TIGR01448	helicase, RecD/TraA family		5
+TIGR01450	exodeoxyribonuclease V, gamma subunit	recC	2
+TIGR01455	phosphoglucosamine mutase	glmM	10
+TIGR01457	HAD hydrolase, TIGR01457 family		7
+TIGR01462	transcription elongation factor GreA	greA	11
+TIGR01481	catabolite control protein A	ccpA	13
+TIGR01494	HAD ATPase, P-type, family IC		13
+TIGR01499	bifunctional protein FolC	folC	14
+TIGR01507	squalene-hopene cyclase	shc	1
+TIGR01510	pantetheine-phosphate adenylyltransferase	coaD	4
+TIGR01511	copper-translocating P-type ATPase		11
+TIGR01512	cadmium-translocating P-type ATPase	cadA	3
+TIGR01513	nicotinate phosphoribosyltransferase	pncB	18
+TIGR01518	glycerol-3-phosphate cytidylyltransferase	tagD	2
+TIGR01522	calcium-transporting P-type ATPase, PMR1-type		8
+TIGR01524	magnesium-translocating P-type ATPase	mgtA	47
+TIGR01525	heavy metal translocating P-type ATPase		41
+TIGR01534	glyceraldehyde-3-phosphate dehydrogenase, type I	gap	21
+TIGR01536	asparagine synthase (glutamine-hydrolyzing)	asnB	2
+TIGR01538	phage portal protein, SPP1 family		2
+TIGR01553	formate dehydrogenase-N alpha subunit	fdnG	1
+TIGR01584	citrate lyase, alpha subunit	citF	81
+TIGR01587	CRISPR-associated helicase Cas3	cas3	1
+TIGR01588	citrate (pro-3S)-lyase, beta subunit	citE	40
+TIGR01608	citrate lyase acyl carrier protein	citD	3
+TIGR01632	ribosomal protein uL11	rplK	12
+TIGR01650	cobaltochelatase, CobS subunit	cobS	1
+TIGR01688	D-alanine--poly(phosphoribitol) ligase, subunit 2	dltC	2
+TIGR01696	phosphopentomutase	deoB	8
+TIGR01697	inosine/guanosine/xanthosine phosphorylase family		2
+TIGR01698	purine nucleotide phosphorylase		4
+TIGR01700	purine nucleoside phosphorylase I, inosine and guanosine-specific		18
+TIGR01714	phage replisome organizer, putative, N-terminal region		5
+TIGR01722	methylmalonate-semialdehyde dehydrogenase (acylating)	mmsA	2
+TIGR01726	amino ABC transporter, permease protein, 3-TM region, His/Glu/Gln/Arg/opine family		2
+TIGR01734	D-alanine--poly(phosphoribitol) ligase, subunit 1	dltA	22
+TIGR01736	phosphoribosylformylglycinamidine synthase II	purL	45
+TIGR01737	phosphoribosylformylglycinamidine synthase I	purQ	12
+TIGR01743	pur operon repressor PurR	purR	14
+TIGR01744	xanthine phosphoribosyltransferase	xpt	15
+TIGR01748	L-rhamnose isomerase	rhaA	44
+TIGR01750	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ	fabZ	8
+TIGR01760	phage tail tape measure protein, TP901 family, core region		4
+TIGR01770	proton-translocating NADH-quinone oxidoreductase, chain N		1
+TIGR01771	L-lactate dehydrogenase		14
+TIGR01774	glycyl radical enzyme, PFL2/glycerol dehydratase family		12
+TIGR01798	citrate (Si)-synthase	gltA	2
+TIGR01816	succinate dehydrogenase, flavoprotein subunit	sdhA	2
+TIGR01817	Nif-specific regulatory protein	nifA	1
+TIGR01821	5-aminolevulinic acid synthase	hemA	1
+TIGR01826	conserved hypothetical protein		9
+TIGR01830	3-oxoacyl-[acyl-carrier-protein] reductase	fabG	15
+TIGR01831	putative 3-oxoacyl-(acyl-carrier-protein) reductase		2
+TIGR01835	hydroxymethylglutaryl-CoA synthase		20
+TIGR01846	type I secretion system ATPase		2
+TIGR01853	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase LpxD	lpxD	1
+TIGR01859	fructose-1,6-bisphosphate aldolase, class II	fba	13
+TIGR01876	CRISPR-associated protein Cas5, subtype I-C/DVULG	cas5c	5
+TIGR01882	peptidase T	pepT	29
+TIGR01886	dipeptidase PepV	pepV	43
+TIGR01887	putative dipeptidase		16
+TIGR01906	integral membrane protein TIGR01906		2
+TIGR01930	acetyl-CoA C-acyltransferase		5
+TIGR01951	transcription antitermination factor NusB	nusB	2
+TIGR01953	transcription termination factor NusA	nusA	4
+TIGR01956	NusG family protein		4
+TIGR01966	ribonuclease PH	rph	17
+TIGR01974	proton-translocating NADH-quinone oxidoreductase, chain L		1
+TIGR01978	FeS assembly ATPase SufC	sufC	19
+TIGR01979	cysteine desulfurase, SufS family	sufS	41
+TIGR01980	FeS assembly protein SufB	sufB	35
+TIGR01981	FeS assembly protein SufD	sufD	11
+TIGR01990	beta-phosphoglucomutase	pgmB	16
+TIGR01994	SUF system FeS assembly protein, NifU family		10
+TIGR01995	PTS system, beta-glucoside-specific IIABC component		58
+TIGR01998	PTS system, N-acetylglucosamine-specific IIBC component	nagE	14
+TIGR02006	cysteine desulfurase IscS	iscS	2
+TIGR02012	protein RecA	recA	34
+TIGR02013	DNA-directed RNA polymerase, beta subunit	rpoB	149
+TIGR02027	DNA-directed RNA polymerase, alpha subunit	rpoA	21
+TIGR02037	peptidase Do		2
+TIGR02063	ribonuclease R	rnr	28
+TIGR02074	penicillin-binding protein, 1A family		25
+TIGR02075	UMP kinase	pyrH	15
+TIGR02091	glucose-1-phosphate adenylyltransferase	glgC	8
+TIGR02092	glucose-1-phosphate adenylyltransferase, GlgD subunit	glgD	7
+TIGR02095	glycogen/starch synthase, ADP-glucose type	glgA	5
+TIGR02109	coenzyme PQQ biosynthesis enzyme PqqE	pqqE	1
+TIGR02113	phosphopantothenoylcysteine decarboxylase	coaC	1
+TIGR02114	phosphopantothenate--cysteine ligase	coaB	17
+TIGR02135	phosphate transport system regulatory protein PhoU	phoU	7
+TIGR02138	phosphate ABC transporter, permease protein PstC	pstC	13
+TIGR02139	sulfate ABC transporter, permease protein CysT	cysT	3
+TIGR02151	isopentenyl-diphosphate delta-isomerase, type 2	fni	2
+TIGR02154	phosphate regulon transcriptional regulatory protein PhoB	phoB	4
+TIGR02168	chromosome segregation protein SMC	smc	30
+TIGR02176	pyruvate:ferredoxin (flavodoxin) oxidoreductase	nifJ	101
+TIGR02191	ribonuclease III	rnc	2
+TIGR02194	glutaredoxin-like protein NrdH	nrdH	1
+TIGR02203	lipid A export permease/ATP-binding protein MsbA	msbA	20
+TIGR02204	ABC transporter, permease/ATP-binding protein		13
+TIGR02211	lipoprotein releasing system, ATP-binding protein	lolD	8
+TIGR02224	tyrosine recombinase XerC	xerC	17
+TIGR02225	tyrosine recombinase XerD	xerD	10
+TIGR02227	signal peptidase I	lepB	2
+TIGR02290	oligoendopeptidase, pepF/M3 family		5
+TIGR02314	D-methionine ABC transporter, ATP-binding protein	metN	9
+TIGR02315	phosphonate ABC transporter, ATP-binding protein	phnC	24
+TIGR02327	conserved hypothetical integral membrane protein		6
+TIGR02328	conserved hypothetical protein		6
+TIGR02348	chaperonin GroL	groL	39
+TIGR02349	chaperone protein DnaJ	dnaJ	10
+TIGR02350	chaperone protein DnaK	dnaK	67
+TIGR02357	energy-coupled thiamine transporter ThiT	thiT	5
+TIGR02381	cold shock domain protein CspD	cspD	5
+TIGR02386	DNA-directed RNA polymerase, beta' subunit	rpoC	101
+TIGR02388	DNA-directed RNA polymerase, beta'' subunit		6
+TIGR02392	alternative sigma factor RpoH	rpoH	2
+TIGR02393	RNA polymerase sigma factor RpoD	rpoD	15
+TIGR02394	RNA polymerase sigma factor RpoS	rpoS	1
+TIGR02395	RNA polymerase sigma-54 factor	rpoN	2
+TIGR02397	DNA polymerase III, subunit gamma and tau	dnaX	27
+TIGR02403	alpha,alpha-phosphotrehalase	treC	8
+TIGR02432	tRNA(Ile)-lysidine synthetase	tilS	2
+TIGR02482	6-phosphofructokinase	pfkA	9
+TIGR02483	phosphofructokinase		1
+TIGR02487	anaerobic ribonucleoside-triphosphate reductase	nrdD	2
+TIGR02493	pyruvate formate-lyase 1-activating enzyme	pflA	5
+TIGR02494	glycyl-radical enzyme activating protein		3
+TIGR02538	type IV-A pilus assembly ATPase PilB	pilB	1
+TIGR02571	ComE operon protein 2		10
+TIGR02589	CRISPR-associated protein Cas7/Csd2, subtype I-C/DVULG	cas7c	19
+TIGR02614	cell division protein FtsW	ftsW	3
+TIGR02624	rhamnulose-1-phosphate aldolase	rhaD	12
+TIGR02625	L-rhamnose mutarotase	rhaM	1
+TIGR02627	rhamnulokinase	rhaB	7
+TIGR02630	xylose isomerase	xylA	46
+TIGR02633	D-xylose ABC transporter, ATP-binding protein	xylG	6
+TIGR02636	galactose mutarotase	galM	1
+TIGR02638	lactaldehyde reductase	fucO	17
+TIGR02639	ATP-dependent Clp protease ATP-binding subunit ClpA	clpA	6
+TIGR02643	thymidine phosphorylase	deoA	1
+TIGR02644	pyrimidine-nucleoside phosphorylase	pdp	27
+TIGR02651	ribonuclease Z	rnz	8
+TIGR02669	SpoIID/LytB domain		1
+TIGR02673	cell division ATP-binding protein FtsE	ftsE	10
+TIGR02712	urea carboxylase	uca	1
+TIGR02720	pyruvate oxidase	spxB	17
+TIGR02727	5-formyltetrahydrofolate cyclo-ligase		2
+TIGR02729	Obg family GTPase CgtA	cgtA	15
+TIGR02744	type-F conjugative transfer system protein TrbI	trbI	2
+TIGR02769	nickel import ATP-binding protein NikE	nikE	1
+TIGR02770	nickel import ATP-binding protein NikD	nikD	15
+TIGR02785	helicase-exonuclease AddAB, AddA subunit	addA	50
+TIGR02786	double-strand break repair protein AddB	addB	1
+TIGR02787	GTP-sensing transcriptional pleiotropic repressor CodY	codY	14
+TIGR02815	putative sugar isomerase, AgaS family		24
+TIGR02817	zinc-binding alcohol dehydrogenase family protein		1
+TIGR02818	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase		5
+TIGR02823	putative quinone oxidoreductase, YhdH/YhfP family		12
+TIGR02842	cytochrome o ubiquinol oxidase, subunit III	cyoC	1
+TIGR02843	cytochrome o ubiquinol oxidase, subunit I	cyoB	3
+TIGR02966	phosphate regulon sensor kinase PhoR	phoR	12
+TIGR02982	ABC exporter ATP-binding subunit, DevA family		5
+TIGR02988	S4 domain protein YaaA	yaaA	7
+TIGR03005	ectoine/hydroxyectoine ABC transporter, ATP-binding protein EhuA	ehuA	42
+TIGR03023	undecaprenyl-phosphate glucose phosphotransferase		3
+TIGR03025	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase		9
+TIGR03061	YhgE/Pip N-terminal domain		8
+TIGR03062	YhgE/Pip C-terminal domain		2
+TIGR03074	membrane-bound PQQ-dependent dehydrogenase, glucose/quinate/shikimate family		2
+TIGR03107	glutamyl aminopeptidase	pepA	33
+TIGR03137	peroxiredoxin	ahpC	15
+TIGR03140	alkyl hydroperoxide reductase subunit F	ahpF	1
+TIGR03143	putative alkyl hydroperoxide reductase F subunit		33
+TIGR03150	beta-ketoacyl-acyl-carrier-protein synthase II	fabF	62
+TIGR03152	formate-dependent cytochrome c nitrite reductase, c552 subunit	nrfA	1
+TIGR03156	GTP-binding protein HflX	hflX	27
+TIGR03173	xanthine permease	pbuX	6
+TIGR03181	pyruvate dehydrogenase (acetyl-transferring) E1 component, alpha subunit	pdhA	26
+TIGR03263	guanylate kinase	gmk	11
+TIGR03265	putative 2-aminoethylphosphonate ABC transporter, ATP-binding protein		14
+TIGR03284	thymidylate synthase	thyA	23
+TIGR03308	phosphonate metabolim protein, transferase hexapeptide repeat family		2
+TIGR03309	selenium-dependent molybdenum hydroxylase system protein, YqeB family		2
+TIGR03319	ribonuclease Y	rny	40
+TIGR03324	alternate F1F0 ATPase, F1 subunit alpha		2
+TIGR03346	ATP-dependent chaperone protein ClpB	clpB	159
+TIGR03355	type VI secretion protein, EvpB/VC_A0108 family		2
+TIGR03356	beta-galactosidase		1
+TIGR03393	indolepyruvate decarboxylase	ipdC	8
+TIGR03402	cysteine desulfurase NifS	nifS	7
+TIGR03415	choline ABC transporter, ATP-binding protein	choV	2
+TIGR03416	choline ABC transporter, permease protein	choW	9
+TIGR03423	penicillin-binding protein 2	mrdA	1
+TIGR03467	squalene-associated FAD-dependent desaturase	hpnE	1
+TIGR03476	putative membrane protein		1
+TIGR03534	protein-(glutamine-N5) methyltransferase, release factor-specific	prmC	1
+TIGR03540	LL-diaminopimelate aminotransferase		2
+TIGR03542	LL-diaminopimelate aminotransferase		1
+TIGR03544	DivIVA domain		6
+TIGR03561	peroxiredoxin, Ohr subfamily		1
+TIGR03591	polyribonucleotide nucleotidyltransferase	pnp	44
+TIGR03592	membrane protein insertase, YidC/Oxa1 family	yidC	4
+TIGR03594	ribosome-associated GTPase EngA	engA	20
+TIGR03595	Obg family GTPase CgtA, C-terminal extension	cgtA	2
+TIGR03596	ribosome biogenesis GTP-binding protein YlqF	ylqF	6
+TIGR03597	ribosome biogenesis GTPase YqeH	yqeH	16
+TIGR03598	ribosome biogenesis GTP-binding protein YsxC	ysxC	9
+TIGR03599	DAK2 domain fusion protein YloV		31
+TIGR03608	putative bacteriocin export ABC transporter, lactococcin 972 group		15
+TIGR03625	50S ribosomal protein uL3	rplC	12
+TIGR03631	ribosomal protein uS13	rpsM	11
+TIGR03632	ribosomal protein uS11	rpsK	15
+TIGR03635	ribosomal protein uS17	rpsQ	3
+TIGR03638	CRISPR-associated endonuclease Cas1, subtype I-E/ECOLI	cas1e	1
+TIGR03640	CRISPR-associated endonuclease Cas1, subtype I-C/DVULG	cas1c	32
+TIGR03654	ribosomal protein uL6	rplF	7
+TIGR03692	ATP-dependent protease HslVU, peptidase subunit	hslV	7
+TIGR03705	polyphosphate kinase 1	ppk1	1
+TIGR03714	accessory Sec system translocase SecA2	secA2	15
+TIGR03719	ATP-binding cassette protein, ChvD family		12
+TIGR03723	tRNA threonylcarbamoyl adenosine modification protein TsaD	tsaD	8
+TIGR03725	tRNA threonylcarbamoyl adenosine modification protein YeaZ	yeaZ	8
+TIGR03740	lantibiotic protection ABC transporter, ATP-binding subunit		4
+TIGR03766	conserved hypothetical integral membrane protein		9
+TIGR03781	Bacteroides conjugative transposon TraK protein	traK	1
+TIGR03783	Bacteroides conjugation system ATPase, TraG family	traG	2
+TIGR03787	proteobacterial dedicated sortase system response regulator	pdsR	1
+TIGR03796	NHLM bacteriocin system ABC transporter, peptidase/ATP-binding protein		1
+TIGR03801	aspartate 4-decarboxylase	aspD	23
+TIGR03802	aspartate-alanine antiporter	aspT	1
+TIGR03811	tyrosine decarboxylase	tdc	73
+TIGR03864	ABC transporter, ATP-binding subunit, PQQ-dependent alcohol dehydrogenase system		1
+TIGR03953	50S ribosomal protein uL4	rplD	10
+TIGR03955	[FeFe] hydrogenase H-cluster radical SAM maturase HydG	hydG	2
+TIGR04056	TonB-linked outer membrane protein, SusC/RagA family		1
+TIGR04091	D-alanyl-lipoteichoic acid biosynthesis protein DltB	dltB	19
+TIGR04092	D-alanyl-lipoteichoic acid biosynthesis protein DltD	dltD	12
+TIGR04130	UDP-N-acetylglucosamine 4,6-dehydratase/5-epimerase	fnlA	39
+TIGR04170	ribonucleoside-diphosphate reductase, class 1b, alpha subunit	nrdE	30
+TIGR04171	ribonucleoside-diphosphate reductase, class 1b, beta subunit	nrdF	17
+TIGR04265	cardiolipin synthase	cls	3
+TIGR04285	nucleoid occlusion protein	noc	6
+TIGR04350	putative C-S lyase		1
+TIGR04365	autonomous glycyl radical cofactor GrcA	grcA	6
+TIGR04397	accessory Sec system translocase SecA2	secA2	5
+TIGR04406	LPS export ABC transporter ATP-binding protein	lptB	2
+TIGR04456	LruC domain		1
+TIGR04480	D-proline reductase (dithiol), PrdA proprotein	prdA	52
+TIGR04481	proline reductase-associated electron transfer protein PrdC	prdC	28
+TIGR04483	D-proline reductase (dithiol), PrdB protein	prdB	46
+TIGR04520	energy-coupling factor transporter ATPase		21
+TIGR04521	energy-coupling factor transporter ATPase		26
+TIGR04567	DNA-directed RNA polymerase delta subunit	rpoE	6

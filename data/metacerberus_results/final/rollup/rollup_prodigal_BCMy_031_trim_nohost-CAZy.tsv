@@ -1,0 +1,25 @@
+L1	ID	Function	EC	FUN_ID	Count
+Carb binding modules	CBM50	chitopentaose binding		CBM	1
+Carb esterases	CE12	pectin acetylesterase	3.1.1.-	CE	4
+Carb esterases	CE9	N-acetylglucosamine 6-phosphate deacetylase	3.5.1.25	CE	4
+Glycoside hydrolase	GH1	beta-glucosidase	3.2.1.21	GH	12
+Glycoside hydrolase	GH101	endo-alpha-N-acetylgalactosaminidase	3.2.1.97	GH	10
+Glycoside hydrolase	GH105	unsaturated rhamnogalacturonyl hydrolase	3.2.1.172	GH	3
+Glycoside hydrolase	GH125	exo-alpha-1,6-mannosidase	3.2.1.163	GH	8
+Glycoside hydrolase	GH146	beta-L-arabinofuranosidase	3.2.1.185	GH	3
+Glycoside hydrolase	GH151	alpha-L-fucosidase	3.2.1.51	GH	3
+Glycoside hydrolase	GH154	Beta-glucuronidase; beta-1,6-D-glucuronidase	3.2.1.31	GH	4
+Glycoside hydrolase	GH170	6-phospho-N-acetylmuramidase	3.2.1.-	GH	5
+Glycoside hydrolase	GH20	beta-hexosaminidase	3.2.1.52	GH	1
+Glycoside hydrolase	GH28	polygalacturonase	3.2.1.15	GH	2
+Glycoside hydrolase	GH35	beta-galactosidase	3.2.1.23	GH	5
+Glycoside hydrolase	GH42	beta-galactosidase	3.2.1.23	GH	9
+Glycoside hydrolase	GH65	alpha,alpha-trehalase	3.2.1.28	GH	2
+Glycoside hydrolase	GH92	mannosyl-oligosaccharide alpha-1,2-mannosidase	3.2.1.113	GH	2
+Glycoside hydrolase	GH93	exo-alpha-L-1,5-arabinanase	3.2.1.-	GH	1
+Glycosyl trasferase	GT112	ADP-glyceromannoheptose: glycoprotein O-heptosyltransferase	2.4.99.-	GT	3
+Glycosyl trasferase	GT28	1,2-diacylglycerol 3-beta-galactosyltransferase	2.4.1.46	GT	2
+Glycosyl trasferase	GT5	UDP-Glc: glycogen glucosyltransferase	2.4.1.11	GT	1
+Glycosyl trasferase	GT51	murein polymerase	2.4.1.129	GT	1
+Polysacharide lyases	PL33	hyaluronate lyase	4.2.2.1	PL	2
+Polysacharide lyases	PL9	pectate lyase	4.2.2.2	PL	4

@@ -1,0 +1,84 @@
+L1	ID	Function	EC	UNIPROT ID	Count
+Virus protein with function beneficial for the host	VOG00260	Guanylate kinase		KGUA_HUMAN	3
+Virus protein with function beneficial for the host	VOG00580	RNA polymerase sigma factor RpoD		RPOD_ECOLI	6
+Function unknown	VOG01324	Terminase large subunit			4
+Virus protein with function beneficial for the host | Virus replication	VOG01469	DNA polymerase III subunit alpha		DPO3A_THEAQ	4
+Function unknown	VOG01904	Helix-turn-helix domain-containing protein			1
+Virus replication	VOG02518	Thymidylate synthase		TYSY_BPT4	4
+Virus protein with function beneficial for the host	VOG03338	PhoH-like protein		PHOL_BACSU	3
+Function unknown	VOG05712	DUF1642 domain-containing protein			4
+Function unknown	VOG09269	Chloramphenicol acetyltransferase			2
+Function unknown	VOG10427	Hypothetical protein			6
+Virus protein with function beneficial for the host	VOG11227	ABC transporter F family member 4		AB4F_ARATH	2
+Virus protein with function beneficial for the host | Virus replication	VOG11241	Multifunctional CCA protein		CCA_SHEPA	3
+Virus protein with function beneficial for the host	VOG12011	DNA topoisomerase 2-alpha		TOP2A_CRIGR	6
+Function unknown	VOG12029	Hypothetical protein			4
+Virus protein with function beneficial for the host	VOG12234	Serine hydroxymethyltransferase		GLYA_NITSB	6
+Virus protein with function beneficial for the host	VOG13448	ATP-dependent zinc metalloprotease FTSH 1, chloroplastic		FTSH1_ORYSJ	2
+Function unknown	VOG13817	UPF0335 protein Avi_3695		Y3695_ALLAM	1
+Function unknown	VOG13845	Tail length tape measure protein			3
+Function unknown	VOG14074	DnaJ-like protein R260		YR260_MIMIV	1
+Virus protein with function beneficial for the host	VOG14634	Chromosome partitioning protein ParA		PARA_CAUVN	1
+Virus protein with function beneficial for the host | Virus replication	VOG15191	Thymidine kinase		KITH_BPT4	1
+Virus protein with function beneficial for the host	VOG16479	UDP-galactopyranose mutase		GLF_MYCTU	1
+Virus protein with function beneficial for the host	VOG17365	Ribonucleoside-diphosphate reductase subunit beta		RIR2_BACSU	13
+Virus protein with function beneficial for the host	VOG17654	Glucose-1-phosphate thymidylyltransferase		RMLA_YEREN	3
+Virus protein with function beneficial for the host	VOG18561	Eukaryotic peptide chain release factor GTP-binding subunit ERF3A		ERF3A_HUMAN	2
+Virus protein with function beneficial for the host	VOG18566	DTDP-4-dehydrorhamnose 3,5-epimerase		RMLC_METTH	3
+Virus protein with function beneficial for the host	VOG20884	GMP reductase		GMPR_ONCVO	6
+Virus protein with function beneficial for the host	VOG20913	DNA topoisomerase medium subunit		TOP5_BPT4	3
+Virus protein with function beneficial for the host	VOG21362	Phosphoribosylformylglycinamidine cyclo-ligase		PUR5_SYNSC	1
+Virus protein with function beneficial for the host	VOG21951	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive		AROF_ECOLI	1
+Virus protein with function beneficial for the host	VOG22568	Ribonucleoside-diphosphate reductase subunit alpha		RIR1_MYCBO	8
+Virus protein with function beneficial for the host	VOG22863	Ribonucleoside-diphosphate reductase 2 subunit beta		RIR4_SALTY	2
+Function unknown	VOG24355	Uracil-DNA glycosylase		UNG_VACCA	5
+Virus protein with function beneficial for the host	VOG26984	ATP-dependent Clp protease ATP-binding subunit ClpX		CLPX_NOCSJ	2
+Function unknown	VOG28987	Replication terminator			8
+Virus protein with function beneficial for the host	VOG29087	Tyrosine--tRNA ligase 1		SYY1_VIBVY	1
+Function unknown	VOG29131	DNA primase			1
+Function unknown	VOG30606	Hypothetical protein			2
+Virus protein with function beneficial for the host	VOG30672	Dihydrofolate reductase		DYR_BPT4	3
+Function unknown	VOG30786	Single-stranded DNA-binding protein		SSB_MYCTU	10
+Virus protein with function beneficial for the host	VOG32455	Chaperonin GroEL		CH60_KARMG	2
+Function unknown	VOG33061	Hypothetical protein			1
+Function unknown	VOG33675	Involved in bacteriocin production or immunity			2
+Function unknown	VOG34613	Hypothetical protein			1
+Function unknown	VOG37263	Putative protein p41		VP41_BPAPS	1
+Virus protein with function beneficial for the host | Virus structure	VOG37466	DNA topoisomerase 1 type prokaryotic		TOP1P_MIMIV	3
+Function unknown	VOG39225	SsrA-binding protein		SSRP_KLEP7	1
+Virus protein with function beneficial for the host | Virus replication	VOG39242	Replicative DNA helicase		DNAC_BACSU	4
+Function unknown	VOG39454	AAA family ATPase			2
+Function unknown	VOG39935	Tail assembly chaperone			3
+Virus protein with function beneficial for the host	VOG40469	Anaerobic ribonucleoside-triphosphate reductase		NRDD_SALTY	17
+Function unknown	VOG40691	Hypothetical protein			2
+Virus protein with function beneficial for the host	VOG41563	Probable glutamine--fructose-6-phosphate aminotransferase [isomerizing]		GFAT_MIMIV	3
+Function unknown	VOG44330	Cold shock-like protein CspD		CSPD_VIBCH	3
+Function unknown	VOG45942	Hypothetical protein			1
+Virus protein with function beneficial for the host	VOG46482	Lysine--tRNA ligase		SYK_CRIGR	3
+Virus protein with function beneficial for the host	VOG50688	Autonomous glycyl radical cofactor		GRCA_BPT4	3
+Virus protein with function beneficial for the host	VOG50974	ATP-dependent Clp protease ATP-binding subunit ClpA		CLPA_ECOLI	40
+Function unknown	VOG51550	DNA primase			22
+Virus protein with function beneficial for the host	VOG53034	Bactoprenol glucosyl transferase		GTRB_BPSF5	1
+Function unknown	VOG53722	Hypothetical protein			13
+Function unknown	VOG55385	Carboxylate--amine ligase			1
+Function unknown	VOG56265	Superinfection exclusion			2
+Virus replication	VOG56411	Small ribosomal subunit protein bS21		RS21_YERPP	1
+Virus protein with function beneficial for the host | Virus replication	VOG56757	DNA ligase		DNLJ_CAMC1	4
+Function unknown	VOG57154	Hypothetical protein			4
+Virus protein with function beneficial for the host | Virus replication	VOG57177	Integrase		INTR_SACER	5
+Function unknown	VOG60362	DNA helicase			1
+Function unknown	VOG60711	Hypothetical protein			9
+Function unknown	VOG60876	SPbeta prophage-derived uncharacterized protein YorM		YORM_BACSU	7
+Function unknown	VOG61899	Anti-repressor Ant			1
+Function unknown	VOG62282	Ribonuclease R		RNR_BACSU	2
+Function unknown	VOG62698	Minor head protein			12
+Function unknown	VOG63305	Tail length tape measure protein			1
+Virus protein with function beneficial for the host	VOG64354	Exonuclease subunit 2		EXO2_BPR69	3
+Virus replication	VOG64443	Terminase small subunit		TERS_BPSF6	2
+Function unknown	VOG64671	FtsK/SpoIIIE-like protein			1
+Function unknown	VOG66140	Anti-repressor			6
+Function unknown	VOG66586	Tail length tape measure protein			4
+Function unknown	VOG67098	Hypothetical protein			3
+Virus protein with function beneficial for the virus | Virus replication | Virus structure	VOG67948	Capsid protein F		CAPSD_BPPHS	1
+Function unknown	VOG69026	Putative human platelet-binding protein			1
+Virus protein with function beneficial for the host	VOG71596	Protein Soj homolog		SOJ_TREPA	1

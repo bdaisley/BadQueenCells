@@ -1,0 +1,5 @@
+L1	L2	ID	Function	Gene	Count
+STREPTOGRAMIN	STREPTOGRAMIN	NF000311.1	Vat family streptogramin A O-acetyltransferase	vat	1
+PHENICOL	CHLORAMPHENICOL	NF000490.1	type B chloramphenicol O-acetyltransferase	catB	1
+TETRACYCLINE	TETRACYCLINE	NF012153.1	tetracycline resistance ribosomal protection protein	tet	1
+AMINOGLYCOSIDE	STREPTOMYCIN	NF012171.0	APH(6)-I family aminoglycoside O-phosphotransferase	aph(6)-I	1

@@ -1,0 +1,221 @@
+L1	L2	L3	L4	ID	Function	EC	Count
+06_Amino acid utilization biosynthesis metabolism	Lysine biosynthesis			K00013	hisD; histidinol dehydrogenase	1.1.1.23	2
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Histidine		K00013	hisD; histidinol dehydrogenase	1.1.1.23	2
+06_Amino acid utilization biosynthesis metabolism	Cysteine and methionine metabolism			K00133	asd; aspartate-semialdehyde dehydrogenase	1.2.1.11	1
+06_Amino acid utilization biosynthesis metabolism	Glycine, serine and threonine metabolism			K00133	asd; aspartate-semialdehyde dehydrogenase	1.2.1.11	1
+06_Amino acid utilization biosynthesis metabolism	Lysine biosynthesis			K00133	asd; aspartate-semialdehyde dehydrogenase	1.2.1.11	1
+06_Amino acid utilization biosynthesis metabolism	Methionine biosynthesis			K00133	asd; aspartate-semialdehyde dehydrogenase	1.2.1.11	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Oxaloacetate to lysine		K00133	asd; aspartate-semialdehyde dehydrogenase	1.2.1.11	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Cysteine and methionine		K00133	asd; aspartate-semialdehyde dehydrogenase	1.2.1.11	1
+06_Amino acid utilization biosynthesis metabolism	Lysine degradation VIII			K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16 1.2.1.79 1.2.1.20	4
+06_Amino acid utilization biosynthesis metabolism	Methionine degradation			K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16 1.2.1.79 1.2.1.20	4
+21_Cellular response to stress	Cellular response to stress			K00135	gabD; succinate-semialdehyde dehydrogenase / glutarate-semialdehyde dehydrogenase	1.2.1.16 1.2.1.79 1.2.1.20	4
+06_Amino acid utilization biosynthesis metabolism	Oxydation deamination			K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+)	1.4.1.4	2
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+)	1.4.1.4	2
+06_Amino acid utilization biosynthesis metabolism	Arginine and proline metabolism			K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+)	1.4.1.4	2
+11_Nitrogen cycle	Ammonia assimilation			K00262	E1.4.1.4, gdhA; glutamate dehydrogenase (NADP+)	1.4.1.4	2
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K00265	gltB; glutamate synthase (NADPH) large chain	1.4.1.13	2
+11_Nitrogen cycle	Ammonia assimilation			K00265	gltB; glutamate synthase (NADPH) large chain	1.4.1.13	2
+11_Nitrogen cycle	Ammonia assimilation			K00284	GLU, gltS; glutamate synthase (ferredoxin)	1.4.7.1	2
+06_Amino acid utilization biosynthesis metabolism	Valine, leucine and isoleucine degradation			K00382	DLD, lpd, pdhD; dihydrolipoamide dehydrogenase	1.8.1.4	2
+06_Amino acid utilization biosynthesis metabolism	Glycine, serine and threonine metabolism			K00382	DLD, lpd, pdhD; dihydrolipoamide dehydrogenase	1.8.1.4	2
+07_Nucleic acid metabolism	Pyrimidine metabolism			K00384	trxB, TRR; thioredoxin reductase (NADPH)	1.8.1.9	1
+21_Cellular response to stress	Cellular response to stress			K00384	trxB, TRR; thioredoxin reductase (NADPH)	1.8.1.9	1
+06_Amino acid utilization biosynthesis metabolism	Glycine, serine and threonine metabolism			K00639	kbl, GCAT; glycine C-acetyltransferase	2.3.1.29	2
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase			K00705	malQ; 4-alpha-glucanotransferase	2.4.1.25	1
+19_Saccharide and derivated synthesis	Disaccaride phosphorylase	Maltose		K00705	malQ; 4-alpha-glucanotransferase	2.4.1.25	1
+20_Hydrolysis of polymers	Starch			K00705	malQ; 4-alpha-glucanotransferase	2.4.1.25	1
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K00764	purF, PPAT; amidophosphoribosyltransferase	2.4.2.14	4
+07_Nucleic acid metabolism	Purine metabolism			K00764	purF, PPAT; amidophosphoribosyltransferase	2.4.2.14	4
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K00820	glmS, GFPT; glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	3
+19_Saccharide and derivated synthesis	Polysaccharide biosynthesis and assembly of cell surface structure	Murein		K00820	glmS, GFPT; glutamine---fructose-6-phosphate transaminase (isomerizing)	2.6.1.16	3
+06_Amino acid utilization biosynthesis metabolism	Lysine biosynthesis			K00841	patA; aminotransferase	2.6.1.-	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Oxaloacetate to lysine		K00841	patA; aminotransferase	2.6.1.-	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Histidine		K00841	patA; aminotransferase	2.6.1.-	1
+20_Hydrolysis of polymers	Galactose			K00849	galK; galactokinase	2.7.1.6	1
+04_Utililization of sugar, conversion of pentose to EMP pathway intermediates	Pentose			K00873	PK, pyk; pyruvate kinase	2.7.1.40	2
+07_Nucleic acid metabolism	Purine metabolism			K00873	PK, pyk; pyruvate kinase	2.7.1.40	2
+16_Embden Meyerhof-Parnos (EMP)	EMP			K00873	PK, pyk; pyruvate kinase	2.7.1.40	2
+16_Embden Meyerhof-Parnos (EMP)	Glycolysis III (EMP)			K00873	PK, pyk; pyruvate kinase	2.7.1.40	2
+16_Embden Meyerhof-Parnos (EMP)	EMP  in archea			K00873	PK, pyk; pyruvate kinase	2.7.1.40	2
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Oxaloacetate to lysine		K00925	ackA; acetate kinase	2.7.2.1	4
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Cysteine and methionine		K00925	ackA; acetate kinase	2.7.2.1	4
+14_Methanogenesis	From acetate			K00925	ackA; acetate kinase	2.7.2.1	4
+06_Amino acid utilization biosynthesis metabolism	Arginine and proline metabolism			K00926	arcC; carbamate kinase	2.7.2.2	1
+07_Nucleic acid metabolism	Purine metabolism			K00926	arcC; carbamate kinase	2.7.2.2	1
+06_Amino acid utilization biosynthesis metabolism	Arginine and proline metabolism			K00930	argB; acetylglutamate kinase	2.7.2.8	2
+06_Amino acid utilization biosynthesis metabolism	Lysine biosynthesis			K00930	argB; acetylglutamate kinase	2.7.2.8	2
+07_Nucleic acid metabolism	Purine metabolism			K00948	PRPS, prsA; ribose-phosphate pyrophosphokinase	2.7.6.1	1
+07_Nucleic acid metabolism	Purine metabolism			K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+18_Sulfur compounds metabolism	Chemoautotrophic oxidation of sulfur compounds	Superpathway of sulfur metabolism (Desulfocapsa sulfoexigens)		K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+18_Sulfur compounds metabolism	Sulfur compounds cycle	Sulfate reduction (assimilatory)		K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+18_Sulfur compounds metabolism	Sulfur compounds cycle	Sulfate reduction (dissimilatory)		K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+18_Sulfur compounds metabolism	Sulfur compounds cycle	Sulfite oxidation		K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+18_Sulfur compounds metabolism	Sulfur compounds cycle	Sulfur disproportionation		K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+18_Sulfur compounds metabolism	Sulfur compounds cycle	Thiosulfate disproportionation		K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+21_Cellular response to stress	Cellular response to oxidative stress			K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+21_Cellular response to stress	Cellular response to stress			K00957	cysD; sulfate adenylyltransferase subunit 2	2.7.7.4	1
+07_Nucleic acid metabolism	Pyrimidine metabolism			K00962	pnp, PNPT1; polyribonucleotide nucleotidyltransferase	2.7.7.8	1
+07_Nucleic acid metabolism	Purine metabolism			K00962	pnp, PNPT1; polyribonucleotide nucleotidyltransferase	2.7.7.8	1
+01_Fermentation	Pyruvate Fermentation	Pyruvate fermentation to acetone		K01006	ppdK; pyruvate, orthophosphate dikinase	2.7.9.1	1
+01_Fermentation	Pyruvate Fermentation	Pyruvate fermentation to lactate		K01006	ppdK; pyruvate, orthophosphate dikinase	2.7.9.1	1
+01_Fermentation	Pyruvate Fermentation	Pyruvate fermentation to propionate II (acrylate pathway)		K01006	ppdK; pyruvate, orthophosphate dikinase	2.7.9.1	1
+01_Fermentation	Pyruvate Fermentation	Superpathway of clostridium acetobutylicum acidogenic and solventogenic fermentation		K01006	ppdK; pyruvate, orthophosphate dikinase	2.7.9.1	1
+01_Fermentation	Pyruvate Fermentation	Superpathway of clostridium acetobutylicum acidogenic fermentation		K01006	ppdK; pyruvate, orthophosphate dikinase	2.7.9.1	1
+01_Fermentation	Pyruvate Fermentation	Superpathway of clostridium acetobutylicum solventogenic fermentation		K01006	ppdK; pyruvate, orthophosphate dikinase	2.7.9.1	1
+17_Gluconeogenesis	Gluconeogenesis			K01006	ppdK; pyruvate, orthophosphate dikinase	2.7.9.1	1
+07_Nucleic acid metabolism	Purine metabolism			K01139	spoT; GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	2.7.6.5 3.1.7.2	1
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase			K01182	IMA, malL; oligo-1,6-glucosidase	3.2.1.10	2
+19_Saccharide and derivated synthesis	Disaccaride phosphorylase	Maltose		K01182	IMA, malL; oligo-1,6-glucosidase	3.2.1.10	2
+20_Hydrolysis of polymers	Starch			K01182	IMA, malL; oligo-1,6-glucosidase	3.2.1.10	2
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase			K01193	INV, sacA; beta-fructofuranosidase	3.2.1.26	3
+19_Saccharide and derivated synthesis	Disaccaride phosphorylase	Sucrose		K01193	INV, sacA; beta-fructofuranosidase	3.2.1.26	3
+20_Hydrolysis of polymers	Starch			K01193	INV, sacA; beta-fructofuranosidase	3.2.1.26	3
+20_Hydrolysis of polymers	Galactose			K01193	INV, sacA; beta-fructofuranosidase	3.2.1.26	3
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase			K01200	pulA; pullulanase	3.2.1.41	1
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase			K01208	cd, ma, nplT; cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase	3.2.1.54 3.2.1.133 3.2.1.135	1
+20_Hydrolysis of polymers	Starch			K01208	cd, ma, nplT; cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase	3.2.1.54 3.2.1.133 3.2.1.135	1
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase			K01223	E3.2.1.86B, bglA; 6-phospho-beta-glucosidase	3.2.1.86	1
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K01424	E3.5.1.1, ansA, ansB; L-asparaginase	3.5.1.1	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Oxaloacetate to lysine		K01424	E3.5.1.1, ansA, ansB; L-asparaginase	3.5.1.1	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Cysteine and methionine		K01448	amiABC; N-acetylmuramoyl-L-alanine amidase	3.5.1.28	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Oxaloacetate to lysine		K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	1
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)			K01491	folD; methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase	1.5.1.5 3.5.4.9	1
+07_Nucleic acid metabolism	Pyrimidine metabolism			K01519	ITPA; inosine triphosphate pyrophosphatase	3.6.1.-	1
+07_Nucleic acid metabolism	Purine metabolism			K01519	ITPA; inosine triphosphate pyrophosphatase	3.6.1.-	1
+06_Amino acid utilization biosynthesis metabolism	Histidine biosynthesis, pRpp => histidine			K01523	hisE; phosphoribosyl-ATP pyrophosphohydrolase	3.6.1.31	1
+06_Amino acid utilization biosynthesis metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis			K01657	trpE; anthranilate synthase component I	4.1.3.27	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	PEP		K01657	trpE; anthranilate synthase component I	4.1.3.27	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	PEP		K01677	E4.2.1.2AA, fumA; fumarate hydratase subunit alpha	4.2.1.2	2
+10_TCA cycle	TCA cycle			K01677	E4.2.1.2AA, fumA; fumarate hydratase subunit alpha	4.2.1.2	2
+10_TCA cycle	Incomplete TCA fork			K01677	E4.2.1.2AA, fumA; fumarate hydratase subunit alpha	4.2.1.2	2
+10_TCA cycle	TCA cycle			K01682	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	2
+10_TCA cycle	Incomplete TCA fork			K01682	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	2
+21_Cellular response to stress	Regulation of translation in response to oxidative stress			K01682	acnB; aconitate hydratase 2 / 2-methylisocitrate dehydratase	4.2.1.3 4.2.1.99	2
+06_Amino acid utilization biosynthesis metabolism	Glycine, serine and threonine metabolism			K01695	trpA; tryptophan synthase alpha chain	4.2.1.20	1
+06_Amino acid utilization biosynthesis metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis			K01695	trpA; tryptophan synthase alpha chain	4.2.1.20	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Cysteine and methionine		K01695	trpA; tryptophan synthase alpha chain	4.2.1.20	1
+06_Amino acid utilization biosynthesis metabolism	Valine, leucine and isoleucine biosynthesis			K01703	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	3
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Oxaloacetate to lysine		K01703	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	3
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Histidine		K01703	leuC, IPMI-L; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit	4.2.1.33 4.2.1.35	3
+06_Amino acid utilization biosynthesis metabolism	Lysine biosynthesis			K01714	dapA; 4-hydroxy-tetrahydrodipicolinate synthase	4.3.3.7	1
+06_Amino acid utilization biosynthesis metabolism	Cysteine and methionine metabolism			K01740	metY; O-acetylhomoserine (thiol)-lyase	2.5.1.49	1
+04_Utililization of sugar, conversion of pentose to EMP pathway intermediates	Pentose			K01783	rpe, RPE; ribulose-phosphate 3-epimerase	5.1.3.1	1
+20_Hydrolysis of polymers	Xylose			K01783	rpe, RPE; ribulose-phosphate 3-epimerase	5.1.3.1	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Cysteine and methionine		K01803	TPI, tpiA; triosephosphate isomerase (TIM)	5.3.1.1	1
+16_Embden Meyerhof-Parnos (EMP)	EMP			K01803	TPI, tpiA; triosephosphate isomerase (TIM)	5.3.1.1	1
+16_Embden Meyerhof-Parnos (EMP)	Glycolysis III (EMP)			K01803	TPI, tpiA; triosephosphate isomerase (TIM)	5.3.1.1	1
+16_Embden Meyerhof-Parnos (EMP)	EMP  in archea			K01803	TPI, tpiA; triosephosphate isomerase (TIM)	5.3.1.1	1
+17_Gluconeogenesis	Gluconeogenesis in archea			K01803	TPI, tpiA; triosephosphate isomerase (TIM)	5.3.1.1	1
+20_Hydrolysis of polymers	Galactose			K01819	E5.3.1.26, lacA, lacB; galactose-6-phosphate isomerase	5.3.1.26	1
+16_Embden Meyerhof-Parnos (EMP)	EMP			K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2
+16_Embden Meyerhof-Parnos (EMP)	Glycolysis III (EMP)			K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2
+16_Embden Meyerhof-Parnos (EMP)	EMP  in archea			K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2
+17_Gluconeogenesis	Gluconeogenesis in archea			K01834	PGAM, gpmA; 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	2
+01_Fermentation	Lysine fermentation to acetate and butyrate			K01835	pgm; phosphoglucomutase	5.4.2.2	1
+07_Nucleic acid metabolism	Purine metabolism			K01835	pgm; phosphoglucomutase	5.4.2.2	1
+20_Hydrolysis of polymers	Starch			K01835	pgm; phosphoglucomutase	5.4.2.2	1
+20_Hydrolysis of polymers	Galactose			K01835	pgm; phosphoglucomutase	5.4.2.2	1
+02_Homoacetogenesis	Reductive acetyl coenzyme A pathway			K01938	fhs; formate--tetrahydrofolate ligase	6.3.4.3	1
+15_Methylotrophy	Formaldehyde oxidation (tetrahydrofolate pathway)			K01938	fhs; formate--tetrahydrofolate ligase	6.3.4.3	1
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K01939	purA, ADSS; adenylosuccinate synthase	6.3.4.4	2
+07_Nucleic acid metabolism	Purine metabolism			K01939	purA, ADSS; adenylosuccinate synthase	6.3.4.4	2
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K01955	carB, CPA2; carbamoyl-phosphate synthase large subunit	6.3.5.5	2
+07_Nucleic acid metabolism	Pyrimidine metabolism			K01955	carB, CPA2; carbamoyl-phosphate synthase large subunit	6.3.5.5	2
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K01956	carA, CPA1; carbamoyl-phosphate synthase small subunit	6.3.5.5	2
+07_Nucleic acid metabolism	Pyrimidine metabolism			K01956	carA, CPA1; carbamoyl-phosphate synthase small subunit	6.3.5.5	2
+06_Amino acid utilization biosynthesis metabolism	Valine, leucine and isoleucine degradation			K01965	PCCA, pccA; propionyl-CoA carboxylase alpha chain	6.4.1.3	2
+12_Transporters	ABC transporters, prokaryotic type	ABC-2 type and other transporters	Uncharacterized ABC transporter [mD:m00258]	K02003	ABC.CD.A; putative ABC transport system ATP-binding protein		3
+12_Transporters	ABC transporters, prokaryotic type	 metallic cation, iron-siderophore and vitamin b12 transporters	Cobalt transporter [mD:m00245]	K02006	cbiO; cobalt/nickel transport system ATP-binding protein		2
+12_Transporters	ABC transporters, prokaryotic type	Phosphate and amino acid transporters	Polar amino acid transporter [mD:m00236]	K02028	ABC.PA.A; polar amino acid transport system ATP-binding protein	7.4.2.1	3
+12_Transporters	ABC transporters, prokaryotic type	PEPtide and nickel transporters	PEPtides/nickel transporter [mD:m00239]	K02032	ddpF; peptide/nickel transport system ATP-binding protein		2
+12_Transporters	ABC transporters, prokaryotic type	PEPtide and nickel transporters	PEPtides/nickel transporter [mD:m00239]	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein		2
+12_Transporters	ABC transporters, prokaryotic type	Monosaccharide transporters	Phosphate transporter [mD:m00222]	K02036	pstB; phosphate transport system ATP-binding protein	7.3.2.1	2
+12_Transporters	ABC transporters, prokaryotic type	Mineral and organic ion transporters	Sulfate transporter [mD:m00185]	K02045	cysA; sulfate/thiosulfate transport system ATP-binding protein	7.3.2.3	1
+12_Transporters	ABC transporters, prokaryotic type	Mineral and organic ion transporters	Sulfate transporter [mD:m00185]	K02048	cysP; sulfate/thiosulfate transport system substrate-binding protein		2
+12_Transporters	ABC transporters, prokaryotic type	Oligosaccharide and polyol transporters	Putative ABC transporter [mD:m00211]	K02069	STAR2, fetB; UDP-glucose/iron transport system permease protein		1
+12_Transporters	ABC transporters, prokaryotic type	Phosphate and amino acid transporters	D-methionine transporter [mD:m00238]	K02071	metN; D-methionine transport system ATP-binding protein		6
+19_Saccharide and derivated synthesis	Polysaccharide biosynthesis and assembly of cell surface structure	Lipopolysaccharide biosynthesis		K02316	dnaG; DNA primase	2.7.7.101	1
+07_Nucleic acid metabolism	Pyrimidine metabolism			K02335	polA; DNA polymerase I	2.7.7.7	3
+07_Nucleic acid metabolism	Purine metabolism			K02335	polA; DNA polymerase I	2.7.7.7	3
+07_Nucleic acid metabolism	Pyrimidine metabolism			K02337	dnaE; DNA polymerase III subunit alpha	2.7.7.7	1
+07_Nucleic acid metabolism	Purine metabolism			K02337	dnaE; DNA polymerase III subunit alpha	2.7.7.7	1
+07_Nucleic acid metabolism	Pyrimidine metabolism			K02341	holB; DNA polymerase III subunit delta'	2.7.7.7	1
+07_Nucleic acid metabolism	Purine metabolism			K02341	holB; DNA polymerase III subunit delta'	2.7.7.7	1
+02_Homoacetogenesis	Reductive acetyl coenzyme A pathway			K02427	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2'-O)-methyltransferase	2.1.1.166	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Histidine		K02427	rlmE, rrmJ, ftsJ; 23S rRNA (uridine2552-2'-O)-methyltransferase	2.1.1.166	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Teta-glucosides-specific II component [mD:m00271]	K02757	bglF, bglP; beta-glucoside PTS system EIICBA component	2.7.1.-	2
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Fructose-specific II component [mD:m00273]	K02770	fruA; fructose PTS system EIIBC or EIIC component	2.7.1.202	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Enzyme II_glucose-specific  component [mD:m00265]	K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Maltose and glucose-specific II component [mD:m00266]	K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	 arbutin-, cellobiose-, and salicin-specific II component [mD:m00272]	K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Trehalose-specific II component [mD:m00270]	K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	N-acetylmuramic acid-specific II component [mD:m00303]	K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Arbutin-like II component [mD:m00268]	K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+19_Saccharide and derivated synthesis	Disaccaride phosphorylase	Lactose		K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+19_Saccharide and derivated synthesis	Disaccaride phosphorylase	Sucrose		K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+19_Saccharide and derivated synthesis	Disaccaride phosphorylase	Maltose		K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+20_Hydrolysis of polymers	Starch			K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+20_Hydrolysis of polymers	Mannose			K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+20_Hydrolysis of polymers	Galactose			K02777	crr; sugar PTS system EIIA component	2.7.1.-	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Sucrose-specific II component [mD:m00269]	K02810	scrA, sacP, sacX, ptsS; sucrose PTS system EIIBCA or EIIBC component	2.7.1.211	1
+07_Nucleic acid metabolism	Pyrimidine metabolism			K02825	pyrR; pyrimidine operon attenuation protein / uracil phosphoribosyltransferase	2.4.2.9	1
+07_Nucleic acid metabolism	Pyrimidine metabolism			K03042	"rpoA2; DNA-directed RNA polymerase subunit A\"""	2.7.7.6	1
+07_Nucleic acid metabolism	Purine metabolism			K03042	"rpoA2; DNA-directed RNA polymerase subunit A\"""	2.7.7.6	1
+07_Nucleic acid metabolism	Pyrimidine metabolism			K03043	rpoB; DNA-directed RNA polymerase subunit beta	2.7.7.6	2
+07_Nucleic acid metabolism	Purine metabolism			K03043	rpoB; DNA-directed RNA polymerase subunit beta	2.7.7.6	2
+07_Nucleic acid metabolism	Pyrimidine metabolism			K03046	rpoC; DNA-directed RNA polymerase subunit beta'	2.7.7.6	3
+07_Nucleic acid metabolism	Purine metabolism			K03046	rpoC; DNA-directed RNA polymerase subunit beta'	2.7.7.6	3
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase			K03332	fruA; fructan beta-fructosidase	3.2.1.80	1
+01_Fermentation	Lysine fermentation to acetate and butyrate			K03431	glmM; phosphoglucosamine mutase	5.4.2.10	2
+19_Saccharide and derivated synthesis	Polysaccharide biosynthesis and assembly of cell surface structure	Murein		K03431	glmM; phosphoglucosamine mutase	5.4.2.10	2
+09_Carbohydrate Active enzyme - CAZy	Glycosyltransferase			K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3)	3.4.16.4	2
+19_Saccharide and derivated synthesis	Polysaccharide biosynthesis and assembly of cell surface structure	Peptidoglycan biosynthesis		K03587	ftsI; cell division protein FtsI (penicillin-binding protein 3)	3.4.16.4	2
+06_Amino acid utilization biosynthesis metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis			K03856	AROA2, aroA; 3-deoxy-7-phosphoheptulonate synthase	2.5.1.54	1
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Cysteine and methionine		K03856	AROA2, aroA; 3-deoxy-7-phosphoheptulonate synthase	2.5.1.54	1
+21_Cellular response to stress	Response to osmotic stress			K03935	NDUFS2; NADH dehydrogenase (ubiquinone) Fe-S protein 2	7.1.1.2	1
+01_Fermentation	Acetylene degradation			K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Glutamate degradation V (via hydroxyglutarate)			K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Heterolactic fermentation			K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Mixed acid fermentation			K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Pyruvate Fermentation	Pyruvate fermentation to butanoate		K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Pyruvate Fermentation	Pyruvate fermentation to ethanol I		K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Pyruvate Fermentation	Pyruvate fermentation to ethanol II		K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Pyruvate Fermentation	Pyruvate fermentation to ethanol III		K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Pyruvate Fermentation	Superpathway of clostridium acetobutylicum acidogenic and solventogenic fermentation		K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Pyruvate Fermentation	Superpathway of clostridium acetobutylicum acidogenic fermentation		K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+01_Fermentation	Pyruvate Fermentation	Superpathway of clostridium acetobutylicum solventogenic fermentation		K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+21_Cellular response to stress	Response to osmotic stress			K04072	adhE; acetaldehyde dehydrogenase / alcohol dehydrogenase	1.2.1.10 1.1.1.1	2
+21_Cellular response to stress	Cellular response to stress			K04564	SOD2; superoxide dismutase, Fe-Mn family	1.15.1.1	2
+21_Cellular response to stress	Response to oxidative stress			K04564	SOD2; superoxide dismutase, Fe-Mn family	1.15.1.1	2
+09_Carbohydrate Active enzyme - CAZy	Glycoside hydrolase			K05342	treP; alpha,alpha-trehalose phosphorylase	2.4.1.64	2
+20_Hydrolysis of polymers	Starch			K05342	treP; alpha,alpha-trehalose phosphorylase	2.4.1.64	2
+06_Amino acid utilization biosynthesis metabolism	Valine, leucine and isoleucine degradation			K05607	AUH; methylglutaconyl-CoA hydratase	4.2.1.18	1
+21_Cellular response to stress	Cellular response to cation stress			K06023	hprK, ptsK; HPr kinase/phosphorylase	2.7.11.- 2.7.4.-	1
+21_Cellular response to stress	Cellular response to osmotic stress			K06023	hprK, ptsK; HPr kinase/phosphorylase	2.7.11.- 2.7.4.-	1
+21_Cellular response to stress	Regulation of response to osmotic stress			K06023	hprK, ptsK; HPr kinase/phosphorylase	2.7.11.- 2.7.4.-	1
+21_Cellular response to stress	Response to osmotic stress			K06023	hprK, ptsK; HPr kinase/phosphorylase	2.7.11.- 2.7.4.-	1
+12_Transporters	Major Facilitator superfamily (MFS)	Sugar transporters	Purine transporter (AzgA) family [tc:2.A.1.40]	K06901	pbuG, azgA, ghxP, ghxQ, adeQ; adenine/guanine/hypoxanthine permease		1
+21_Cellular response to stress	Cellular response to osmotic stress			K07652	vicK; two-component system, OmpR family, sensor histidine kinase VicK	2.7.13.3	5
+21_Cellular response to stress	Regulation of response to osmotic stress			K07652	vicK; two-component system, OmpR family, sensor histidine kinase VicK	2.7.13.3	5
+21_Cellular response to stress	Response to osmotic stress			K07652	vicK; two-component system, OmpR family, sensor histidine kinase VicK	2.7.13.3	5
+07_Nucleic acid metabolism	Purine metabolism			K07816	E2.7.6.5X; putative GTP pyrophosphokinase	2.7.6.5	1
+12_Transporters	Phosphotransferase system (pts)	Enzyme I and hpr	Enzyme I	K08483	ptsI; phosphoenolpyruvate-protein phosphotransferase (PTS system enzyme I)	2.7.3.9	2
+12_Transporters	ABC transporters, prokaryotic type	ABC-2 type and other transporters	Lipopolysaccharide transporter [mD:m00250]	K09691	ABC-2.LPSE.A; lipopolysaccharide transport system ATP-binding protein		1
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K09758	asdA; aspartate 4-decarboxylase	4.1.1.12	2
+06_Amino acid utilization biosynthesis metabolism	Cysteine and methionine metabolism			K09758	asdA; aspartate 4-decarboxylase	4.1.1.12	2
+07_Nucleic acid metabolism	Pyrimidine metabolism			K09903	pyrH; uridylate kinase	2.7.4.22	2
+12_Transporters	ABC transporters, prokaryotic type	Phosphate and amino acid transporters	Glutamine transporter [mD:m00227]	K10036	glnH; glutamine transport system substrate-binding protein		1
+12_Transporters	ABC transporters, prokaryotic type	Phosphate and amino acid transporters	Glutamine transporter [mD:m00227]	K10037	glnP; glutamine transport system permease protein		1
+12_Transporters	ABC transporters, prokaryotic type	Phosphate and amino acid transporters	Glutamine transporter [mD:m00227]	K10038	glnQ; glutamine transport system ATP-binding protein	7.4.2.1	1
+12_Transporters	ABC transporters, prokaryotic type	Phosphate and amino acid transporters	Putative glutamine transporter [mD:m00228]	K10040	peb1B, glnP, glnM; aspartate/glutamate/glutamine transport system permease protein		1
+12_Transporters	ABC transporters, prokaryotic type	Oligosaccharide and polyol transporters	Multiple sugar transporter [mD:m00196]	K10119	msmG; raffinose/stachyose/melibiose transport system permease protein		1
+12_Transporters	ABC transporters, prokaryotic type	Monosaccharide transporters	Ribose transporter [mD:m00212]	K10441	rbsA; ribose transport system ATP-binding protein	7.5.2.7	2
+06_Amino acid utilization biosynthesis metabolism	Amino acid biosynthesis precursor pyruvate and oxaloacetate	Histidine		K11533	fas; fatty acid synthase, bacteria type	2.3.1.-	3
+19_Saccharide and derivated synthesis	Polysaccharide biosynthesis and assembly of cell surface structure	Lipopolysaccharide biosynthesis		K11533	fas; fatty acid synthase, bacteria type	2.3.1.-	3
+05_Fatty acid oxidation	Fatty acid beta-oxidation I			K14155	patB, malY; cysteine-S-conjugate beta-lyase	4.4.1.13	1
+05_Fatty acid oxidation	Fatty acid activation			K14155	patB, malY; cysteine-S-conjugate beta-lyase	4.4.1.13	1
+06_Amino acid utilization biosynthesis metabolism	Cysteine and methionine metabolism			K14155	patB, malY; cysteine-S-conjugate beta-lyase	4.4.1.13	1
+06_Amino acid utilization biosynthesis metabolism	Alanine, aspartate and glutamate metabolism (contain asparagin as well)			K14260	alaA; alanine-synthesizing transaminase	2.6.1.66 2.6.1.2	2
+06_Amino acid utilization biosynthesis metabolism	Valine, leucine and isoleucine biosynthesis			K14260	alaA; alanine-synthesizing transaminase	2.6.1.66 2.6.1.2	2
+16_Embden Meyerhof-Parnos (EMP)	EMP modified pathway			K14260	alaA; alanine-synthesizing transaminase	2.6.1.66 2.6.1.2	2

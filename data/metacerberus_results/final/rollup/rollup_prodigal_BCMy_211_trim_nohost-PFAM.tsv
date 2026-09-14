@@ -1,0 +1,627 @@
+ID	Function	Clan	Gene	Count
+PF00005	ABC transporter	CL0023	ABC_tran	1
+PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	CL0023	ATP-synt_ab	3
+PF00009	Elongation factor Tu GTP binding domain	CL0023	GTP_EFTU	32
+PF00012	Hsp70 protein	CL0108	HSP70	52
+PF00033	Cytochrome b/b6/petB	CL0328	Cytochrome_B	1
+PF00044	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain	CL0063	Gp_dh_N	2
+PF00046	Homeodomain	CL0123	Homeodomain	1
+PF00069	Protein kinase domain	CL0016	Pkinase	1
+PF00081	Iron/manganese superoxide dismutases, alpha-hairpin domain		Sod_Fe_N	1
+PF00108	Thiolase, N-terminal domain	CL0046	Thiolase_N	2
+PF00113	Enolase, C-terminal TIM barrel domain	CL0036	Enolase_C	8
+PF00117	Glutamine amidotransferase class-I	CL0014	GATase	2
+PF00120	Glutamine synthetase, catalytic domain	CL0286	Gln-synt_C	16
+PF00121	Triosephosphate isomerase	CL0036	TIM	6
+PF00122	E1-E2 ATPase		E1-E2_ATPase	10
+PF00126	Bacterial regulatory helix-turn-helix protein, lysR family	CL0123	HTH_1	1
+PF00128	Alpha amylase, catalytic domain	CL0036	Alpha-amylase	8
+PF00133	tRNA synthetases class I (I, L, M and V)	CL0039	tRNA-synt_1	21
+PF00140	Sigma-70 factor, region 1.2		Sigma70_r1_2	5
+PF00152	tRNA synthetases class II (D, K and N) 	CL0040	tRNA-synt_2	18
+PF00154	recA bacterial DNA recombination protein	CL0023	RecA	32
+PF00158	Sigma-54 interaction domain	CL0023	Sigma54_activat	4
+PF00160	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD	CL0475	Pro_isomerase	7
+PF00162	Phosphoglycerate kinase		PGK	17
+PF00164	Ribosomal protein S12/S23	CL0021	Ribosom_S12_S23	6
+PF00171	Aldehyde dehydrogenase family	CL0099	Aldedh	2
+PF00177	Ribosomal protein S7p/S5e		Ribosomal_S7	16
+PF00180	Isocitrate/isopropylmalate dehydrogenase	CL0270	Iso_dh	1
+PF00181	Ribosomal Proteins L2, RNA binding domain	CL0021	Ribosomal_L2	4
+PF00186	Dihydrofolate reductase	CL0387	DHFR_1	5
+PF00189	Ribosomal protein S3, C-terminal domain		Ribosomal_S3_C	8
+PF00198	2-oxoacid dehydrogenases acyltransferase (catalytic domain)	CL0149	2-oxoacid_dh	10
+PF00199	Catalase		Catalase	2
+PF00203	Ribosomal protein S19		Ribosomal_S19	1
+PF00204	DNA gyrase B	CL0329	DNA_gyraseB	9
+PF00216	Bacterial DNA-binding protein	CL0548	Bac_DNA_binding	1
+PF00224	Pyruvate kinase, barrel domain	CL0036	PK	22
+PF00226	DnaJ domain	CL0392	DnaJ	9
+PF00231	ATP synthase		ATP-synt	3
+PF00232	Glycosyl hydrolase family 1	CL0036	Glyco_hydro_1	31
+PF00233	3'5'-cyclic nucleotide phosphodiesterase	CL0237	PDEase_I	6
+PF00237	Ribosomal protein L22p/L17e		Ribosomal_L22	4
+PF00238	Ribosomal protein L14p/L23e		Ribosomal_L14	6
+PF00252	Ribosomal protein L16p/L10e	CL0021	Ribosomal_L16	7
+PF00266	Aminotransferase class-V	CL0061	Aminotran_5	22
+PF00270	DEAD/DEAH box helicase	CL0023	DEAD	3
+PF00271	Helicase conserved C-terminal domain	CL0023	Helicase_C	1
+PF00281	Ribosomal protein L5	CL0652	Ribosomal_L5	2
+PF00285	Citrate synthase, C-terminal domain		Citrate_synt	1
+PF00289	Biotin carboxylase, N-terminal domain	CL0063	Biotin_carb_N	7
+PF00298	Ribosomal protein L11, RNA binding domain		Ribosomal_L11	9
+PF00303	Thymidylate synthase		Thymidylat_synt	14
+PF00306	ATP synthase alpha/beta chain, C terminal domain		ATP-synt_ab_C	7
+PF00308	Bacterial dnaA  protein	CL0023	Bac_DnaA	9
+PF00312	Ribosomal protein S15	CL0600	Ribosomal_S15	7
+PF00313	'Cold-shock' DNA-binding domain	CL0021	CSD	8
+PF00318	Ribosomal protein S2	CL0067	Ribosomal_S2	15
+PF00327	Ribosomal protein L30p/L7e		Ribosomal_L30	5
+PF00330	Aconitase family (aconitate hydratase)		Aconitase	1
+PF00333	Ribosomal protein S5, N-terminal domain	CL0196	Ribosomal_S5	7
+PF00338	Ribosomal protein S10p/S20e		Ribosomal_S10	7
+PF00344	SecY	CL0376	SecY	4
+PF00356	Bacterial regulatory proteins, lacI family	CL0123	LacI	7
+PF00358	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1	CL0105	PTS_EIIA_1	55
+PF00364	Biotin-requiring enzyme	CL0105	Biotin_lipoyl	1
+PF00365	Phosphofructokinase	CL0240	PFK	10
+PF00366	Ribosomal protein S17	CL0021	Ribosomal_S17	3
+PF00367	phosphotransferase system, EIIB		PTS_EIIB	2
+PF00368	Hydroxymethylglutaryl-coenzyme A reductase		HMG-CoA_red	2
+PF00380	Ribosomal protein S9/S16	CL0329	Ribosomal_S9	3
+PF00391	PEP-utilising enzyme, mobile domain	CL0364	PEP-utilizers	5
+PF00392	Bacterial regulatory proteins, gntR family	CL0123	GntR	3
+PF00393	6-phosphogluconate dehydrogenase, C-terminal domain	CL0106	6PGD	25
+PF00406	Adenylate kinase	CL0023	ADK	8
+PF00410	Ribosomal protein S8		Ribosomal_S8	9
+PF00411	Ribosomal protein S11	CL0267	Ribosomal_S11	14
+PF00413	Matrixin	CL0126	Peptidase_M10	7
+PF00416	Ribosomal protein S13/S18	CL0303	Ribosomal_S13	5
+PF00436	Single-strand binding protein family	CL0021	SSB	2
+PF00437	Type II/IV secretion system protein	CL0023	T2SSE	1
+PF00438	S-adenosylmethionine synthetase, N-terminal domain		S-AdoMet_synt_N	3
+PF00444	Ribosomal protein L36		Ribosomal_L36	4
+PF00448	SRP54-type protein, GTPase domain	CL0023	SRP54	12
+PF00453	Ribosomal protein L20		Ribosomal_L20	7
+PF00456	Transketolase, thiamine diphosphate binding domain	CL0254	Transketolase_N	23
+PF00459	Inositol monophosphatase family	CL0171	Inositol_P	1
+PF00464	Serine hydroxymethyltransferase	CL0061	SHMT	9
+PF00465	Iron-containing alcohol dehydrogenase 	CL0224	Fe-ADH	9
+PF00468	Ribosomal protein L34		Ribosomal_L34	4
+PF00472	RF-1 domain	CL0337	RF-1	12
+PF00476	DNA polymerase family A		DNA_pol_A	21
+PF00478	IMP dehydrogenase / GMP reductase domain	CL0036	IMPDH	23
+PF00480	ROK family	CL0108	ROK	6
+PF00483	Nucleotidyl transferase	CL0110	NTP_transferase	2
+PF00486	Transcriptional regulatory protein, C terminal	CL0123	Trans_reg_C	12
+PF00488	MutS domain V	CL0023	MutS_V	19
+PF00490	Delta-aminolevulinic acid dehydratase	CL0036	ALAD	2
+PF00496	Bacterial extracellular solute-binding proteins, family 5 Middle	CL0177	SBP_bac_5	2
+PF00521	DNA gyrase/topoisomerase IV, subunit A		DNA_topoisoIV	61
+PF00535	Glycosyl transferase family 2	CL0110	Glycos_transf_2	1
+PF00542	Ribosomal protein L7/L12 C-terminal domain		Ribosomal_L12	2
+PF00551	Formyl transferase		Formyl_trans_N	5
+PF00557	Metallopeptidase family M24		Peptidase_M24	5
+PF00562	RNA polymerase Rpb2, domain 6	CL0410	RNA_pol_Rpb2_6	28
+PF00570	HRDC domain	CL0426	HRDC	1
+PF00572	Ribosomal protein L13		Ribosomal_L13	1
+PF00573	Ribosomal protein L4/L1 family		Ribosomal_L4	10
+PF00574	Clp protease	CL0127	CLP_protease	9
+PF00578	AhpC/TSA family	CL0172	AhpC-TSA	1
+PF00580	UvrD/REP helicase N-terminal domain	CL0023	UvrD-helicase	13
+PF00584	SecE/Sec61-gamma subunits of protein translocation complex		SecE	1
+PF00589	Phage integrase family	CL0382	Phage_integrase	10
+PF00591	Glycosyl transferase family, a/b domain		Glycos_transf_3	1
+PF00623	RNA polymerase Rpb1, domain 2		RNA_pol_Rpb1_2	5
+PF00654	Voltage gated chloride channel		Voltage_CLC	1
+PF00662	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus		Proton_antipo_N	1
+PF00670	S-adenosyl-L-homocysteine hydrolase, NAD binding domain	CL0063	AdoHcyase_NAD	1
+PF00672	HAMP domain	CL0681	HAMP	1
+PF00673	ribosomal L5P family C-terminus		Ribosomal_L5_C	6
+PF00676	Dehydrogenase E1 component	CL0254	E1_dh	5
+PF00687	Ribosomal protein L1p/L10e family		Ribosomal_L1	4
+PF00689	Cation transporting ATPase, C-terminus		Cation_ATPase_C	3
+PF00690	Cation transporter/ATPase, N-terminus		Cation_ATPase_N	4
+PF00701	Dihydrodipicolinate synthetase family	CL0036	DHDPS	1
+PF00707	Translation initiation factor IF-3, C-terminal domain		IF3_C	4
+PF00709	Adenylosuccinate synthetase	CL0023	Adenylsucc_synt	44
+PF00724	NADH:flavin oxidoreductase / NADH oxidase family	CL0036	Oxidored_FMN	5
+PF00731	AIR carboxylase	CL0224	AIRC	16
+PF00749	tRNA synthetases class I (E and Q), catalytic domain	CL0039	tRNA-synt_1c	16
+PF00750	tRNA synthetases class I (R)	CL0039	tRNA-synt_1d	2
+PF00763	Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain	CL0603	THF_DHG_CYH	1
+PF00773	RNB domain		RNB	18
+PF00781	Diacylglycerol kinase catalytic domain	CL0240	DAGK_cat	4
+PF00793	DAHP synthetase I family	CL0036	DAHP_synth_1	4
+PF00814	tRNA N6-adenosine threonylcarbamoyltransferase	CL0108	TsaD	7
+PF00815	Histidinol dehydrogenase	CL0099	Histidinol_dh	1
+PF00828	Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A	CL0588	Ribosomal_L27A	3
+PF00829	Ribosomal prokaryotic L21 protein		Ribosomal_L21p	1
+PF00831	Ribosomal L29 protein	CL0346	Ribosomal_L29	4
+PF00834	Ribulose-phosphate 3 epimerase family	CL0036	Ribul_P_3_epim	1
+PF00842	Alanine racemase, C-terminal domain	CL0105	Ala_racemase_C	4
+PF00854	POT family	CL0015	PTR2	5
+PF00857	Isochorismatase family		Isochorismatase	2
+PF00861	Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast	CL0267	Ribosomal_L18p	12
+PF00871	Acetokinase family	CL0108	Acetate_kinase	8
+PF00883	Cytosol aminopeptidase family, catalytic domain	CL0105	Peptidase_M17	1
+PF00886	Ribosomal protein S16		Ribosomal_S16	6
+PF00889	Elongation factor TS		EF_TS	3
+PF00893	Small Multidrug Resistance protein	CL0184	Multi_Drug_Res	1
+PF00908	dTDP-4-dehydrorhamnose 3,5-epimerase	CL0029	dTDP_sugar_isom	6
+PF00912	Transglycosylase	CL0037	Transgly	9
+PF00920	Dehydratase family		ILVD_EDD	1
+PF00926	3,4-dihydroxy-2-butanone 4-phosphate synthase		DHBP_synthase	2
+PF00950	ABC 3 transport family	CL0142	ABC-3	5
+PF00958	GMP synthase C terminal domain		GMP_synt_C	15
+PF00986	DNA gyrase B subunit, carboxyl terminus		DNA_gyraseB_C	16
+PF00988	Carbamoyl-phosphate synthase small chain, CPSase domain	CL0364	CPSase_sm_chain	15
+PF01016	Ribosomal L27 protein		Ribosomal_L27	4
+PF01018	GTP1/OBG		GTP1_OBG	1
+PF01025	GrpE		GrpE	1
+PF01026	TatD related DNase	CL0036	TatD_DNase	4
+PF01029	NusB family	CL0633	NusB	6
+PF01035	6-O-methylguanine DNA methyltransferase, DNA binding domain	CL0123	DNA_binding_1	9
+PF01043	SecA preprotein cross-linking domain		SecA_PP_bind	5
+PF01053	Cys/Met metabolism PLP-dependent enzyme	CL0061	Cys_Met_Meta_PP	3
+PF01066	CDP-alcohol phosphatidyltransferase		CDP-OH_P_transf	3
+PF01071	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain	CL0179	GARS_A	3
+PF01081	KDPG and KHG aldolase	CL0036	Aldolase	1
+PF01116	Fructose-bisphosphate aldolase class-II	CL0036	F_bP_aldolase	7
+PF01131	DNA topoisomerase		Topoisom_bac	2
+PF01134	Glucose inhibited division protein A	CL0063	GIDA	48
+PF01136	Peptidase family U32		Peptidase_U32	9
+PF01148	Cytidylyltransferase family	CL0234	CTP_transf_1	4
+PF01156	Inosine-uridine preferring nucleoside hydrolase	CL0727	IU_nuc_hydro	9
+PF01165	Ribosomal protein S21		Ribosomal_S21	1
+PF01170	Putative RNA methylase family UPF0020	CL0063	UPF0020	3
+PF01171	PP-loop family	CL0039	ATP_bind_3	3
+PF01176	Translation initiation factor 1A / IF-1	CL0021	eIF-1a	5
+PF01180	Dihydroorotate dehydrogenase	CL0036	DHO_dh	9
+PF01195	Peptidyl-tRNA hydrolase	CL0408	Pept_tRNA_hydro	16
+PF01196	Ribosomal protein L17		Ribosomal_L17	3
+PF01205	Uncharacterized protein family UPF0029	CL0329	UPF0029	1
+PF01207	Dihydrouridine synthase (Dus)	CL0036	Dus	3
+PF01226	Formate/nitrite transporter	CL0716	Form_Nir_trans	6
+PF01228	Glycine radical	CL0339	Gly_radical	3
+PF01245	Ribosomal protein L19	CL0010	Ribosomal_L19	12
+PF01252	Signal peptidase (SPase) II		Peptidase_A8	4
+PF01255	Putative undecaprenyl diphosphate synthase		Prenyltransf	6
+PF01259	SAICAR synthetase		SAICAR_synt	9
+PF01263	Aldose 1-epimerase	CL0103	Aldose_epim	1
+PF01264	Chorismate synthase		Chorismate_synt	4
+PF01268	Formate--tetrahydrofolate ligase	CL0023	FTHFS	34
+PF01272	Transcription elongation factor, GreA/GreB, C-term	CL0487	GreA_GreB	3
+PF01281	Ribosomal protein L9, N-terminal domain		Ribosomal_L9_N	7
+PF01297	Zinc-uptake complex component A periplasmic	CL0043	ZnuA	3
+PF01301	Glycosyl hydrolases family 35	CL0036	Glyco_hydro_35	11
+PF01313	Bacterial export proteins, family 3		Bac_export_3	2
+PF01316	Arginine repressor, DNA binding domain	CL0123	Arg_repressor	4
+PF01327	Polypeptide deformylase		Pep_deformylase	1
+PF01351	Ribonuclease HII	CL0219	RNase_HII	5
+PF01367	5'-3' exonuclease, C-terminal SAM fold	CL0464	5_3_exonuc	7
+PF01381	Helix-turn-helix	CL0123	HTH_3	2
+PF01406	tRNA synthetases class I (C) catalytic domain	CL0039	tRNA-synt_1e	20
+PF01409	tRNA synthetases class II core domain (F)	CL0040	tRNA-synt_2d	15
+PF01411	tRNA synthetases class II (A)	CL0040	tRNA-synt_2c	10
+PF01425	Amidase		Amidase	7
+PF01430	Hsp33 protein		HSP33	2
+PF01432	Peptidase family M3	CL0126	Peptidase_M3	1
+PF01434	Peptidase family M41	CL0126	Peptidase_M41	10
+PF01458	SUF system FeS cluster assembly, SufBD		SUFBD	3
+PF01470	Pyroglutamyl peptidase	CL0379	Peptidase_C15	10
+PF01476	LysM domain	CL0187	LysM	20
+PF01479	S4 domain	CL0492	S4	6
+PF01487	Type I 3-dehydroquinase	CL0036	DHquinase_I	8
+PF01509	TruB family pseudouridylate synthase (N terminal domain)	CL0649	TruB_N	4
+PF01515	Phosphate acetyl/butaryl transferase	CL0270	PTA_PTB	10
+PF01580	FtsK/SpoIIIE family	CL0023	FtsK_SpoIIIE	6
+PF01624	MutS domain I		MutS_I	1
+PF01625	Peptide methionine sulfoxide reductase		PMSR	6
+PF01641	SelR domain	CL0080	SelR	10
+PF01653	NAD-dependent DNA ligase adenylation domain	CL0179	DNA_ligase_aden	15
+PF01668	SmpB protein		SmpB	21
+PF01676	Metalloenzyme superfamily	CL0088	Metalloenzyme	1
+PF01702	Queuine tRNA-ribosyltransferase	CL0036	TGT	39
+PF01709	TACO1/YebC second and third domain		Transcrip_reg	9
+PF01713	Smr domain		Smr	2
+PF01715	IPP transferase	CL0023	IPPT	7
+PF01725	Ham1 family	CL0269	Ham1p_like	2
+PF01726	LexA DNA binding domain	CL0123	LexA_DNA_bind	2
+PF01729	Quinolinate phosphoribosyl transferase, C-terminal domain	CL0036	QRPTase_C	11
+PF01741	Large-conductance mechanosensitive channel, MscL	CL0167	MscL	2
+PF01761	3-dehydroquinate synthase	CL0224	DHQ_synthase	23
+PF01765	Ribosome recycling factor		RRF	16
+PF01783	Ribosomal L32p protein family	CL0167	Ribosomal_L32p	2
+PF01795	MraW methylase family	CL0063	Methyltransf_5	16
+PF01807	CHC2 zinc finger	CL0167	zf-CHC2	6
+PF01808	AICARFT/IMPCHase bienzyme	CL0109	AICARFT_IMPCHas	16
+PF01809	Putative membrane protein insertion efficiency factor		YidD	4
+PF01855	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg	CL0254	POR_N	6
+PF01867	CRISPR associated protein Cas1		Cas_Cas1	22
+PF01933	2-phospho-L-lactate transferase CofD		CofD	9
+PF01985	CRS1 / YhbY (CRM) domain		CRS1_YhbY	1
+PF02073	Thermophilic metalloprotease (M29)		Peptidase_M29	2
+PF02091	Glycyl-tRNA synthetase alpha subunit	CL0040	tRNA-synt_2e	17
+PF02092	Glycyl-tRNA synthetase beta subunit		tRNA_synt_2f	16
+PF02110	Hydroxyethylthiazole kinase family	CL0118	HK	3
+PF02130	Endoribonuclease YbeY	CL0126	YbeY	3
+PF02163	Peptidase family M50	CL0126	Peptidase_M50	4
+PF02195	ParB/Sulfiredoxin domain	CL0248	ParBc	3
+PF02224	Cytidylate kinase	CL0023	Cytidylate_kin	6
+PF02255	PTS system, Lactose/Cellobiose specific IIA subunit		PTS_IIA	4
+PF02274	Arginine deiminase	CL0197	ADI	13
+PF02335	Cytochrome c552	CL0317	Cytochrom_C552	1
+PF02350	UDP-N-acetylglucosamine 2-epimerase	CL0113	Epimerase_2	8
+PF02353	Mycolic acid cyclopropane synthetase	CL0063	CMAS	8
+PF02381	MraZ protein, putative antitoxin-like	CL0132	MraZ	2
+PF02384	N-6 DNA Methylase	CL0063	N6_Mtase	1
+PF02388	FemAB family	CL0257	FemAB	5
+PF02390	Putative methyltransferase 	CL0063	Methyltransf_4	1
+PF02397	Bacterial sugar transferase		Bac_transf	4
+PF02410	Ribosomal silencing factor during starvation 	CL0260	RsfS	2
+PF02417	Chromate transporter		Chromate_transp	1
+PF02421	Ferrous iron transport protein B	CL0023	FeoB_N	7
+PF02445	Quinolinate synthetase A protein		NadA	12
+PF02449	Beta-galactosidase	CL0036	Glyco_hydro_42	8
+PF02457	DisA bacterial checkpoint controller nucleotide-binding		DAC	4
+PF02463	RecF/RecN/SMC N terminal domain	CL0023	SMC_N	2
+PF02481	DNA recombination-mediator protein A	CL0349	DNA_processg_A	3
+PF02491	SHS2 domain inserted in FTSA	CL0319	SHS2_FTSA	5
+PF02502	Ribose/Galactose Isomerase		LacAB_rpiB	1
+PF02504	Fatty acid synthesis protein	CL0270	FA_synthesis	1
+PF02527	rRNA small subunit methyltransferase G	CL0063	GidB	4
+PF02547	Queuosine biosynthesis protein		Queuosine_synth	24
+PF02559	CarD-like/TRCF RID domain	CL0010	CarD_TRCF_RID	4
+PF02562	PhoH-like protein	CL0023	PhoH	15
+PF02568	Thiamine biosynthesis protein (ThiI)	CL0039	ThiI	5
+PF02575	YbaB/EbfC DNA-binding family	CL0717	YbaB_DNA_bd	1
+PF02576	RimP N-terminal domain		RimP_N	5
+PF02580	D-Tyr-tRNA(Tyr) deacylase		Tyr_Deacylase	3
+PF02595	Glycerate kinase family		Gly_kinase	7
+PF02601	Exonuclease VII, large subunit		Exonuc_VII_L	22
+PF02603	HPr Serine kinase N terminus	CL0365	Hpr_kinase_N	1
+PF02609	Exonuclease VII small subunit		Exonuc_VII_S	3
+PF02610	L-arabinose isomerase		Arabinose_Isome	23
+PF02614	Glucuronate isomerase	CL0036	UxaC	27
+PF02618	YceG-like family		YceG	1
+PF02637	GatB domain	CL0279	GatB_Yqey	5
+PF02650	WhiA C-terminal HTH domain	CL0123	HTH_WhiA	3
+PF02660	Glycerol-3-phosphate acyltransferase		G3P_acyltransf	2
+PF02667	Short chain fatty acid transporter	CL0182	SCFA_trans	2
+PF02699	Preprotein translocase subunit		YajC	3
+PF02700	Phosphoribosylformylglycinamidine (FGAM) synthase		PurS	7
+PF02705	K+ potassium transporter	CL0062	K_trans	4
+PF02719	Polysaccharide biosynthesis protein	CL0063	Polysacc_synt_2	31
+PF02739	5'-3' exonuclease, N-terminal resolvase-like domain	CL0280	5_3_exonuc_N	5
+PF02772	S-adenosylmethionine synthetase, central domain		S-AdoMet_synt_M	9
+PF02773	S-adenosylmethionine synthetase, C-terminal domain		S-AdoMet_synt_C	3
+PF02777	Iron/manganese superoxide dismutases, C-terminal domain		Sod_Fe_C	11
+PF02780	Transketolase, C-terminal domain	CL0591	Transketolase_C	10
+PF02781	Glucose-6-phosphate dehydrogenase, C-terminal domain	CL0139	G6PD_C	13
+PF02785	Biotin carboxylase C-terminal domain	CL0105	Biotin_carb_C	2
+PF02786	Carbamoyl-phosphate synthase L chain, ATP binding domain	CL0179	CPSase_L_D2	13
+PF02800	Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain	CL0139	Gp_dh_C	17
+PF02801	Beta-ketoacyl synthase, C-terminal domain	CL0046	Ketoacyl-synt_C	4
+PF02803	Thiolase, C-terminal domain	CL0046	Thiolase_C	4
+PF02812	Glu/Leu/Phe/Val dehydrogenase, dimerisation domain	CL0603	ELFV_dehydrog_N	1
+PF02824	TGS domain	CL0072	TGS	8
+PF02826	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain	CL0063	2-Hacid_dh_C	1
+PF02829	3H domain		3H	11
+PF02873	UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain		MurB_C	5
+PF02880	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III	CL0754	PGM_PMM_III	5
+PF02882	Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain	CL0063	THF_DHG_CYH_C	12
+PF02887	Pyruvate kinase, alpha/beta domain		PK_C	1
+PF02896	PEP-utilising enzyme, PEP-binding domain	CL0036	PEP-utilizers_C	27
+PF02901	Pyruvate formate lyase-like	CL0339	PFL-like	10
+PF02934	GatB/GatE catalytic domain	CL0286	GatB_N	10
+PF02978	Signal peptide binding domain	CL0123	SRP_SPB	4
+PF03051	Peptidase C1-like family	CL0125	Peptidase_C1_2	14
+PF03054	tRNA methyl transferase HUP domain	CL0039	tRNA_Me_trans	14
+PF03118	Bacterial RNA polymerase, alpha chain C terminal domain	CL0198	RNA_pol_A_CTD	3
+PF03120	NAD-dependent DNA ligase OB-fold domain	CL0021	DNA_ligase_OB	6
+PF03123	CAT RNA binding domain		CAT_RBD	1
+PF03143	Elongation factor Tu C-terminal domain	CL0740	GTP_EFTU_D3	8
+PF03180	NlpA lipoprotein	CL0177	Lipoprotein_9	5
+PF03193	RsgA GTPase	CL0023	RsgA_GTPase	1
+PF03255	Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit	CL0127	ACCA	8
+PF03313	Serine dehydratase alpha chain	CL0722	SDH_alpha	16
+PF03315	Serine dehydratase beta chain	CL0697	SDH_beta	2
+PF03320	Bacterial fructose-1,6-bisphosphatase, glpX-encoded	CL0171	FBPase_glpX	1
+PF03328	HpcH/HpaI aldolase/citrate lyase family	CL0036	HpcH_HpaI	5
+PF03352	Methyladenine glycosylase		Adenine_glyco	2
+PF03358	NADPH-dependent FMN reductase	CL0042	FMN_red	2
+PF03374	Phage antirepressor protein KilAC domain		ANT	7
+PF03390	2-hydroxycarboxylate transporter family		2HCT	8
+PF03449	Transcription elongation factor, N-terminal		GreA_GreB_N	12
+PF03461	TRCF domain		TRCF	3
+PF03462	PCRF domain		PCRF	7
+PF03483	B3/4 domain	CL0383	B3_4	3
+PF03484	tRNA synthetase B5 domain	CL0123	B5	1
+PF03577	Peptidase family C69	CL0052	Peptidase_C69	14
+PF03588	Leucyl/phenylalanyl-tRNA protein transferase	CL0257	Leu_Phe_trans	2
+PF03592	Terminase small subunit 		Terminase_2	12
+PF03609	PTS system sorbose-specific iic component		EII-Sor	16
+PF03611	PTS system sugar-specific permease component		EIIC-GAT	3
+PF03613	PTS system mannose/fructose/sorbose family IID component		EIID-AGA	19
+PF03618	Kinase/pyrophosphorylase	CL0023	Kinase-PPPase	10
+PF03632	Glycosyl hydrolase family 65 central catalytic domain	CL0059	Glyco_hydro_65m	2
+PF03649	Uncharacterised protein family (UPF0014)		UPF0014	1
+PF03668	P-loop ATPase protein family	CL0023	ATP_bind_2	4
+PF03672	Uncharacterised protein family (UPF0154)		UPF0154	4
+PF03691	Uncharacterised protein family (UPF0167)		UPF0167	1
+PF03719	Ribosomal protein S5, C-terminal domain	CL0329	Ribosomal_S5_C	2
+PF03764	Elongation factor G, domain IV	CL0329	EFG_IV	7
+PF03773	Predicted permease	CL0182	ArsP_1	3
+PF03786	D-mannonate dehydratase (UxuA)	CL0036	UxuA	16
+PF03796	DnaB-like helicase C terminal domain	CL0023	DnaB_C	24
+PF03830	PTS system sorbose subfamily IIB component		PTSIIB_sorb	12
+PF03838	Recombination protein U	CL0236	RecU	10
+PF03881	Fructosamine kinase	CL0016	Fructosamin_kin	1
+PF03894	D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase	CL0254	XFP	35
+PF03946	Ribosomal protein L11, N-terminal domain		Ribosomal_L11_N	5
+PF03947	Ribosomal Proteins L2, C-terminal domain	CL0010	Ribosomal_L2_C	14
+PF03948	Ribosomal protein L9, C-terminal domain		Ribosomal_L9_C	5
+PF03949	Malic enzyme, NAD binding domain	CL0063	Malic_M	1
+PF03951	Glutamine synthetase, beta-Grasp domain		Gln-synt_N	5
+PF03952	Enolase, N-terminal domain	CL0227	Enolase_N	21
+PF04002	RadC-like JAB domain	CL0366	RadC	2
+PF04011	LemA family		LemA	1
+PF04079	Segregation and condensation complex subunit ScpB	CL0123	SMC_ScpB	3
+PF04101	Glycosyltransferase family 28 C-terminal domain	CL0113	Glyco_tran_28_C	3
+PF04223	Citrate lyase, alpha subunit (CitF)	CL0063	CitF	76
+PF04262	Glutamate-cysteine ligase 	CL0286	Glu_cys_ligase	1
+PF04284	Protein of unknown function (DUF441)		DUF441	3
+PF04295	D-galactarate dehydratase/Altronate hydrolase, second domain		GD_AH_second	1
+PF04297	Putative helix-turn-helix protein, YlxM / p13 like	CL0123	UPF0122	6
+PF04321	RmlD substrate binding domain	CL0063	RmlD_sub_bind	13
+PF04327	Cysteine protease Prp		Peptidase_Prp	1
+PF04386	Stringent starvation protein B		SspB	2
+PF04466	Phage terminase large subunit	CL0023	Terminase_3	1
+PF04468	PSP1 C-terminal conserved region		PSP1	8
+PF04536	TPM domain	CL0063	TPM_phosphatase	1
+PF04539	Sigma-70 region 3	CL0123	Sigma70_r3	11
+PF04542	Sigma-70 region 2 	CL0123	Sigma70_r2	7
+PF04560	RNA polymerase Rpb2, domain 7		RNA_pol_Rpb2_7	2
+PF04565	RNA polymerase Rpb2, domain 3		RNA_pol_Rpb2_3	5
+PF04586	Caudovirus prohead serine protease 	CL0201	Peptidase_S78	4
+PF04607	Region found in RelA / SpoT proteins	CL0260	RelA_SpoT	2
+PF04616	Glycosyl hydrolases family 43	CL0143	Glyco_hydro_43	2
+PF04630	Phage tail tube protein	CL0504	Phage_TTP_1	2
+PF04914	DltD protein	CL0264	DltD	16
+PF04998	RNA polymerase Rpb1, domain 5		RNA_pol_Rpb1_5	14
+PF05103	DivIVA protein		DivIVA	2
+PF05107	CRISPR-associated protein Cas7		Cas_Cas7	9
+PF05173	Dihydrodipicolinate reductase, C-terminus	CL0139	DapB_C	1
+PF05191	Adenylate kinase, active site lid		ADK_lid	1
+PF05192	MutS domain III		MutS_III	7
+PF05198	Translation initiation factor IF-3, N-terminal domain		IF3_N	4
+PF05256	Uncharacterised protein family (UPF0223)		UPF0223	3
+PF05343	M42 glutamyl aminopeptidase	CL0105	Peptidase_M42	6
+PF05362	Lon protease (S16) C-terminal proteolytic domain	CL0329	Lon_C	1
+PF05382	Bacteriophage peptidoglycan hydrolase 	CL0125	Amidase_5	16
+PF05389	Negative regulator of genetic competence (MecA)		MecA	1
+PF05491	RuvB C-terminal winged helix domain	CL0123	RuvB_C	3
+PF05496	Holliday junction DNA helicase RuvB P-loop domain	CL0023	RuvB_N	24
+PF05525	Branched-chain amino acid transport protein	CL0062	Branch_AA_trans	8
+PF05544	Proline racemase	CL0288	Pro_racemase	7
+PF05636	HIGH Nucleotidyl Transferase	CL0039	HIGH_NTase1	18
+PF05673	Protein of unknown function (DUF815)	CL0023	DUF815	1
+PF05686	Glycosyl transferase family 90	CL0113	Glyco_transf_90	1
+PF05738	Cna protein B-type domain	CL0287	Cna_B	50
+PF05833	NFACT N-terminal and middle domains	CL0303	NFACT_N	9
+PF05848	CtsR N-terminal HTH domain	CL0123	CtsR	2
+PF05870	Phenolic acid decarboxylase (PAD)	CL0116	PA_decarbox	34
+PF05913	6-phospho-N-acetylmuramidase, C-terminal	CL0475	MupG_C	1
+PF05943	EvpB/VC_A0108, tail sheath N-terminal domain		VipB	2
+PF05975	Bacterial ABC transporter protein EcsB		EcsB	8
+PF05979	Bacterial protein of unknown function (DUF896)		DUF896	3
+PF06014	YqgQ-like		YqgQ-like	8
+PF06018	CodY GAF-like domain	CL0161	CodY	1
+PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	CL0063	Rib_5-P_isom_A	5
+PF06030	Bacterial protein of unknown function (DUF916)	CL0159	DUF916	4
+PF06071	Protein of unknown function (DUF933)	CL0072	YchF-GTPase_C	10
+PF06100	MCRA family	CL0063	MCRA	8
+PF06107	Bacterial protein of unknown function (DUF951)	CL0010	DUF951	6
+PF06115	Domain of unknown function (DUF956)	CL0266	DUF956	9
+PF06134	L-rhamnose isomerase (RhaA)	CL0036	RhaA	45
+PF06135	IreB regulatory phosphoprotein		IreB	8
+PF06149	Protein of unknown function (DUF969)		DUF969	2
+PF06153	Cyclic-di-AMP receptor	CL0089	CdAMP_rec	3
+PF06156	Initiation control protein YabA		YabA	2
+PF06160	Septation ring formation regulator, EzrA 		EzrA	3
+PF06166	Protein of unknown function (DUF979)		DUF979	17
+PF06177	QueT transporter	CL0315	QueT	2
+PF06257	Biofilm formation stimulator VEG	CL0010	VEG	2
+PF06265	Putative antitoxin YutD-like		YutD-like	2
+PF06279	Protein of unknown function (DUF1033)		DUF1033	5
+PF06325	Ribosomal protein L11 methyltransferase (PrmA)	CL0063	PrmA	5
+PF06418	CTP synthase N-terminus	CL0023	CTP_synth_N	25
+PF06421	GTP-binding protein LepA C-terminus		LepA_C	11
+PF06470	SMC proteins Flexible Hinge Domain		SMC_hinge	1
+PF06574	FAD synthetase	CL0039	FAD_syn	5
+PF06612	Protein of unknown function (DUF1146)		DUF1146	5
+PF06689	ClpX C4-type zinc finger	CL0167	zf-C4_ClpX	2
+PF06723	MreB/Mbl protein	CL0108	MreB_Mbl	2
+PF06738	Putative threonine/serine exporter	CL0470	ThrE	1
+PF06824	Metal-independent alpha-mannosidase (GH125)	CL0059	Glyco_hydro_125	14
+PF06831	Formamidopyrimidine-DNA glycosylase H2TH domain	CL0303	H2TH	2
+PF06855	YozE SAM-like fold		YozE_SAM_like	2
+PF06857	Malonate decarboxylase delta subunit (MdcD)		ACP	3
+PF06908	YspA SLOG family	CL0349	YpsA	1
+PF06964	Alpha-L-arabinofuranosidase C-terminal domain	CL0369	Alpha-L-AF_C	9
+PF06971	Putative DNA-binding protein N-terminus	CL0123	Put_DNA-bind_N	1
+PF07274	Protein of unknown function (DUF1440)		DUF1440	1
+PF07288	RNA polymerase epsilon subunit		RpoY	2
+PF07408	Protein of unknown function (DUF1507)		DUF1507	1
+PF07470	Glycosyl Hydrolase Family 88	CL0059	Glyco_hydro_88	5
+PF07475	HPr Serine kinase C-terminal domain	CL0374	Hpr_kinase_C	9
+PF07478	D-ala D-ala ligase C-terminus	CL0179	Dala_Dala_lig_C	4
+PF07479	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus	CL0106	NAD_Gly3P_dh_C	7
+PF07497	Rho termination factor, RNA-binding domain	CL0021	Rho_RNA_bind	14
+PF07516	SecA Wing and Scaffold domain		SecA_SW	7
+PF07517	SecA DEAD-like domain	CL0023	SecA_DEAD	15
+PF07553	Host cell surface-exposed lipoprotein		Lipoprotein_Ltp	18
+PF07563	Protein of unknown function (DUF1541)	CL0010	DUF1541	6
+PF07650	KH domain	CL0007	KH_2	9
+PF07662	Na+ dependent nucleoside transporter C-terminus		Nucleos_tra2_C	8
+PF07724	AAA domain (Cdc48 subfamily)	CL0023	AAA_2	31
+PF07726	ATPase family associated with various cellular activities (AAA)	CL0023	AAA_3	1
+PF07733	Bacterial DNA polymerase III alpha NTPase domain	CL0260	DNA_pol3_alpha	11
+PF07831	Pyrimidine nucleoside phosphorylase C-terminal domain	CL0105	PYNP_C	8
+PF07971	Glycosyl hydrolase family 92 catalytic domain	CL0059	Glyco_hydro_92	4
+PF07972	NrdI Flavodoxin like 	CL0042	Flavodoxin_NdrI	2
+PF07977	FabA-like domain	CL0050	FabA	4
+PF08206	Ribonuclease B OB domain	CL0021	OB_RNB	1
+PF08207	Elongation factor P (EF-P) KOW-like domain	CL0010	EFP_N	3
+PF08220	DeoR-like helix-turn-helix domain	CL0123	HTH_DeoR	4
+PF08222	CodY helix-turn-helix domain	CL0123	HTH_CodY	8
+PF08264	Anticodon-binding domain of tRNA ligase	CL0258	Anticodon_1	1
+PF08282	haloacid dehalogenase-like hydrolase	CL0137	Hydrolase_3	13
+PF08299	Bacterial dnaA protein helix-turn-helix	CL0123	Bac_DnaA_C	3
+PF08353	MurT ligase C-terminal		MurT_C	2
+PF08439	Oligopeptidase F		Peptidase_M3_N	3
+PF08459	UvrC RNAse H endonuclease domain	CL0219	UvrC_RNaseH_dom	6
+PF08499	3'5'-cyclic nucleotide phosphodiesterase N-terminal		PDEase_I_N	13
+PF08531	Alpha-L-rhamnosidase N-terminal domain	CL0202	Bac_rhamnosid_N	2
+PF08541	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal  	CL0046	ACP_syn_III_C	2
+PF08543	Phosphomethylpyrimidine kinase	CL0118	Phos_pyr_kin	7
+PF08707	Primase C terminal 2 (PriCT-2)   		PriCT_2	5
+PF08796	Protein of unknown function (DUF1797)		DUF1797	4
+PF08798	CRISPR associated protein	CL0362	CRISPR_assoc	2
+PF09182	Bacterial purine repressor, N-terminal	CL0123	PuR_N	1
+PF09269	Domain of unknown function (DUF1967)		DUF1967	2
+PF09323	DUF1980 N-terminal domain		DUF1980	1
+PF09334	tRNA synthetases class I (M)	CL0039	tRNA-synt_1g	3
+PF09363	XFP C-terminal domain	CL0591	XFP_C	3
+PF09364	XFP N-terminal domain	CL0254	XFP_N	70
+PF09371	Tex-like protein N-terminal domain		Tex_N	11
+PF09382	RQC domain	CL0123	RQC	1
+PF09397	Ftsk gamma domain	CL0123	FtsK_gamma	3
+PF09424	Yqey-like protein	CL0279	YqeY	2
+PF09515	Thiamine transporter protein (Thia_YuaJ)	CL0315	Thia_YuaJ	5
+PF09586	Bacterial membrane protein YfhO	CL0111	YfhO	6
+PF09677	Type-F conjugative transfer system protein (TrbI_Ftype)		TrbI_Ftype	1
+PF09693	Phage uncharacterised protein (Phage_XkdX)		Phage_XkdX	7
+PF09902	Uncharacterized protein conserved in bacteria (DUF2129)		DUF2129	2
+PF09911	Uncharacterized protein conserved in bacteria (DUF2140)		DUF2140	2
+PF09989	CoA enzyme activase uncharacterised domain (DUF2229)	CL0108	DUF2229	6
+PF10022	Uncharacterized protein conserved in bacteria (DUF2264)	CL0059	DUF2264	3
+PF10073	GapR-like, DNA-binding domain		GapR_DNA-bd	1
+PF10141	Single-strand DNA-specific exonuclease, C terminal domain		ssDNA-exonuc_C	1
+PF10145	Phage-related minor tail protein		PhageMin_Tail	4
+PF10150	Ribonuclease E/G family		RNase_E_G	4
+PF10282	Lactonase, 7-bladed beta-propeller	CL0186	Lactonase	8
+PF10298	WhiA N-terminal LAGLIDADG-like domain	CL0324	WhiA_N	14
+PF10385	RNA polymerase beta subunit external 1 domain		RNA_pol_Rpb2_45	1
+PF10396	GTP-binding protein TrmE N-terminus	CL0289	TrmE_N	9
+PF10418	Iron-sulfur cluster binding domain of dihydroorotate dehydrogenase B	CL0486	DHODB_Fe-S_bind	1
+PF10431	C-terminal, D2-small domain, of ClpB protein 	CL0671	ClpB_D2-small	5
+PF10458	Valyl tRNA synthetase tRNA binding arm	CL0298	Val_tRNA-synt_C	6
+PF10509	Galactokinase galactose-binding signature	CL0329	GalKase_gal_bdg	3
+PF10941	Protein of unknown function DUF2620		DUF2620	2
+PF11044	Plectrovirus spv1-c74 ORF 12 transmembrane protein		TMEMspv1-c74-12	1
+PF11217	Protein of unknown function (DUF3013)		DUF3013	14
+PF11240	Protein of unknown function (DUF3042)		DUF3042	3
+PF11694	Protein of unknown function (DUF3290)		DUF3290	2
+PF11762	L-arabinose isomerase C-terminal domain	CL0105	Arabinose_Iso_C	2
+PF11772	DNA-directed RNA polymerase subunit beta		EpuA	1
+PF11797	Protein of unknown function C-terminal (DUF3324)		DUF3324	1
+PF11858	Domain of unknown function (DUF3378)	CL0407	DUF3378	3
+PF11987	Translation-initiation factor 2		IF-2	4
+PF12002	MgsA AAA+ ATPase C terminal	CL0604	MgsA_C	6
+PF12010	Domain of unknown function (DUF3502)		DUF3502	6
+PF12072	RNase Y N-terminal region		RNase_Y_N	9
+PF12344	Ultra-violet resistance protein B	CL0023	UvrB	3
+PF12437	Glutamine synthetase type III N terminal 		GSIII_N	1
+PF12631	MnmE helical domain		MnmE_helical	3
+PF12684	PDDEXK-like domain of unknown function (DUF3799)	CL0236	DUF3799	6
+PF12836	Helix-hairpin-helix motif	CL0198	HHH_3	3
+PF12905	Endo-alpha-N-acetylgalactosaminidase	CL0036	Glyco_hydro_101	13
+PF13101	Protein of unknown function (DUF3945)	CL0167	DUF3945	1
+PF13177	DNA polymerase III, delta subunit	CL0023	DNA_pol3_delta2	5
+PF13184	NusA-like KH domain	CL0007	KH_5	2
+PF13243	Squalene-hopene cyclase C-terminal domain	CL0059	SQHop_cyclase_C	1
+PF13275	S4 domain	CL0492	S4_2	7
+PF13277	YmdB-like protein	CL0163	YmdB	13
+PF13328	HD domain	CL0237	HD_4	3
+PF13350	Tyrosine phosphatase family	CL0031	Y_phosphatase3	4
+PF13353	4Fe-4S single cluster domain	CL0344	Fer4_12	5
+PF13361	UvrD-like helicase C-terminal domain	CL0023	UvrD_C	10
+PF13413	Helix-turn-helix domain	CL0123	HTH_25	2
+PF13479	AAA domain	CL0023	AAA_24	1
+PF13527	Acetyltransferase (GNAT) domain	CL0257	Acetyltransf_9	3
+PF13561	Enoyl-(Acyl carrier protein) reductase	CL0063	adh_short_C2	1
+PF13572	Domain of unknown function (DUF4134)	CL0690	DUF4134	1
+PF13603	Leucyl-tRNA synthetase, editing domain	CL0039	tRNA-synt_1_2	9
+PF13614	AAA domain	CL0023	AAA_31	11
+PF13684	Fatty acid kinase subunit A-like, C-terminal	CL0245	FakA-like_C	7
+PF13702	Lysozyme-like	CL0037	Lysozyme_like	5
+PF13731	WxL domain surface cell wall-binding		WxL	6
+PF13793	N-terminal domain of ribose phosphate pyrophosphokinase	CL0533	Pribosyltran_N	34
+PF13932	tRNA modifying enzyme MnmG/GidA C-terminal helical bundle	CL0003	GIDA_C	3
+PF14490	Helix-hairpin-helix containing domain	CL0198	HHH_4	4
+PF14492	Elongation Factor G, domain III	CL0437	EFG_III	7
+PF14681	Uracil phosphoribosyltransferase	CL0533	UPRTase	1
+PF14698	Argininosuccinate lyase C-terminal		ASL_C2	1
+PF14714	KH-domain-like of EngA bacterial GTPase enzymes, C-terminal		KH_dom-like	1
+PF14804	Jag N-terminus		Jag_N	4
+PF14850	DNA-binding domain of Proline dehydrogenase		Pro_dh-DNA_bdg	1
+PF16193	AAA C-terminal domain	CL0671	AAA_assoc_2	3
+PF16320	Ribosomal protein L7/L12 dimerisation domain		Ribosomal_L12_N	1
+PF16321	Sigma 54 modulation/S30EA ribosomal protein C terminus		Ribosom_S30AE_C	6
+PF16360	GTP-binding GTPase Middle Region		GTP-bdg_M	3
+PF16658	Class II release factor RF3, C-terminal domain	CL0437	RF3_C	6
+PF16775	Target recognition domain of lytic exoenzyme		ZoocinA_TRD	34
+PF16870	2-oxoglutarate dehydrogenase C-terminal	CL0591	OxoGdeHyase_C	2
+PF16889	Heparinase II/III N-terminus	CL0059	Hepar_II_III_N	2
+PF16921	Tex protein YqgF-like domain	CL0580	Tex_YqgF	1
+PF16938	Putative phage holin Dp-1		Phage_holin_Dp1	23
+PF16957	Malonate decarboxylase, alpha subunit, transporter	CL0063	Mal_decarbox_Al	1
+PF17136	Ribosomal proteins 50S L24/mitochondrial 39S L24	CL0010	ribosomal_L24	10
+PF17167	Glycosyl hydrolase 36 superfamily, catalytic domain	CL0059	Glyco_hydro_36	1
+PF17255	EbsA-like protein	CL0266	EbsA	1
+PF17389	Bacterial alpha-L-rhamnosidase 6 hairpin glycosidase domain	CL0059	Bac_rhamnosid6H	6
+PF17657	Bacterial DNA polymerase III alpha subunit finger domain		DNA_pol3_finger	13
+PF17757	UvrB interaction domain	CL0664	UvrB_inter	10
+PF17760	UvrA interaction domain		UvrA_inter	7
+PF17762	HTH domain found in ParB protein	CL0123	HTH_ParB	3
+PF17774	Putative RNA-binding domain in YlmH	CL0221	YlmH_RBD	2
+PF17783	CvfB-like winged helix domain	CL0123	CvfB_WH	1
+PF17831	Pyruvate dehydrogenase E1 component middle domain	CL0254	PDH_E1_M	2
+PF17854	FtsK alpha domain		FtsK_alpha	2
+PF17862	AAA+ lid domain	CL0671	AAA_lid_3	1
+PF17864	RuvB AAA lid domain	CL0671	AAA_lid_4	4
+PF17871	AAA lid domain	CL0671	AAA_lid_9	23
+PF17881	Domain of unknown function (DUF5590)	CL0320	DUF5590	1
+PF17974	Galactose-binding domain-like	CL0220	GalBD_like	2
+PF18072	Formylglycinamide ribonucleotide amidotransferase linker domain		FGAR-AT_linker	1
+PF18146	Damage-inducible protein CinA KH domain		CinA_KH	1
+PF18419	ATP-grasp-like domain	CL0179	ATP-grasp_6	2
+PF18438	Glycosyl hydrolases family 38 C-terminal domain 1	CL0103	Glyco_hydro_38	4
+PF18708	MapZ extracellular C-terminal domain 2		MapZ_C2	7
+PF18848	Bacterial archaeo-eukaryotic release factor family 6	CL0267	baeRF_family6	1
+PF19044	TraG P-loop domain	CL0023	P-loop_TraG	1
+PF19200	6-phospho-N-acetylmuramidase, N-terminal	CL0036	MupG_N	11
+PF19528	Family of unknown function (DUF6056)		DUF6056	5
+PF19556	PRTRC system protein E		PRTRC_E	1
+PF19833	ATP-dependent DNA helicase RecG, domain 3, C-terminal		RecG_dom3_C	1
+PF20259	tRNA methyl transferase PRC-barrel domain	CL0350	tRNA_Me_trans_M	1
+PF20609	Putative adhesive domain (group 17)		pAdhesive_17	2
+PF20629	D-galactarate/Altronate dehydratase, C-terminal		GD_AH_C	10
+PF20730	YetF N-terminal transmembrane domain		YetF_N	8
+PF20772	TACO1/YebC protein N-terminal domain		TACO1_YebC_N	15
+PF20791	Acyl-ACP thioesterase C-terminal domain	CL0050	Acyl-ACP_TE_C	3
+PF21016	Ribosomal RNA large subunit methyltransferase N-terminal domain	CL0198	RlmN_N	1
+PF21018	TypA/BipA C-terminal domain		BipA_C	8
+PF21090	SecA P-loop domain	CL0023	P-loop_SecA	29
+PF21096	RecA C-terminal domain		RecA_C	2
+PF21191	CvfB first S1-like domain	CL0021	CvfB_1st	4
+PF21196	PcrA/UvrD tudor domain	CL0010	PcrA_UvrD_tudor	3
+PF21391	Tyrosine decarboxylase, C-terminal	CL0061	tyr_de_CO2_C	6
+PF21467	Beta-galactosidase, galactose-binding domain	CL0202	BetaGal_gal-bd	1
+PF21516	YqeH-like, C-terminal		YqeH-like_C	5
+PF21537	DUF1980 C-terminal domain		DUF1980_C	1
+PF21543	Virulence regulatory factor CvfB, second domain	CL0021	CvfB_2nd	5
+PF21645	Fatty acid kinase subunit A-like, middle domain	CL0704	FakA-like_M	2
+PF21760	Protein translocase subunit SecDF, P1 domain, N-terminal	CL0322	SecD_1st	2

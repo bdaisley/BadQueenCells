@@ -1,0 +1,140 @@
+L1	ID	Function	EC	UNIPROT ID	Count
+Virus protein with function beneficial for the host	VOG00260	Guanylate kinase		KGUA_HUMAN	61
+Virus protein with function beneficial for the host	VOG00420	Bleomycin hydrolase		BLMH_RAT	19
+Function unknown	VOG00485	Putative protein p50		VP50_BPAPS	2
+Virus protein with function beneficial for the host	VOG00580	RNA polymerase sigma factor RpoD		RPOD_ECOLI	311
+Function unknown	VOG01208	Putative protein p41		VP41_BPAPS	343
+Function unknown	VOG01318	Hypothetical protein			29
+Function unknown	VOG01324	Terminase large subunit			133
+Virus protein with function beneficial for the host | Virus replication	VOG01469	DNA polymerase III subunit alpha		DPO3A_THEAQ	167
+Function unknown	VOG01904	Helix-turn-helix domain-containing protein			40
+Virus protein with function beneficial for the host	VOG02491	ATP-dependent Clp protease proteolytic subunit 1		CLPP1_PROMT	22
+Virus replication	VOG02518	Thymidylate synthase		TYSY_BPT4	368
+Virus protein with function beneficial for the host	VOG03338	PhoH-like protein		PHOL_BACSU	133
+Virus protein with function beneficial for the host	VOG03679	Exodeoxyribonuclease WalJ		WALJ_STRP2	4
+Function unknown	VOG03962	Putative protein p51		VP51_BPAPS	7
+Function unknown	VOG04683	Putative protein p41		VP41_BPAPS	9
+Virus protein with function beneficial for the host	VOG06773	Phosphoribosylglycinamide formyltransferase		PUR3_STAAC	9
+Virus protein with function beneficial for the host | Virus replication	VOG07106	Elongation factor Tu		EFTU_ALCBS	14
+Function unknown	VOG08271	Probable methylated-DNA--protein-cysteine methyltransferase		MGMT_MIMIV	6
+Function unknown	VOG08597	Transcriptional regulator			84
+Function unknown	VOG09088	Putative terminase large subunit			65
+Virus protein with function beneficial for the host	VOG09118	Cysteine--tRNA ligase, cytoplasmic		SYCC_DICDI	43
+Function unknown	VOG09269	Chloramphenicol acetyltransferase			29
+Function unknown	VOG09415	DNA helicase			1026
+Function unknown	VOG10427	Hypothetical protein			125
+Virus protein with function beneficial for the host	VOG11227	ABC transporter F family member 4		AB4F_ARATH	52
+Virus protein with function beneficial for the host | Virus replication	VOG11241	Multifunctional CCA protein		CCA_SHEPA	69
+Virus protein with function beneficial for the host	VOG11485	Valine--tRNA ligase		SYV_RICRS	1
+Virus protein with function beneficial for the host	VOG11514	ComE operon protein 3		COMEC_BACSU	22
+Virus protein with function beneficial for the host	VOG12011	DNA topoisomerase 2-alpha		TOP2A_CRIGR	156
+Function unknown	VOG12029	Hypothetical protein			126
+Virus protein with function beneficial for the host	VOG12234	Serine hydroxymethyltransferase		GLYA_NITSB	296
+Virus protein with function beneficial for the host	VOG13448	ATP-dependent zinc metalloprotease FTSH 1, chloroplastic		FTSH1_ORYSJ	119
+Function unknown	VOG13774	Major head protein			17
+Function unknown	VOG13845	Tail length tape measure protein			110
+Function unknown	VOG14074	DnaJ-like protein R260		YR260_MIMIV	78
+Virus protein with function beneficial for the host	VOG14634	Chromosome partitioning protein ParA		PARA_CAUVN	47
+Virus protein with function beneficial for the host	VOG14640	34.2 kDa protein in rubredoxin operon		R34K_CLOPA	117
+Virus protein with function beneficial for the host | Virus replication	VOG15191	Thymidine kinase		KITH_BPT4	100
+Virus protein with function beneficial for the host | Virus replication	VOG15635	DNA polymerase		DPOL_BPMD2	4
+Virus protein with function beneficial for the host | Virus replication	VOG17070	DNA polymerase		DPOL_BPSP2	69
+Virus protein with function beneficial for the host	VOG17365	Ribonucleoside-diphosphate reductase subunit beta		RIR2_BACSU	95
+Virus protein with function beneficial for the host	VOG17654	Glucose-1-phosphate thymidylyltransferase		RMLA_YEREN	216
+Virus protein with function beneficial for the host	VOG18561	Eukaryotic peptide chain release factor GTP-binding subunit ERF3A		ERF3A_HUMAN	25
+Virus protein with function beneficial for the host	VOG18566	DTDP-4-dehydrorhamnose 3,5-epimerase		RMLC_METTH	58
+Function unknown	VOG18639	Threonylcarbamoyl AMP synthase			4
+Virus protein with function beneficial for the host	VOG19014	Putative helicase 184R		VF184_IIV6	28
+Function unknown	VOG19709	Acetyltransferase			9
+Virus replication	VOG19856	Resolvase homolog YokA		YOKA_BACSU	59
+Virus protein with function beneficial for the host	VOG20884	GMP reductase		GMPR_ONCVO	280
+Virus protein with function beneficial for the host	VOG20913	DNA topoisomerase medium subunit		TOP5_BPT4	448
+Virus protein with function beneficial for the host | Virus replication	VOG20914	Deoxycytidylate deaminase		DCTD_BPT4	5
+Virus protein with function beneficial for the host	VOG21362	Phosphoribosylformylglycinamidine cyclo-ligase		PUR5_SYNSC	38
+Virus protein with function beneficial for the host	VOG21951	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive		AROF_ECOLI	1
+Virus protein with function beneficial for the host	VOG22568	Ribonucleoside-diphosphate reductase subunit alpha		RIR1_MYCBO	129
+Virus protein with function beneficial for the host	VOG22863	Ribonucleoside-diphosphate reductase 2 subunit beta		RIR4_SALTY	46
+Virus protein with function beneficial for the host	VOG23825	Adenylosuccinate lyase		PUR8_VIBC3	16
+Function unknown	VOG24355	Uracil-DNA glycosylase		UNG_VACCA	144
+Virus protein with function beneficial for the host	VOG24848	Threonine--tRNA ligase 1, cytoplasmic		SYTC_HUMAN	3
+Function unknown	VOG26781	Replication terminator			2
+Virus protein with function beneficial for the host	VOG26984	ATP-dependent Clp protease ATP-binding subunit ClpX		CLPX_NOCSJ	3
+Function unknown	VOG28987	Replication terminator			10
+Virus protein with function beneficial for the host	VOG29087	Tyrosine--tRNA ligase 1		SYY1_VIBVY	71
+Function unknown	VOG29131	DNA primase			57
+Virus protein with function beneficial for the host	VOG29637	Glycine dehydrogenase (decarboxylating)		GCSP_PROM3	1
+Function unknown	VOG30606	Hypothetical protein			1
+Virus protein with function beneficial for the host	VOG30672	Dihydrofolate reductase		DYR_BPT4	62
+Function unknown	VOG30786	Single-stranded DNA-binding protein		SSB_MYCTU	422
+Virus protein with function beneficial for the host	VOG32455	Chaperonin GroEL		CH60_KARMG	115
+Function unknown	VOG33061	Hypothetical protein			409
+Function unknown	VOG33675	Involved in bacteriocin production or immunity			194
+Virus protein with function beneficial for the host	VOG37244	ATP-dependent protease ATPase subunit HslU		HSLU_CALS8	3
+Function unknown	VOG37263	Putative protein p41		VP41_BPAPS	78
+Virus protein with function beneficial for the host | Virus structure	VOG37466	DNA topoisomerase 1 type prokaryotic		TOP1P_MIMIV	134
+Function unknown	VOG39225	SsrA-binding protein		SSRP_KLEP7	41
+Virus protein with function beneficial for the host | Virus replication	VOG39242	Replicative DNA helicase		DNAC_BACSU	103
+Virus replication	VOG39447	DNA-binding protein HU		DBH_GEOSE	23
+Virus protein with function beneficial for the host	VOG39647	Asparagine--tRNA ligase		SYN_CLOPS	6
+Virus protein with function beneficial for the host	VOG39922	F-box DNA helicase 1		FBH1_MOUSE	9
+Function unknown	VOG39935	Tail assembly chaperone			114
+Virus protein with function beneficial for the host	VOG40469	Anaerobic ribonucleoside-triphosphate reductase		NRDD_SALTY	790
+Function unknown	VOG40691	Hypothetical protein			72
+Function unknown	VOG41057	Amidase			131
+Virus protein with function beneficial for the host	VOG41563	Probable glutamine--fructose-6-phosphate aminotransferase [isomerizing]		GFAT_MIMIV	82
+Virus protein with function beneficial for the host	VOG41690	Glucose-6-phosphate 1-dehydrogenase		G6PD_SYNE7	3
+Function unknown	VOG44023	Minor tail protein			1
+Function unknown	VOG44330	Cold shock-like protein CspD		CSPD_VIBCH	32
+Virus protein with function beneficial for the host	VOG45237	Arginine--tRNA ligase, cytoplasmic		SYRC_BOVIN	28
+Virus protein with function beneficial for the host	VOG45503	Serine/threonine-protein kinase 1		PK1_NPVHZ	33
+Virus protein with function beneficial for the host	VOG46482	Lysine--tRNA ligase		SYK_CRIGR	163
+Virus protein with function beneficial for the host	VOG47240	GTP pyrophosphokinase		RELA_STRAT	4
+Function unknown	VOG48422	Head-tail adaptor			64
+Virus protein with function beneficial for the host	VOG48747	Heat shock 70 kDa protein homolog		HSP70_MIMIV	123
+Virus protein with function beneficial for the host	VOG49226	UDP-N-acetylglucosamine 2-epimerase		WECB_METMP	150
+Virus protein with function beneficial for the host	VOG50688	Autonomous glycyl radical cofactor		GRCA_BPT4	63
+Virus protein with function beneficial for the host	VOG50974	ATP-dependent Clp protease ATP-binding subunit ClpA		CLPA_ECOLI	1182
+Virus protein with function beneficial for the host	VOG52497	Autonomous glycyl radical cofactor		GRCA_KLEP7	45
+Virus protein with function beneficial for the host	VOG53034	Bactoprenol glucosyl transferase		GTRB_BPSF5	53
+Function unknown	VOG53623	Putative tail protein		TAIL_BPMR1	5
+Function unknown	VOG53722	Hypothetical protein			6
+Function unknown	VOG55136	DNA binding protein			4
+Function unknown	VOG55385	Carboxylate--amine ligase			19
+Virus protein with function beneficial for the host | Virus replication | Virus structure	VOG56103	DNA-directed RNA polymerase 147 kDa polypeptide		RP147_MONPV	17
+Virus replication	VOG56145	Holliday junction resolvase RecU		RECU_GEOSW	4
+Function unknown	VOG56265	Superinfection exclusion			118
+Virus replication	VOG56411	Small ribosomal subunit protein bS21		RS21_YERPP	24
+Virus protein with function beneficial for the host	VOG56453	Cold shock-like protein CspJ		CSPJ_SALTS	9
+Virus protein with function beneficial for the host | Virus replication	VOG56757	DNA ligase		DNLJ_CAMC1	149
+Virus protein with function beneficial for the host | Virus replication	VOG56822	RecQ-like DNA helicase BLM		BLM_MOUSE	22
+Virus protein with function beneficial for the host	VOG57075	Bifunctional purine biosynthesis protein PurH		PUR9_SYNS3	32
+Function unknown	VOG57154	Hypothetical protein			60
+Virus protein with function beneficial for the host | Virus replication	VOG57177	Integrase		INTR_SACER	263
+Function unknown	VOG57452	Exodeoxyribonuclease 7 large subunit		EX7L_COREF	96
+Virus protein with function beneficial for the host | Virus structure	VOG58565	Movement protein Hsp70h		MVP_LIYV9	105
+Function unknown	VOG60362	DNA helicase			323
+Function unknown	VOG60711	Hypothetical protein			330
+Function unknown	VOG60876	SPbeta prophage-derived uncharacterized protein YorM		YORM_BACSU	74
+Function unknown	VOG61787	Anti-repressor Ant			26
+Function unknown	VOG61899	Anti-repressor Ant			130
+Function unknown	VOG62282	Ribonuclease R		RNR_BACSU	81
+Function unknown	VOG62698	Minor head protein			1071
+Function unknown	VOG63305	Tail length tape measure protein			2
+Virus replication	VOG64443	Terminase small subunit		TERS_BPSF6	112
+Function unknown	VOG64671	FtsK/SpoIIIE-like protein			125
+Function unknown	VOG64695	Gp2.5-like ssDNA binding protein and ssDNA annealing protein			197
+Virus protein with function beneficial for the host	VOG65159	ATP-dependent zinc metalloprotease FTSH, chloroplastic		FTSH_TOBAC	2
+Virus protein with function beneficial for the host	VOG65283	Ribonucleoside-diphosphate reductase NrdEB subunit alpha		NRDEB_BACSU	64
+Function unknown	VOG66140	Anti-repressor			141
+Function unknown	VOG66312	Hypothetical protein			8
+Function unknown	VOG66586	Tail length tape measure protein			180
+Function unknown	VOG66617	DnaD-like helicase loader			1
+Function unknown	VOG66709	Helix-turn-helix domain-containing protein			28
+Function unknown	VOG67098	Hypothetical protein			22
+Function unknown	VOG67118	HNH endonuclease			6
+Function unknown	VOG69026	Putative human platelet-binding protein			70
+Function unknown	VOG69451	Anti-repressor Ant			4
+Function unknown	VOG69875	Anti-repressor Ant			58
+Virus protein with function beneficial for the host	VOG69918	Ribonucleoside-diphosphate reductase subunit alpha		RIR1_MYCBO	137
+Function unknown	VOG71353	Head maturation protease			1
+Virus protein with function beneficial for the host	VOG71596	Protein Soj homolog		SOJ_TREPA	86

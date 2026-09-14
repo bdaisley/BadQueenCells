@@ -1,0 +1,4 @@
+L1	L2	ID	Function	Gene	Count
+MACROLIDE	MACROLIDE	NF000355.3	ABC-F type ribosomal protection protein	abc-f	1
+TETRACYCLINE	TETRACYCLINE	NF033148.1	TetM/TetW/TetO/TetS family tetracycline resistance ribosomal protection protein	tet	2
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	1

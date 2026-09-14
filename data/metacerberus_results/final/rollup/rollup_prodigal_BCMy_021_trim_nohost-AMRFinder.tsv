@@ -1,0 +1,12 @@
+L1	L2	ID	Function	Gene	Count
+STREPTOGRAMIN	STREPTOGRAMIN	NF000311.1	Vat family streptogramin A O-acetyltransferase	vat	8
+MACROLIDE	MACROLIDE	NF000355.3	ABC-F type ribosomal protection protein	abc-f	13
+GLYCOPEPTIDE	VANCOMYCIN	NF000403.1	vancomycin resistance response regulator transcription factor VanR-C	vanR-C	3
+TETRACYCLINE	TETRACYCLINE	NF000475.1	tetracycline efflux ABC transporter Tet(46) subunit B	tetB(46)	2
+PHENICOL	CHLORAMPHENICOL	NF000490.1	type B chloramphenicol O-acetyltransferase	catB	9
+PHENICOL/OXAZOLIDINONE	FLORFENICOL/OXAZOLIDINONE	NF000514.1	ABC-F type ribosomal protection protein OptrA	optrA	3
+TETRACYCLINE	TETRACYCLINE	NF012153.1	tetracycline resistance ribosomal protection protein	tet	9
+GLYCOPEPTIDE	VANCOMYCIN	NF033091.0	vancomycin resistance histidine kinase VanS	vanS	15
+GLYCOPEPTIDE	VANCOMYCIN	NF033117.2	VanR-ABDEGLN family response regulator transcription factor	vanR	34
+GLYCOPEPTIDE	VANCOMYCIN	NF033120.0	vancomycin resistance response regulator transcription factor, VanR-F/VanR-M family	vanR	9
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	79

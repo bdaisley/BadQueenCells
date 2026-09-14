@@ -1,0 +1,20 @@
+L1	ID	Function	EC	UNIPROT ID	Count
+Virus protein with function beneficial for the host	VOG00580	RNA polymerase sigma factor RpoD		RPOD_ECOLI	4
+Virus protein with function beneficial for the host | Virus replication	VOG01469	DNA polymerase III subunit alpha		DPO3A_THEAQ	2
+Virus protein with function beneficial for the host	VOG09118	Cysteine--tRNA ligase, cytoplasmic		SYCC_DICDI	1
+Virus protein with function beneficial for the host	VOG09123	GTP cyclohydrolase 1		GCH1_DESRM	1
+Virus protein with function beneficial for the host	VOG12011	DNA topoisomerase 2-alpha		TOP2A_CRIGR	1
+Function unknown	VOG13774	Major head protein			1
+Function unknown	VOG13817	UPF0335 protein Avi_3695		Y3695_ALLAM	1
+Virus protein with function beneficial for the host	VOG14634	Chromosome partitioning protein ParA		PARA_CAUVN	2
+Virus protein with function beneficial for the host	VOG17365	Ribonucleoside-diphosphate reductase subunit beta		RIR2_BACSU	1
+Function unknown	VOG17434	DNA translocase FtsK			1
+Virus protein with function beneficial for the host	VOG17654	Glucose-1-phosphate thymidylyltransferase		RMLA_YEREN	1
+Virus protein with function beneficial for the host	VOG22863	Ribonucleoside-diphosphate reductase 2 subunit beta		RIR4_SALTY	1
+Function unknown	VOG30786	Single-stranded DNA-binding protein		SSB_MYCTU	2
+Virus protein with function beneficial for the host | Virus structure	VOG37466	DNA topoisomerase 1 type prokaryotic		TOP1P_MIMIV	2
+Virus protein with function beneficial for the host | Virus replication	VOG39242	Replicative DNA helicase		DNAC_BACSU	1
+Virus protein with function beneficial for the host	VOG48747	Heat shock 70 kDa protein homolog		HSP70_MIMIV	1
+Virus protein with function beneficial for the host	VOG50974	ATP-dependent Clp protease ATP-binding subunit ClpA		CLPA_ECOLI	2
+Virus structure	VOG55687	Virion protein 5		VPN5_BPPHE	1
+Virus protein with function beneficial for the host | Virus structure	VOG58565	Movement protein Hsp70h		MVP_LIYV9	1

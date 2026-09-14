@@ -1,0 +1,85 @@
+ID	Function	Clan	Gene	Count
+PF00004	ATPase family associated with various cellular activities (AAA)	CL0023	AAA	1
+PF00006	ATP synthase alpha/beta family, nucleotide-binding domain	CL0023	ATP-synt_ab	2
+PF00012	Hsp70 protein	CL0108	HSP70	2
+PF00044	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain	CL0063	Gp_dh_N	1
+PF00056	lactate/malate dehydrogenase, NAD binding domain	CL0063	Ldh_1_N	1
+PF00085	Thioredoxin	CL0172	Thioredoxin	1
+PF00091	Tubulin/FtsZ family, GTPase domain	CL0063	Tubulin	1
+PF00120	Glutamine synthetase, catalytic domain	CL0286	Gln-synt_C	1
+PF00121	Triosephosphate isomerase	CL0036	TIM	2
+PF00152	tRNA synthetases class II (D, K and N) 	CL0040	tRNA-synt_2	1
+PF00154	recA bacterial DNA recombination protein	CL0023	RecA	2
+PF00162	Phosphoglycerate kinase		PGK	1
+PF00180	Isocitrate/isopropylmalate dehydrogenase	CL0270	Iso_dh	4
+PF00189	Ribosomal protein S3, C-terminal domain		Ribosomal_S3_C	1
+PF00237	Ribosomal protein L22p/L17e		Ribosomal_L22	2
+PF00308	Bacterial dnaA  protein	CL0023	Bac_DnaA	1
+PF00344	SecY	CL0376	SecY	2
+PF00356	Bacterial regulatory proteins, lacI family	CL0123	LacI	1
+PF00368	Hydroxymethylglutaryl-coenzyme A reductase		HMG-CoA_red	4
+PF00476	DNA polymerase family A		DNA_pol_A	1
+PF00486	Transcriptional regulatory protein, C terminal	CL0123	Trans_reg_C	1
+PF00572	Ribosomal protein L13		Ribosomal_L13	1
+PF00580	UvrD/REP helicase N-terminal domain	CL0023	UvrD-helicase	1
+PF00654	Voltage gated chloride channel		Voltage_CLC	1
+PF00766	Electron transfer flavoprotein FAD-binding domain	CL0063	ETF_alpha	1
+PF00815	Histidinol dehydrogenase	CL0099	Histidinol_dh	2
+PF00920	Dehydratase family		ILVD_EDD	1
+PF00925	GTP cyclohydrolase II		GTP_cyclohydro2	2
+PF00984	UDP-glucose/GDP-mannose dehydrogenase family, central domain	CL0106	UDPG_MGDP_dh	2
+PF01084	Ribosomal protein S18	CL0123	Ribosomal_S18	1
+PF01116	Fructose-bisphosphate aldolase class-II	CL0036	F_bP_aldolase	1
+PF01132	Elongation factor P (EF-P) OB domain	CL0021	EFP	1
+PF01293	Phosphoenolpyruvate carboxykinase	CL0374	PEPCK_ATP	1
+PF01381	Helix-turn-helix	CL0123	HTH_3	1
+PF01406	tRNA synthetases class I (C) catalytic domain	CL0039	tRNA-synt_1e	2
+PF01434	Peptidase family M41	CL0126	Peptidase_M41	1
+PF01450	Acetohydroxy acid isomeroreductase, catalytic domain	CL0106	IlvC	1
+PF01493	GXGXG motif		GXGXG	2
+PF01624	MutS domain I		MutS_I	1
+PF01625	Peptide methionine sulfoxide reductase		PMSR	2
+PF01649	Ribosomal protein S20		Ribosomal_S20p	1
+PF01654	Cytochrome bd terminal oxidase subunit I		Cyt_bd_oxida_I	4
+PF01702	Queuine tRNA-ribosyltransferase	CL0036	TGT	2
+PF01765	Ribosome recycling factor		RRF	2
+PF01933	2-phospho-L-lactate transferase CofD		CofD	1
+PF02481	DNA recombination-mediator protein A	CL0349	DNA_processg_A	1
+PF02547	Queuosine biosynthesis protein		Queuosine_synth	1
+PF02610	L-arabinose isomerase		Arabinose_Isome	1
+PF02773	S-adenosylmethionine synthetase, C-terminal domain		S-AdoMet_synt_C	1
+PF02800	Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain	CL0139	Gp_dh_C	1
+PF02901	Pyruvate formate lyase-like	CL0339	PFL-like	2
+PF03051	Peptidase C1-like family	CL0125	Peptidase_C1_2	2
+PF03590	Aspartate-ammonia ligase	CL0040	AsnA	2
+PF03602	Conserved hypothetical protein 95	CL0063	Cons_hypoth95	1
+PF03613	PTS system mannose/fructose/sorbose family IID component		EIID-AGA	2
+PF03796	DnaB-like helicase C terminal domain	CL0023	DnaB_C	1
+PF03830	PTS system sorbose subfamily IIB component		PTSIIB_sorb	1
+PF03952	Enolase, N-terminal domain	CL0227	Enolase_N	2
+PF04296	Protein of unknown function (DUF448)		YlxR	1
+PF06421	GTP-binding protein LepA C-terminus		LepA_C	1
+PF07516	SecA Wing and Scaffold domain		SecA_SW	2
+PF07517	SecA DEAD-like domain	CL0023	SecA_DEAD	2
+PF07610	Protein of unknown function (DUF1573)	CL0159	DUF1573	1
+PF09334	tRNA synthetases class I (M)	CL0039	tRNA-synt_1g	1
+PF09363	XFP C-terminal domain	CL0591	XFP_C	2
+PF09397	Ftsk gamma domain	CL0123	FtsK_gamma	2
+PF10385	RNA polymerase beta subunit external 1 domain		RNA_pol_Rpb2_45	1
+PF10991	Enterobacter phage Enc34, ssDNA-binding protein	CL0021	Enc34_ssDNA-bd	1
+PF11307	Protein of unknown function (DUF3109)		DUF3109	1
+PF12116	Stage III sporulation protein D	CL0123	SpoIIID	1
+PF12750	Maff2 family	CL0690	Maff2	1
+PF13167	GTP-binding GTPase N-terminal		GTP-bdg_N	1
+PF14254	Domain of unknown function (DUF4348)	CL0051	DUF4348	1
+PF14349	Motility related/secretion protein		SprA_N	2
+PF16325	Peptidase family U32 C-terminal domain	CL0105	Peptidase_U32_C	1
+PF16360	GTP-binding GTPase Middle Region		GTP-bdg_M	1
+PF17136	Ribosomal proteins 50S L24/mitochondrial 39S L24	CL0010	ribosomal_L24	2
+PF17757	UvrB interaction domain	CL0664	UvrB_inter	1
+PF19538	Family of unknown function (DUF6062)		DUF6062	1
+PF19558	Family of unknown function (DUF6080)		DUF6080	1
+PF19568	Sporulation stage III, protein AA	CL0023	Spore_III_AA	1
+PF21090	SecA P-loop domain	CL0023	P-loop_SecA	1
+PF21291	Cyanate hydratase, N-terminal	CL0123	CYNS_N	2
+PF21688	FAD-dependent protein, C-terminal domain-like	CL0063	FAD-depend_C	1

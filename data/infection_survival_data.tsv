@@ -1,0 +1,144 @@
+caste	Day	1_Control	3_ATCC	5_qk206	2_BQCV	4_ATCC+BQCV	6_qk206+BQCV
+queen	2	1	1	1	1	1	1
+queen	2	1	1	1	1	1	1
+queen	2		1	1	1	1	1
+queen	2			1	1	1	1
+queen	2			1			1
+queen	2			1			1
+queen	2			1			1
+queen	2						1
+queen	2						1
+queen	2						1
+queen	3	1	1	1	1	1	1
+queen	3		1	1		1	1
+queen	3			1		1	1
+queen	3			1		1	1
+queen	4	1	1	1	1	1	
+queen	4		1	1			
+queen	5	1	1	1		1	1
+queen	6	0	0	0	0	1	1
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6		0	0	0	0	0
+queen	6		0	0	0		
+queen	6		0		0		
+queen	6				0		
+queen	6				0		
+queen	2	1	1	1	1	1	1
+queen	2	1	1	1	1	1	1
+queen	2	1	1	1		1	1
+queen	2		1	1		1	1
+queen	2			1			1
+queen	2			1			1
+queen	2			1			1
+queen	2			1			1
+queen	2			1			1
+queen	2			1			1
+queen	2						1
+queen	3	1	1	1	1	1	1
+queen	3			1		1	1
+queen	3			1		1	1
+queen	3			1			1
+queen	3			1			1
+queen	4			1		1	1
+queen	4			1			1
+queen	4						1
+queen	5	1					1
+queen	6	0	0	0	0	1	1
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	0
+queen	6	0	0	0	0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0	0	
+queen	6	0	0		0		
+queen	6	0	0		0		
+queen	6	0	0		0		
+queen	6	0	0		0		
+queen	6	0					
+queen	6	0					
+queen	6	0					
+worker	2	1		1	NA	NA	NA
+worker	2			1	NA	NA	NA
+worker	2			1	NA	NA	NA
+worker	2			1	NA	NA	NA
+worker	3			1	NA	NA	NA
+worker	3			1	NA	NA	NA
+worker	3			1	NA	NA	NA
+worker	4	1		1	NA	NA	NA
+worker	6	1		0	NA	NA	NA
+worker	6	0		0	NA	NA	NA
+worker	6	0		0	NA	NA	NA
+worker	6	0			NA	NA	NA
+worker	6	0			NA	NA	NA
+worker	6	0			NA	NA	NA
+worker	6	0			NA	NA	NA
+worker	6	0			NA	NA	NA
+worker	6	0			NA	NA	NA
+worker	6	0			NA	NA	NA
+worker	2		1		NA	NA	NA
+worker	2		1		NA	NA	NA
+worker	2		1		NA	NA	NA
+worker	3		1		NA	NA	NA
+worker	3		1		NA	NA	NA
+worker	3		1		NA	NA	NA
+worker	3		1		NA	NA	NA
+worker	3		1		NA	NA	NA
+worker	4		1		NA	NA	NA
+worker	5		1		NA	NA	NA
+worker	5		1		NA	NA	NA
+worker	5		1		NA	NA	NA
+worker	5		1		NA	NA	NA
+worker	5		1		NA	NA	NA
+worker	5		1		NA	NA	NA
+worker	6		1		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA
+worker	6		0		NA	NA	NA

@@ -1,0 +1,11 @@
+L1	L2	ID	Function	Gene	Count
+PHENICOL/QUINOLONE	PHENICOL/QUINOLONE	NF000037.1	multidrug efflux RND transporter permease subunit OqxB	oqxB	1
+STREPTOGRAMIN	STREPTOGRAMIN	NF000311.1	Vat family streptogramin A O-acetyltransferase	vat	1
+MACROLIDE	MACROLIDE	NF000355.3	ABC-F type ribosomal protection protein	abc-f	23
+PHENICOL	CHLORAMPHENICOL	NF000490.1	type B chloramphenicol O-acetyltransferase	catB	2
+TETRACYCLINE	TETRACYCLINE	NF012153.1	tetracycline resistance ribosomal protection protein	tet	13
+TETRACYCLINE	TETRACYCLINE	NF012188.1	tetracycline efflux MFS transporter Tet(Y)	tet(Y)	2
+GLYCOPEPTIDE	VANCOMYCIN	NF033091.0	vancomycin resistance histidine kinase VanS	vanS	7
+GLYCOPEPTIDE	VANCOMYCIN	NF033117.2	VanR-ABDEGLN family response regulator transcription factor	vanR	17
+GLYCOPEPTIDE	VANCOMYCIN	NF033120.0	vancomycin resistance response regulator transcription factor, VanR-F/VanR-M family	vanR	4
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	59

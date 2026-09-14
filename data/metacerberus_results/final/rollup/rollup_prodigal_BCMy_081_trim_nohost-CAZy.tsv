@@ -1,0 +1,6 @@
+L1	ID	Function	EC	FUN_ID	Count
+Glycoside hydrolase	GH101	endo-alpha-N-acetylgalactosaminidase	3.2.1.97	GH	1
+Glycoside hydrolase	GH144	endo-beta-1,2-glucanase	3.2.1.71	GH	1
+Glycoside hydrolase	GH93	exo-alpha-L-1,5-arabinanase	3.2.1.-	GH	1
+Glycosyl trasferase	GT3	glycogen synthase	2.4.1.11	GT	2
+Glycosyl trasferase	GT90	UDP-Xyl: (mannosyl) glucuronoxylomannan/galactoxylomannan beta-1,2-xylosyltransferase	2.4.2.-	GT	2

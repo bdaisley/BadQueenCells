@@ -1,0 +1,7 @@
+L1	ID	Function	EC	FUN_ID	Count
+Auxiliary activities	AA3	cellobiose dehydrogenase	1.1.99.18	AA	1
+Glycoside hydrolase	GH101	endo-alpha-N-acetylgalactosaminidase	3.2.1.97	GH	2
+Glycoside hydrolase	GH88	d-4,5-unsaturated beta-glucuronyl hydrolase	3.2.1.-	GH	2
+Glycosyl trasferase	GT112	ADP-glyceromannoheptose: glycoprotein O-heptosyltransferase	2.4.99.-	GT	1
+Glycosyl trasferase	GT51	murein polymerase	2.4.1.129	GT	2
+Glycosyl trasferase	GT90	UDP-Xyl: (mannosyl) glucuronoxylomannan/galactoxylomannan beta-1,2-xylosyltransferase	2.4.2.-	GT	1

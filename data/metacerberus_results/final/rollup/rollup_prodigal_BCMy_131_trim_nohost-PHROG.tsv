@@ -1,0 +1,290 @@
+L1	ID	Function	EC	Count
+integration and excision	phrog_1	integrase		82
+DNA, RNA and nucleotide metabolism	phrog_10056	RecT-like ssDNA annealing protein		1
+DNA, RNA and nucleotide metabolism	phrog_10276	DNA repair protein		12
+unknown function	phrog_10277	hypothetical		214
+DNA, RNA and nucleotide metabolism	phrog_10285	DNA polymerase		199
+unknown function	phrog_1029	hypothetical		6
+unknown function	phrog_10430	hypothetical		199
+DNA, RNA and nucleotide metabolism	phrog_10616	ribonucleotide reductase		27
+unknown function	phrog_10724	hypothetical		8
+other	phrog_10912	kinase		56
+moron, auxiliary metabolic gene and host takeover	phrog_1112	phosphoribosylaminoimidazole-succinocarboxamide synthase		51
+DNA, RNA and nucleotide metabolism	phrog_11145	DNA binding protein		93
+other	phrog_11189	NAD synthetase		1
+DNA, RNA and nucleotide metabolism	phrog_112	Gp2.5-like ssDNA binding protein and ssDNA annealing protein		87
+unknown function	phrog_11354	hypothetical		362
+unknown function	phrog_11383	hypothetical		26
+unknown function	phrog_11396	hypothetical		789
+head and packaging	phrog_115	minor head protein		89
+unknown function	phrog_11530	hypothetical		45
+unknown function	phrog_11626	hypothetical		17
+unknown function	phrog_11769	hypothetical		6
+other	phrog_11787	DNA methyltransferase		238
+unknown function	phrog_11857	hypothetical		575
+unknown function	phrog_11956	hypothetical		976
+unknown function	phrog_1202	hypothetical		58
+unknown function	phrog_12033	hypothetical		465
+moron, auxiliary metabolic gene and host takeover	phrog_1207	phosphoribosylaminoimidazole synthetase		103
+unknown function	phrog_1209	hypothetical		104
+DNA, RNA and nucleotide metabolism	phrog_1211	2-aminooxy adenylosuccinate synthetase		204
+unknown function	phrog_12143	hypothetical		17
+DNA, RNA and nucleotide metabolism	phrog_1227	exonuclease		87
+other	phrog_12316	ATPase		792
+DNA, RNA and nucleotide metabolism	phrog_125	DNA invertase		244
+DNA, RNA and nucleotide metabolism	phrog_1252	DNA polymerase		87
+unknown function	phrog_1270	hypothetical		35
+unknown function	phrog_12710	hypothetical		1022
+unknown function	phrog_12787	hypothetical		192
+tail	phrog_1293	tail length tape measure protein		1977
+transcription regulation	phrog_130	anti-repressor Ant		101
+unknown function	phrog_13226	hypothetical		100
+unknown function	phrog_134	hypothetical		124
+moron, auxiliary metabolic gene and host takeover	phrog_1358	FtsK/SpoIIIE-like protein		100
+moron, auxiliary metabolic gene and host takeover	phrog_13700	FtsK/SpoIIIE-like protein		79
+unknown function	phrog_13807	hypothetical		322
+DNA, RNA and nucleotide metabolism	phrog_13933	nuclease		316
+DNA, RNA and nucleotide metabolism	phrog_140	RusA-like Holliday junction resolvase		5
+unknown function	phrog_14241	hypothetical		137
+unknown function	phrog_14336	hypothetical		300
+DNA, RNA and nucleotide metabolism	phrog_144	HNH endonuclease		1
+unknown function	phrog_14448	hypothetical		2031
+unknown function	phrog_1463	hypothetical		400
+unknown function	phrog_15213	hypothetical		4
+unknown function	phrog_1548	hypothetical		335
+unknown function	phrog_15585	hypothetical		2
+unknown function	phrog_15614	hypothetical		238
+unknown function	phrog_1569	hypothetical		207
+unknown function	phrog_15761	hypothetical		1
+transcription regulation	phrog_15968	anti-repressor		386
+unknown function	phrog_15996	hypothetical		58
+DNA, RNA and nucleotide metabolism	phrog_160	thymidylate synthase		262
+unknown function	phrog_1605	hypothetical		716
+unknown function	phrog_16087	hypothetical		113
+unknown function	phrog_16140	hypothetical		1386
+unknown function	phrog_1618	hypothetical		314
+DNA, RNA and nucleotide metabolism	phrog_164	ParA-like partition protein		58
+unknown function	phrog_1655	hypothetical		99
+unknown function	phrog_16655	hypothetical		323
+unknown function	phrog_1669	hypothetical		338
+unknown function	phrog_16693	hypothetical		5
+tail	phrog_167	tail length tape measure protein		213
+unknown function	phrog_16797	hypothetical		201
+tail	phrog_1686	tail length tape measure protein		255
+unknown function	phrog_1691	hypothetical		218
+DNA, RNA and nucleotide metabolism	phrog_17	DNA polymerase		1
+other	phrog_170	PhoH-like phosphate starvation-inducible		75
+unknown function	phrog_17128	hypothetical		79
+unknown function	phrog_17321	hypothetical		8070
+unknown function	phrog_17390	hypothetical		163
+DNA, RNA and nucleotide metabolism	phrog_174	dCMP deaminase		4
+moron, auxiliary metabolic gene and host takeover	phrog_1741	QueC-like queuosine biosynthesis		113
+unknown function	phrog_18394	hypothetical		600
+unknown function	phrog_18628	hypothetical		139
+unknown function	phrog_18916	hypothetical		547
+DNA, RNA and nucleotide metabolism	phrog_19	DnaB-like replicative helicase		6
+DNA, RNA and nucleotide metabolism	phrog_19169	endonuclease		2
+unknown function	phrog_19271	hypothetical		285
+unknown function	phrog_19422	hypothetical		46
+unknown function	phrog_19509	hypothetical		234
+unknown function	phrog_19526	hypothetical		127
+DNA, RNA and nucleotide metabolism	phrog_1967	DNA helicase		40
+unknown function	phrog_1977	hypothetical		25
+unknown function	phrog_19793	hypothetical		316
+unknown function	phrog_19918	hypothetical		856
+unknown function	phrog_19980	hypothetical		224
+unknown function	phrog_20109	hypothetical		39
+DNA, RNA and nucleotide metabolism	phrog_20354	DNA topoisomerase II		62
+other	phrog_20590	peptidase		74
+unknown function	phrog_21110	hypothetical		611
+tail	phrog_21157	minor tail protein		1
+unknown function	phrog_21263	hypothetical		885
+unknown function	phrog_21327	hypothetical		284
+moron, auxiliary metabolic gene and host takeover	phrog_21469	ribosomal protein S21		23
+head and packaging	phrog_215	structural protein with Ig domain		23
+integration and excision	phrog_216	integrase		3
+unknown function	phrog_21628	hypothetical		252
+unknown function	phrog_21682	hypothetical		3
+unknown function	phrog_21942	hypothetical		626
+unknown function	phrog_22305	hypothetical		1
+DNA, RNA and nucleotide metabolism	phrog_2244	tRNA nucleotidyltransferase		62
+unknown function	phrog_22485	hypothetical		739
+unknown function	phrog_2277	hypothetical		9
+unknown function	phrog_23041	hypothetical		60
+other	phrog_2361	serine-threonine kinase		35
+tail	phrog_238	major tail protein		5
+moron, auxiliary metabolic gene and host takeover	phrog_2392	ABC transporter		2129
+unknown function	phrog_23947	hypothetical		458
+unknown function	phrog_24316	hypothetical		155
+unknown function	phrog_24349	hypothetical		2900
+unknown function	phrog_24466	hypothetical		206
+DNA, RNA and nucleotide metabolism	phrog_24856	ribonucleotide reductase class Ia beta subunit		6
+unknown function	phrog_24931	hypothetical		46
+unknown function	phrog_25097	hypothetical		746
+DNA, RNA and nucleotide metabolism	phrog_252	Bet-like ssDNA annealing protein		34
+unknown function	phrog_25354	hypothetical		2286
+unknown function	phrog_25370	hypothetical		88
+DNA, RNA and nucleotide metabolism	phrog_256	DNA helicase		3204
+unknown function	phrog_25828	hypothetical		186
+unknown function	phrog_26214	hypothetical		782
+DNA, RNA and nucleotide metabolism	phrog_26484	DNA binding protein		9
+unknown function	phrog_26606	hypothetical		84
+other	phrog_26699	DNA methyltransferase		41
+unknown function	phrog_26774	hypothetical		96
+unknown function	phrog_26846	hypothetical		65
+unknown function	phrog_2713	hypothetical		5
+tail	phrog_27398	tail protein		9
+unknown function	phrog_27533	hypothetical		224
+DNA, RNA and nucleotide metabolism	phrog_2760	RecT-like ssDNA annealing protein		46
+DNA, RNA and nucleotide metabolism	phrog_27667	single strand DNA binding protein		57
+unknown function	phrog_27765	hypothetical		8
+unknown function	phrog_27849	hypothetical		934
+unknown function	phrog_28030	hypothetical		32
+unknown function	phrog_28378	hypothetical		703
+unknown function	phrog_28604	hypothetical		71
+unknown function	phrog_28637	hypothetical		54
+unknown function	phrog_28663	hypothetical		160
+unknown function	phrog_2895	hypothetical		130
+lysis	phrog_291	endolysin		1301
+moron, auxiliary metabolic gene and host takeover	phrog_293	ABC transporter		1036
+unknown function	phrog_29364	hypothetical		43
+unknown function	phrog_29538	hypothetical		14
+unknown function	phrog_29755	hypothetical		9
+transcription regulation	phrog_2977	anti-repressor		62
+unknown function	phrog_29784	hypothetical		814
+unknown function	phrog_29996	hypothetical		24
+unknown function	phrog_30090	hypothetical		171
+unknown function	phrog_30120	hypothetical		205
+unknown function	phrog_30201	hypothetical		157
+unknown function	phrog_30501	hypothetical		32
+unknown function	phrog_30623	hypothetical		79
+unknown function	phrog_30628	hypothetical		41
+unknown function	phrog_30773	hypothetical		542
+unknown function	phrog_31116	hypothetical		388
+unknown function	phrog_31529	hypothetical		233
+DNA, RNA and nucleotide metabolism	phrog_316	dihydrofolate reductase		49
+unknown function	phrog_31614	hypothetical		9
+unknown function	phrog_31717	hypothetical		10
+unknown function	phrog_31882	hypothetical		10
+unknown function	phrog_32098	hypothetical		77
+DNA, RNA and nucleotide metabolism	phrog_3264	ParB-like partition protein		1
+unknown function	phrog_32699	hypothetical		1
+unknown function	phrog_32805	hypothetical		553
+unknown function	phrog_32851	hypothetical		380
+unknown function	phrog_33002	hypothetical		59
+unknown function	phrog_34276	hypothetical		95
+unknown function	phrog_34613	hypothetical		416
+unknown function	phrog_34724	hypothetical		211
+unknown function	phrog_35063	hypothetical		769
+transcription regulation	phrog_351	RNA polymerase sigma factor		152
+lysis	phrog_3513	endolysin		35
+unknown function	phrog_35155	hypothetical		205
+unknown function	phrog_35435	hypothetical		384
+moron, auxiliary metabolic gene and host takeover	phrog_3551	FtsK/SpoIIIE-like protein		68
+other	phrog_35515	thymidine kinase		80
+tail	phrog_3558	tail protein		548
+unknown function	phrog_35619	hypothetical		42
+unknown function	phrog_35649	hypothetical		66
+unknown function	phrog_35693	hypothetical		152
+head and packaging	phrog_361	terminase small subunit		7
+unknown function	phrog_36445	hypothetical		61
+head and packaging	phrog_3717	terminase large subunit		436
+unknown function	phrog_37239	hypothetical		38
+unknown function	phrog_37310	hypothetical		247
+unknown function	phrog_37682	hypothetical		17
+DNA, RNA and nucleotide metabolism	phrog_379	DNA binding protein		41
+unknown function	phrog_3830	hypothetical		1
+unknown function	phrog_38523	hypothetical		59
+unknown function	phrog_38585	hypothetical		486
+DNA, RNA and nucleotide metabolism	phrog_3869	NAD-dependent DNA ligase		189
+unknown function	phrog_398	hypothetical		205
+unknown function	phrog_3980	hypothetical		114
+DNA, RNA and nucleotide metabolism	phrog_3987	ribonucleotide reductase large subunit		6
+connector	phrog_4014	head-tail adaptor		36
+DNA, RNA and nucleotide metabolism	phrog_405	DNA polymerase		213
+unknown function	phrog_4339	hypothetical		144
+DNA, RNA and nucleotide metabolism	phrog_44	single strand DNA binding protein		358
+tail	phrog_441	tail assembly chaperone		362
+DNA, RNA and nucleotide metabolism	phrog_4412	exonuclease V		151
+other	phrog_4602	transglycosylase		117
+unknown function	phrog_4609	hypothetical		74
+transcription regulation	phrog_463	anti-repressor		3
+DNA, RNA and nucleotide metabolism	phrog_4715	ParB-like partition protein		8
+unknown function	phrog_4782	hypothetical		6
+moron, auxiliary metabolic gene and host takeover	phrog_487	NrdD-like anaerobic ribonucleotide reductase large subunit		556
+other	phrog_4871	ATP-dependent protease		1838
+DNA, RNA and nucleotide metabolism	phrog_4880	replisome organizer		69
+head and packaging	phrog_4914	terminase large subunit		60
+other	phrog_4941	dehydrogenase		233
+moron, auxiliary metabolic gene and host takeover	phrog_4980	superinfection exclusion		268
+unknown function	phrog_4997	hypothetical		232
+moron, auxiliary metabolic gene and host takeover	phrog_5045	phospho-2-dehydro-3-deoxyheptonate aldolase		1
+head and packaging	phrog_51	terminase small subunit		31
+DNA, RNA and nucleotide metabolism	phrog_543	DNA topoisomerase II large subunit		107
+DNA, RNA and nucleotide metabolism	phrog_551	DNA topoisomerase II		86
+unknown function	phrog_5517	hypothetical		116
+tail	phrog_5555	tail protein		59
+unknown function	phrog_5620	hypothetical		329
+head and packaging	phrog_5653	terminase large subunit		15
+DNA, RNA and nucleotide metabolism	phrog_5682	thymidylate synthase		1
+other	phrog_5725	chaperonin groEL		220
+DNA, RNA and nucleotide metabolism	phrog_5846	clamp loader of DNA polymerase		105
+other	phrog_592	thymidine kinase		57
+DNA, RNA and nucleotide metabolism	phrog_5968	replisome organizer		31
+head and packaging	phrog_6042	minor head protein		184
+DNA, RNA and nucleotide metabolism	phrog_6132	ribonucleotide reductase large subunit		131
+tail	phrog_6183	minor tail protein		88
+DNA, RNA and nucleotide metabolism	phrog_62	DNA helicase		210
+DNA, RNA and nucleotide metabolism	phrog_6397	ribonucleotide reductase large subunit		34
+head and packaging	phrog_64	portal protein		134
+DNA, RNA and nucleotide metabolism	phrog_6444	DNA primase		158
+head and packaging	phrog_6672	terminase large subunit		615
+unknown function	phrog_6791	hypothetical		138
+unknown function	phrog_6797	hypothetical		19
+unknown function	phrog_6837	hypothetical		63
+other	phrog_6880	translation elongation factor		505
+DNA, RNA and nucleotide metabolism	phrog_69	exonuclease		481
+unknown function	phrog_6907	hypothetical		45
+other	phrog_729	cold shock protein		111
+unknown function	phrog_7298	hypothetical		34
+unknown function	phrog_731	hypothetical		308
+other	phrog_7320	tetrahydrofolate dehydrogenase and cyclohydrolase		209
+lysis	phrog_7348	endolysin		215
+tail	phrog_7389	tail fiber protein		565
+unknown function	phrog_7602	hypothetical		183
+integration and excision	phrog_7685	integrase		133
+DNA, RNA and nucleotide metabolism	phrog_7766	DNA polymerase		230
+DNA, RNA and nucleotide metabolism	phrog_7778	single strand DNA binding protein		85
+DNA, RNA and nucleotide metabolism	phrog_7909	ribonucleoside-diphosphate reductase beta subunit		95
+transcription regulation	phrog_8	transcriptional regulator		16
+head and packaging	phrog_80	head maturation protease		16
+DNA, RNA and nucleotide metabolism	phrog_8097	exonuclease		407
+moron, auxiliary metabolic gene and host takeover	phrog_841	GtrB-like O-antigen conversion		22
+moron, auxiliary metabolic gene and host takeover	phrog_8429	NifU-like Fe-S cluster assembly protein		26
+unknown function	phrog_8439	hypothetical		586
+unknown function	phrog_857	hypothetical		21
+DNA, RNA and nucleotide metabolism	phrog_864	DNA primase		140
+unknown function	phrog_8702	hypothetical		33
+head and packaging	phrog_8711	terminase large subunit		65
+unknown function	phrog_8735	hypothetical		34
+lysis	phrog_881	holin		267
+unknown function	phrog_8986	hypothetical		99
+unknown function	phrog_9078	hypothetical		2
+moron, auxiliary metabolic gene and host takeover	phrog_9240	cyanobacterial phosphoribosylglycinamide formyltransferase		9
+DNA, RNA and nucleotide metabolism	phrog_9270	tyrosyl-tRNA synthetase		235
+DNA, RNA and nucleotide metabolism	phrog_93	endonuclease		50
+head and packaging	phrog_94	head maturation protease		7
+unknown function	phrog_9408	hypothetical		205
+transcription regulation	phrog_9438	anti-repressor		332
+DNA, RNA and nucleotide metabolism	phrog_9454	exonuclease		119
+DNA, RNA and nucleotide metabolism	phrog_9465	ribonucleoside diphosphate reductase small subunit		47
+integration and excision	phrog_95	integrase		70
+DNA, RNA and nucleotide metabolism	phrog_9530	ribonucleotide reductase		15
+other	phrog_9582	dehydrogenase		514
+unknown function	phrog_9625	hypothetical		409
+other	phrog_97	UvsX-like recombinase		56
+other	phrog_9787	translation initiation factor		9
+other	phrog_9896	phosphofructokinase		331
+other	phrog_9968	methyltransferase		632
+DNA, RNA and nucleotide metabolism	phrog_997	replication terminator		8
+lysis	phrog_998	endolysin		318

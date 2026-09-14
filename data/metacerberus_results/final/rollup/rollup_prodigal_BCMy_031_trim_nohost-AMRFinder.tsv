@@ -1,0 +1,7 @@
+L1	L2	ID	Function	Gene	Count
+MACROLIDE	MACROLIDE	NF000355.3	ABC-F type ribosomal protection protein	abc-f	10
+PHENICOL	CHLORAMPHENICOL	NF000490.1	type B chloramphenicol O-acetyltransferase	catB	3
+TETRACYCLINE	TETRACYCLINE	NF012153.1	tetracycline resistance ribosomal protection protein	tet	1
+GLYCOPEPTIDE	VANCOMYCIN	NF033117.2	VanR-ABDEGLN family response regulator transcription factor	vanR	4
+GLYCOPEPTIDE	VANCOMYCIN	NF033120.0	vancomycin resistance response regulator transcription factor, VanR-F/VanR-M family	vanR	1
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	30

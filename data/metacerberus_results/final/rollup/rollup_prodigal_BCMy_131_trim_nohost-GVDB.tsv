@@ -1,0 +1,81 @@
+ID	Function	Count
+GVOG00064	no_annotation	15
+GVOG00572	no_annotation	44
+GVOG01350	no_annotation	49
+GVOG01498	no_annotation	15
+GVOG01528	methylated-DNA-protein-cysteine methyltransferase	29
+GVOG01710	bifunctional purine biosynthesis protein	24
+GVOG01720	cysteinyl-tRNA synthetase	111
+GVOG01923	phospho-2-dehydro-3-deoxyheptonate aldolase	1
+GVOG01999	no_annotation	1
+GVOG02016	no_annotation	297
+GVOG02020	no_annotation	288
+GVOG02031	arginyl-tRNA synthetase	49
+GVOG02043	no_annotation	164
+GVOG02335	no_annotation	39
+GVOG02361	no_annotation	212
+GVOG02419	no_annotation	2
+GVOG02590	no_annotation	20
+GVOG02694	no_annotation	373
+GVOG02695	no_annotation	2
+GVOG02973	ribonuclease H	59
+GVOG03397	AP (apurinic) endonuclease family 2	1
+GVOG03406	no_annotation	5
+GVOG04231	no_annotation	90
+GVOG04441	aminopeptidase	114
+GVOG04462	no_annotation	371
+GVOG04464	no_annotation	18
+GVOG04635	no_annotation	20
+GVOG04684	no_annotation	1
+GVOG04787	uncharacterized protein	127
+GVOG04798	no_annotation	163
+GVOG06238	GTP binding translation elongation factor	20
+GVOG06317	no_annotation	61
+GVOG06713	no_annotation	35
+GVOG07320	DNA topoisomerase I	16
+GVOG07706	no_annotation	23
+GVOG07953	no_annotation	2
+GVOG07994	no_annotation	340
+GVOG08082	asparagine synthase	61
+GVOG08671	no_annotation	5
+GVOG09032	asparagine synthase	66
+GVOG09758	ABC transporter	56
+GVOG10135	uracil-DNA glycosylase	45
+GVOG10800	GTP binding translation elongation factor	31
+GVOG11857	AAA family ATPase - unique in NCLDV; ATPase domain similar to repl_factorC_sub2	22
+GVOG11896	AAA family ATPase - unique in NCLDV; ATPase domain similar to repl_factorC_sub2	516
+GVOGm0023	DNA-directed RNA polymerase subunit alpha	10
+GVOGm0074	DNA mismatch repair protein	46
+GVOGm0082	ABC transporter	62
+GVOGm0163	bifunctional dihydrofolate reductase-thymidylate synthase	39
+GVOGm0274	no_annotation	123
+GVOGm0307	no_annotation	111
+GVOGm0309	uracil-DNA glycosylase	23
+GVOGm0454	bifunctional dihydrofolate reductase-thymidylate synthase	215
+GVOGm0505	no_annotation	67
+GVOGm0548	Hsp70 protein | heat shock protein 70	513
+GVOGm0578	DnaJ domain	78
+GVOGm0620	putative apurinic-apyrimidinic endonuclease 1	47
+GVOGm0678	DNA topoisomerase I	149
+GVOGm0757	asparaginyl t-RNA synthetase	244
+GVOGm0798	Ribonuclease III	8
+GVOGm0952	structural PPIase-like protein	60
+GVOGm0973	exodeoxyribonuclease VII large subunit	95
+GVOGm1002	no_annotation	14
+GVOGm1079	BRO-like protein | ALI motif family protein | T5orf172 domain | BRO-N domain protein	40
+GVOGm1119	guanosine monophosphate reductase	193
+GVOGm1122	no_annotation	64
+GVOGm1134	HD phosphohydrolase	8
+GVOGm1245	no_annotation	145
+GVOGm1261	uridine kinase	26
+GVOGm1269	ABC transporter	85
+GVOGm1313	Hsp70 protein | heat shock protein 70	62
+GVOGm1352	GTP binding translation elongation factor	41
+GVOGm1378	DEAD/SNF2-like helicase | DEAD/SNF2-like helicase	141
+GVOGm1420	no_annotation	224
+GVOGm1441	adenylosuccinate synthetase	42
+GVOGm1450	putative ubiquitin-activating enzyme E1	43
+GVOGm1482	no_annotation	7
+GVOGm1504	isoleucyl-tRNA synthetase	75
+GVOGm1509	no_annotation	60
+GVOGm1601	uncharacterized protein	107

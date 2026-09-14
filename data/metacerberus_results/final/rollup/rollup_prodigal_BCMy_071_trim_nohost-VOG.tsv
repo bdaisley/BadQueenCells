@@ -1,0 +1,11 @@
+L1	ID	Function	EC	UNIPROT ID	Count
+Virus protein with function beneficial for the virus | Virus structure	VOG01952	Capsid protein VP1		CAPSD_GMDNV	4
+Virus protein with function beneficial for the host	VOG09118	Cysteine--tRNA ligase, cytoplasmic		SYCC_DICDI	1
+Function unknown	VOG14074	DnaJ-like protein R260		YR260_MIMIV	1
+Virus protein with function beneficial for the host	VOG20913	DNA topoisomerase medium subunit		TOP5_BPT4	2
+Function unknown	VOG39225	SsrA-binding protein		SSRP_KLEP7	1
+Virus protein with function beneficial for the host	VOG41563	Probable glutamine--fructose-6-phosphate aminotransferase [isomerizing]		GFAT_MIMIV	3
+Virus protein with function beneficial for the host	VOG50207	RNA-splicing ligase RtcB		RTCB_ECOLI	1
+Virus protein with function beneficial for the host	VOG50974	ATP-dependent Clp protease ATP-binding subunit ClpA		CLPA_ECOLI	2
+Virus protein with function beneficial for the host | Virus replication	VOG57177	Integrase		INTR_SACER	1
+Function unknown	VOG57452	Exodeoxyribonuclease 7 large subunit		EX7L_COREF	1

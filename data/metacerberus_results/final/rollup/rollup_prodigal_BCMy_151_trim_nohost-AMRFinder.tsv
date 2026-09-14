@@ -1,0 +1,15 @@
+L1	L2	ID	Function	Gene	Count
+LINCOSAMIDE	LINCOSAMIDE	NF000170.1	Vga family ABC-F type ribosomal protection protein	vga	3
+GLYCOPEPTIDE	VANCOMYCIN	NF000207.3	D-alanine--D-serine ligase	vanC	1
+STREPTOGRAMIN	STREPTOGRAMIN	NF000311.1	Vat family streptogramin A O-acetyltransferase	vat	2
+MACROLIDE	MACROLIDE	NF000355.3	ABC-F type ribosomal protection protein	abc-f	26
+GLYCOPEPTIDE	VANCOMYCIN	NF000403.1	vancomycin resistance response regulator transcription factor VanR-C	vanR-C	1
+TETRACYCLINE	TETRACYCLINE	NF000475.1	tetracycline efflux ABC transporter Tet(46) subunit B	tetB(46)	1
+PHENICOL	CHLORAMPHENICOL	NF000490.1	type B chloramphenicol O-acetyltransferase	catB	1
+PHENICOL/OXAZOLIDINONE	FLORFENICOL/OXAZOLIDINONE	NF000514.1	ABC-F type ribosomal protection protein OptrA	optrA	1
+TETRACYCLINE	TETRACYCLINE	NF012153.1	tetracycline resistance ribosomal protection protein	tet	6
+TETRACYCLINE	TETRACYCLINE	NF012188.1	tetracycline efflux MFS transporter Tet(Y)	tet(Y)	2
+GLYCOPEPTIDE	VANCOMYCIN	NF033091.0	vancomycin resistance histidine kinase VanS	vanS	6
+GLYCOPEPTIDE	VANCOMYCIN	NF033117.2	VanR-ABDEGLN family response regulator transcription factor	vanR	38
+GLYCOPEPTIDE	VANCOMYCIN	NF033120.0	vancomycin resistance response regulator transcription factor, VanR-F/VanR-M family	vanR	5
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	110

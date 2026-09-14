@@ -1,0 +1,57 @@
+ID	Function	Clan	Gene	Count
+PF00009	Elongation factor Tu GTP binding domain	CL0023	GTP_EFTU	1
+PF00012	Hsp70 protein	CL0108	HSP70	1
+PF00046	Homeodomain	CL0123	Homeodomain	18
+PF00233	3'5'-cyclic nucleotide phosphodiesterase	CL0237	PDEase_I	5
+PF00303	Thymidylate synthase		Thymidylat_synt	2
+PF00413	Matrixin	CL0126	Peptidase_M10	23
+PF00440	Bacterial regulatory proteins, tetR family	CL0123	TetR_N	1
+PF00483	Nucleotidyl transferase	CL0110	NTP_transferase	1
+PF00709	Adenylosuccinate synthetase	CL0023	Adenylsucc_synt	2
+PF00815	Histidinol dehydrogenase	CL0099	Histidinol_dh	1
+PF00834	Ribulose-phosphate 3 epimerase family	CL0036	Ribul_P_3_epim	1
+PF01134	Glucose inhibited division protein A	CL0063	GIDA	1
+PF01197	Ribosomal protein L31	CL0758	Ribosomal_L31	1
+PF01411	tRNA synthetases class II (A)	CL0040	tRNA-synt_2c	2
+PF01702	Queuine tRNA-ribosyltransferase	CL0036	TGT	1
+PF01709	TACO1/YebC second and third domain		Transcrip_reg	1
+PF01795	MraW methylase family	CL0063	Methyltransf_5	2
+PF01855	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg	CL0254	POR_N	2
+PF01977	3-octaprenyl-4-hydroxybenzoate carboxy-lyase Rift-related domain		UbiD	2
+PF02481	DNA recombination-mediator protein A	CL0349	DNA_processg_A	3
+PF02719	Polysaccharide biosynthesis protein	CL0063	Polysacc_synt_2	1
+PF02786	Carbamoyl-phosphate synthase L chain, ATP binding domain	CL0179	CPSase_L_D2	1
+PF03613	PTS system mannose/fructose/sorbose family IID component		EIID-AGA	1
+PF03618	Kinase/pyrophosphorylase	CL0023	Kinase-PPPase	1
+PF03719	Ribosomal protein S5, C-terminal domain	CL0329	Ribosomal_S5_C	1
+PF03894	D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase	CL0254	XFP	1
+PF03946	Ribosomal protein L11, N-terminal domain		Ribosomal_L11_N	1
+PF03952	Enolase, N-terminal domain	CL0227	Enolase_N	1
+PF04085	rod shape-determining protein MreC		MreC	1
+PF04339	Peptidogalycan biosysnthesis/recognition	CL0257	FemAB_like	2
+PF04560	RNA polymerase Rpb2, domain 7		RNA_pol_Rpb2_7	1
+PF04565	RNA polymerase Rpb2, domain 3		RNA_pol_Rpb2_3	1
+PF05580	SpoIVB peptidase S55	CL0124	Peptidase_S55	1
+PF05686	Glycosyl transferase family 90	CL0113	Glyco_transf_90	11
+PF06134	L-rhamnose isomerase (RhaA)	CL0036	RhaA	2
+PF06180	Cobalt chelatase (CbiK)	CL0043	CbiK	1
+PF06421	GTP-binding protein LepA C-terminus		LepA_C	1
+PF06980	Protein of unknown function (DUF1302)	CL0193	DUF1302	1
+PF07977	FabA-like domain	CL0050	FabA	1
+PF08499	3'5'-cyclic nucleotide phosphodiesterase N-terminal		PDEase_I_N	49
+PF08769	Sporulation initiation factor Spo0A C terminal	CL0236	Spo0A_C	2
+PF09547	Stage IV sporulation protein A, ATPase domain	CL0023	SpoIVA_ATPase	4
+PF09693	Phage uncharacterised protein (Phage_XkdX)		Phage_XkdX	1
+PF10282	Lactonase, 7-bladed beta-propeller	CL0186	Lactonase	1
+PF12344	Ultra-violet resistance protein B	CL0023	UvrB	1
+PF12777	Microtubule-binding stalk of dynein motor		MT	1
+PF12964	Protein of unknown function (DUF3853)	CL0123	DUF3853	1
+PF13288	DXP reductoisomerase C-terminal domain	CL0063	DXPR_C	2
+PF13421	SPFH domain-Band 7 family	CL0433	Band_7_1	2
+PF13497	Domain of unknown function (DUF4121)		DUF4121	1
+PF14681	Uracil phosphoribosyltransferase	CL0533	UPRTase	1
+PF14941	Transcriptional regulator, Out at first		OAF	1
+PF17139	Domain of unknown function (DUF5112)		DUF5112	1
+PF17451	Glycosyl hydrolase 101 beta sandwich domain	CL0369	Glyco_hyd_101C	1
+PF17657	Bacterial DNA polymerase III alpha subunit finger domain		DNA_pol3_finger	1
+PF18934	Family of unknown function (DUF5682)		DUF5682	2

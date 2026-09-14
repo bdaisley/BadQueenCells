@@ -1,0 +1,54 @@
+ID	Function	Clan	Gene	Count
+PF00015	Methyl-accepting chemotaxis protein (MCP) signalling domain		MCPsignal	2
+PF00046	Homeodomain	CL0123	Homeodomain	6
+PF00126	Bacterial regulatory helix-turn-helix protein, lysR family	CL0123	HTH_1	1
+PF00233	3'5'-cyclic nucleotide phosphodiesterase	CL0237	PDEase_I	5
+PF00266	Aminotransferase class-V	CL0061	Aminotran_5	1
+PF00289	Biotin carboxylase, N-terminal domain	CL0063	Biotin_carb_N	4
+PF00327	Ribosomal protein L30p/L7e		Ribosomal_L30	1
+PF00356	Bacterial regulatory proteins, lacI family	CL0123	LacI	1
+PF00413	Matrixin	CL0126	Peptidase_M10	22
+PF00438	S-adenosylmethionine synthetase, N-terminal domain		S-AdoMet_synt_N	1
+PF00459	Inositol monophosphatase family	CL0171	Inositol_P	2
+PF00670	S-adenosyl-L-homocysteine hydrolase, NAD binding domain	CL0063	AdoHcyase_NAD	1
+PF00676	Dehydrogenase E1 component	CL0254	E1_dh	2
+PF00724	NADH:flavin oxidoreductase / NADH oxidase family	CL0036	Oxidored_FMN	1
+PF00871	Acetokinase family	CL0108	Acetate_kinase	2
+PF00908	dTDP-4-dehydrorhamnose 3,5-epimerase	CL0029	dTDP_sugar_isom	1
+PF00912	Transglycosylase	CL0037	Transgly	2
+PF01032	FecCD transport family	CL0142	FecCD	1
+PF01035	6-O-methylguanine DNA methyltransferase, DNA binding domain	CL0123	DNA_binding_1	1
+PF01098	Cell cycle protein	CL0142	FTSW_RODA_SPOVE	1
+PF01116	Fructose-bisphosphate aldolase class-II	CL0036	F_bP_aldolase	1
+PF01245	Ribosomal protein L19	CL0010	Ribosomal_L19	2
+PF01580	FtsK/SpoIIIE family	CL0023	FtsK_SpoIIIE	1
+PF01808	AICARFT/IMPCHase bienzyme	CL0109	AICARFT_IMPCHas	2
+PF01915	Glycosyl hydrolase family 3 C-terminal domain		Glyco_hydro_3_C	1
+PF02353	Mycolic acid cyclopropane synthetase	CL0063	CMAS	1
+PF02772	S-adenosylmethionine synthetase, central domain		S-AdoMet_synt_M	1
+PF03100	CcmE	CL0021	CcmE	2
+PF03483	B3/4 domain	CL0383	B3_4	1
+PF03883	Peroxide stress protein YaaA	CL0771	H2O2_YaaD	2
+PF03894	D-xylulose 5-phosphate/D-fructose 6-phosphate phosphoketolase	CL0254	XFP	1
+PF04223	Citrate lyase, alpha subunit (CitF)	CL0063	CitF	2
+PF04337	Protein of unknown function, DUF480	CL0123	DUF480	1
+PF04468	PSP1 C-terminal conserved region		PSP1	1
+PF04539	Sigma-70 region 3	CL0123	Sigma70_r3	1
+PF04655	Aminoglycoside/hydroxyurea antibiotic resistance kinase	CL0016	APH_6_hur	1
+PF04914	DltD protein	CL0264	DltD	1
+PF05199	GMC oxidoreductase		GMC_oxred_C	1
+PF05545	Cbb3-type cytochrome oxidase component FixQ		FixQ	1
+PF05686	Glycosyl transferase family 90	CL0113	Glyco_transf_90	3
+PF06153	Cyclic-di-AMP receptor	CL0089	CdAMP_rec	1
+PF06418	CTP synthase N-terminus	CL0023	CTP_synth_N	1
+PF07553	Host cell surface-exposed lipoprotein		Lipoprotein_Ltp	1
+PF08499	3'5'-cyclic nucleotide phosphodiesterase N-terminal		PDEase_I_N	19
+PF09397	Ftsk gamma domain	CL0123	FtsK_gamma	1
+PF12905	Endo-alpha-N-acetylgalactosaminidase	CL0036	Glyco_hydro_101	2
+PF13793	N-terminal domain of ribose phosphate pyrophosphokinase	CL0533	Pribosyltran_N	1
+PF14681	Uracil phosphoribosyltransferase	CL0533	UPRTase	1
+PF15738	Bacterial toxin of type II toxin-antitoxin system, YafQ 	CL0136	YafQ_toxin	1
+PF17392	Urocanase C-terminal domain		Urocanase_C	1
+PF17757	UvrB interaction domain	CL0664	UvrB_inter	1
+PF19745	Alpha-(1,6)-fucosyltransferase N- and catalytic domains	CL0113	FUT8_N_cat	1
+PF20772	TACO1/YebC protein N-terminal domain		TACO1_YebC_N	1

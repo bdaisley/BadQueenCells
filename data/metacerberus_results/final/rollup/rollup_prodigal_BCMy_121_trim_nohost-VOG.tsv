@@ -1,0 +1,13 @@
+L1	ID	Function	EC	UNIPROT ID	Count
+Function unknown	VOG12029	Hypothetical protein			1
+Virus protein with function beneficial for the host	VOG13448	ATP-dependent zinc metalloprotease FTSH 1, chloroplastic		FTSH1_ORYSJ	1
+Virus protein with function beneficial for the host | Virus replication	VOG17070	DNA polymerase		DPOL_BPSP2	1
+Virus protein with function beneficial for the host	VOG17654	Glucose-1-phosphate thymidylyltransferase		RMLA_YEREN	2
+Virus protein with function beneficial for the host	VOG18561	Eukaryotic peptide chain release factor GTP-binding subunit ERF3A		ERF3A_HUMAN	1
+Virus protein with function beneficial for the host | Virus replication	VOG20914	Deoxycytidylate deaminase		DCTD_BPT4	2
+Virus protein with function beneficial for the host	VOG32455	Chaperonin GroEL		CH60_KARMG	2
+Virus protein with function beneficial for the host | Virus replication	VOG39242	Replicative DNA helicase		DNAC_BACSU	2
+Function unknown	VOG50514	Putative agmatine deiminase		AGUA_MYCCT	1
+Virus protein with function beneficial for the host	VOG50974	ATP-dependent Clp protease ATP-binding subunit ClpA		CLPA_ECOLI	1
+Function unknown	VOG59342	Replication initiation protein			1
+Function unknown	VOG62698	Minor head protein			2

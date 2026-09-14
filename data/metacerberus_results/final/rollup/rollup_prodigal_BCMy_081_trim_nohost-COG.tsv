@@ -1,0 +1,152 @@
+L1	L2	L3	L4	ID	Function	EC	Count
+Translation, ribosomal structure and biogenesis	tRNA modification	TsaC	1HRU	COG0009	tRNA A37 threonylcarbamoyladenosine synthetase subunit TsaC/SUA5/YrdC		1
+Translation, ribosomal structure and biogenesis		GTP1	2DWQ	COG0012	Ribosome-binding ATPase YchF, GTP1/OBG family		1
+Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases	AlaS	2ZZE	COG0013	Alanyl-tRNA synthetase		4
+Carbohydrate transport and metabolism	Pentose phosphate pathway	TktA	1AY0	COG0021	Transketolase		1
+Energy production and conversion	Pyruvate oxidation	AcoB	2OZL	COG0022	Pyruvate/2-oxoglutarate/acetoin dehydrogenase complex, dehydrogenase (E1) component, beta subunit		2
+Carbohydrate transport and metabolism	Pentose phosphate pathway	Rpe	1H1Y	COG0036	Pentose-5-phosphate-3-epimerase		1
+Energy production and conversion	TCA cycle	Mdh	4WLO	COG0039	Malate/lactate dehydrogenase		1
+Translation, ribosomal structure and biogenesis	tRNA modification	DusA	1VHN	COG0042	tRNA-dihydrouridine synthase		2
+Coenzyme transport and metabolism	Ubiquinone biosynthesis	UbiD	2IDB	COG0043	3-polyprenyl-4-hydroxybenzoate decarboxylase		2
+Nucleotide transport and metabolism	Purine biosynthesis	PurL2	1T3T	COG0047	Phosphoribosylformylglycinamidine (FGAM) synthase, glutamine amidotransferase domain		1
+Translation, ribosomal structure and biogenesis	Ribosome 30S subunit	RpsG	4V4H	COG0049	Ribosomal protein S7		1
+Translation, ribosomal structure and biogenesis	Translation factors	TufA	1EFU	COG0050	Translation elongation factor EF-Tu, a GTPase		1
+Translation, ribosomal structure and biogenesis	Ribosome 50S subunit	RplK	2E34	COG0080	Ribosomal protein L11		2
+Translation, ribosomal structure and biogenesis	Ribosome 50S subunit	RplA	3J65	COG0081	Ribosomal protein L1		1
+Cell motility		TatD	1J6O	COG0084	3'->5' ssDNA/RNA exonuclease TatD		1
+Transcription	RNA polymerase	RpoB	5UAJ	COG0085	DNA-directed RNA polymerase, beta subunit/140 kD subunit		3
+Translation, ribosomal structure and biogenesis	Ribosome 30S subunit	RpsE	4V4H	COG0098	Ribosomal protein S5		1
+Nucleotide transport and metabolism	Purine biosynthesis	PurA	1ADE	COG0104	Adenylosuccinate synthase		2
+Energy production and conversion	TCA cycle	FumC	1KQ7	COG0114	Fumarate hydratase class II		1
+Nucleotide transport and metabolism	Thymidylate biosynthesis	Tmk	3LV8	COG0125	Thymidylate kinase		1
+Translation, ribosomal structure and biogenesis	tRNA modification	TruB	1K8W	COG0130	tRNA U55 pseudouridine synthase TruB, may also work on U342 of tmRNA		1
+Amino acid transport and metabolism	Arginine biosynthesis	ArgG	1J1Z	COG0137	Argininosuccinate synthase		2
+Nucleotide transport and metabolism	Purine biosynthesis	PurH	1G8M	COG0138	AICAR transformylase/IMP cyclohydrolase PurH		2
+Amino acid transport and metabolism	Histidine biosynthesis	HisD	1K75	COG0141	Histidinol dehydrogenase		1
+Carbohydrate transport and metabolism	Glycolysis	Eno	1E9I	COG0148	Enolase		1
+Nucleotide transport and metabolism	Purine biosynthesis	PurC	1A48	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase		1
+Nucleotide transport and metabolism	Pyrimidine biosynthesis	PyrD	1GT8	COG0167	Dihydroorotate dehydrogenase		1
+Replication, recombination and repair		UvrA	2R6F	COG0178	Excinuclease UvrABC ATPase subunit		4
+Replication, recombination and repair		GyrB	1EI1	COG0187	DNA gyrase/topoisomerase IV, subunit B		2
+Intracellular trafficking, secretion, and vesicular transport		SecY	1RH5	COG0201	Preprotein translocase subunit SecY		1
+Carbohydrate transport and metabolism	Glycolysis	PfkA	1KZH	COG0205	6-phosphofructokinase		1
+Cell cycle control, cell division, chromosome partitioning		FtsZ	1FSZ	COG0206	Cell division GTPase FtsZ		4
+Nucleotide transport and metabolism	Thymidylate biosynthesis	ThyA	1AN5	COG0207	Thymidylate synthase		2
+TranscriptionTranslation, ribosomal structure and biogenesis		TACO1	1KON	COG0217	Transcriptional and/or translational regulatory protein YebC/TACO1		1
+Translation, ribosomal structure and biogenesis	Ribosome 50S subunit	RpmE	1VS6	COG0254	Ribosomal protein L31		1
+Translation, ribosomal structure and biogenesis	Translation factors	Tsf	1EFU	COG0264	Translation elongation factor EF-Ts		1
+Translation, ribosomal structure and biogenesis	16S rRNA modification	RmsH	1M6Y	COG0275	16S rRNA C1402 N4-methylase RsmH		2
+Replication, recombination and repair		MutL	1B62	COG0323	DNA mismatch repair ATPase MutL		1
+Translation, ribosomal structure and biogenesis	tRNA modification	Tgt	1XW8	COG0343	Queuine/archaeosine tRNA-ribosyltransferase		2
+Coenzyme transport and metabolism	Thiamine biosynthesis	ThiE	1G4T	COG0352	Thiamine monophosphate synthase		1
+Translation, ribosomal structure and biogenesis	16S rRNA modification	RsmG	1XDZ	COG0357	16S rRNA G527 N7-methylase RsmG (former glucose-inhibited division protein B)		1
+Lipid transport and metabolism		Acs	4B2O	COG0365	Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase		1
+Carbohydrate transport and metabolism		AmyA	2P67	COG0366	Glycosidase/amylase (phosphorylase)		2
+Nucleotide transport and metabolismInorganic ion transport and metabolism	Cysteine biosynthesis	CysJ	1YKG	COG0369	Flavoprotein (flavin reductase) subunit CysJ of sulfite and N-hydroxylaminopurine reductases		4
+Inorganic ion transport and metabolism		FeoB	3TAH	COG0370	Fe2+ transporter FeoB		1
+Posttranslational modification, protein turnover, chaperones		DnaK	3I33	COG0443	Molecular chaperone DnaK (HSP70)		1
+Amino acid transport and metabolismInorganic ion transport and metabolism		DppD	4FWI	COG0444	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component		3
+Translation, ribosomal structure and biogenesis	tRNA modification	MnmG	2ZXH	COG0445	tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA		1
+Amino acid transport and metabolismNucleotide transport and metabolism	Arginine biosynthesis	CarB	1C30	COG0458	Carbamoylphosphate synthase large subunit		1
+Nucleotide transport and metabolism	Histidine biosynthesis, Purine biosynthesis	PrsA	1DKR	COG0462	Phosphoribosylpyrophosphate synthetase		2
+Posttranslational modification, protein turnover, chaperones		HflB	1LV7	COG0465	ATP-dependent Zn proteases		1
+Inorganic ion transport and metabolism		MgtA	1IWO	COG0474	Magnesium-transporting ATPase (P-type)		1
+Translation, ribosomal structure and biogenesis	Translation factors	FusA	1DAR	COG0480	Translation elongation factor EF-G, a GTPase		1
+General function prediction only		Uup	5ZXD	COG0488	ATPase components of ABC transporters with duplicated ATPase domains		2
+Replication, recombination and repair		SrmB	3RRM	COG0513	Superfamily II DNA and RNA helicase		1
+Replication, recombination and repair		RecQ	1OYW	COG0514	Superfamily II DNA helicase RecQ		2
+Nucleotide transport and metabolism	Purine biosynthesis	GuaA2	4WIM	COG0519	GMP synthase, PP-ATPase domain/subunit		2
+Cell cycle control, cell division, chromosome partitioningReplication, recombination and repair		Obg	1LNZ	COG0536	GTPase involved in cell partioning and DNA repair		1
+Translation, ribosomal structure and biogenesis	Ribosome 30S subunit	RpsA	4NNH	COG0539	Ribosomal protein S1		1
+Posttranslational modification, protein turnover, chaperones		ClpA	1KSF	COG0542	ATP-dependent Clp protease, ATP-binding subunit ClpA		7
+Replication, recombination and repair		UvrB	1C4O	COG0556	Excinuclease UvrABC helicase subunit UvrB		2
+Transcription		VacB	6H25	COG0557	Exoribonuclease R		1
+Translation, ribosomal structure and biogenesis	23S rRNA modification	RluA	2I82	COG0564	Pseudouridine synthase RluA, 23S rRNA- or tRNA-specific		2
+Transcription	RNA polymerase	RpoD	1SIG	COG0568	DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32)		1
+Nucleotide transport and metabolism	Pyrimidine salvage	Udk	5B3F	COG0572	Uridine kinase		4
+Lipid transport and metabolism		UgpQ	1O1Z	COG0584	Glycerophosphoryl diester phosphodiesterase		1
+Replication, recombination and repair		DnaE	2HNH	COG0587	DNA polymerase III, alpha subunit		2
+Amino acid transport and metabolismInorganic ion transport and metabolism		DppB		COG0601	ABC-type dipeptide/oligopeptide/nickel transport system, permease component		1
+Lipid transport and metabolism	Fatty acid biosynthesis	FabI	1C14	COG0623	Enoyl-[acyl-carrier-protein] reductase FabI		1
+Inorganic ion transport and metabolism		FTR1		COG0672	High-affinity Fe2+/Pb2+ permease		1
+Energy production and conversion	Pyruvate oxidation	PorA	5C4I	COG0674	Pyruvate:ferredoxin oxidoreductase or related 2-oxoacid:ferredoxin oxidoreductase, alpha subunit		2
+Replication, recombination and repair		Ung	1AKZ	COG0692	Uracil-DNA glycosylase		2
+Replication, recombination and repair		XthA	1AKO	COG0708	Exonuclease III		1
+Lipid transport and metabolism	Isoprenoid biosynthesis	Dxr	1JVS	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase		4
+Translation, ribosomal structure and biogenesis	Aminoacyl-tRNA synthetases	GlyS		COG0751	Glycyl-tRNA synthetase, beta subunit		2
+Replication, recombination and repair		Smf	3MAJ	COG0758	Predicted Rossmann fold nucleotide-binding protein DprA/Smf involved in DNA uptake		6
+Lipid transport and metabolism	Isoprenoid biosynthesis	IspH	3DNF	COG0761	4-Hydroxy-3-methylbut-2-enyl diphosphate reductase IspH		1
+Lipid transport and metabolism	Fatty acid biosynthesis	FabA	1MKA	COG0764	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase		1
+Cell wall/membrane/envelope biogenesis	Mureine biosynthesis	MurA	1A2N	COG0766	UDP-N-acetylglucosamine enolpyruvyl transferase		2
+Cell wall/membrane/envelope biogenesis	Mureine biosynthesis	MurD	1E0D	COG0771	UDP-N-acetylmuramoylalanine-D-glutamate ligase		2
+Cell wall/membrane/envelope biogenesis	Mureine biosynthesis	MurC		COG0773	UDP-N-acetylmuramate-alanine ligase MurC and related ligases, MurC/Mpl family		4
+Cell wall/membrane/envelope biogenesis		RlpA	4AVR	COG0797	Peptidoglycan lytic transglycosylase RlpA, contains C-terminal SPOR domain		1
+Carbohydrate transport and metabolism	Entner-Doudoroff pathway	Eda	2V81	COG0800	2-keto-3-deoxy-6-phosphogluconate aldolase		1
+Cell wall/membrane/envelope biogenesis	Mureine biosynthesis	MurB	2MBR	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase		2
+Nucleotide transport and metabolism	Purine salvage	DeoD	1A69	COG0813	Purine-nucleoside phosphorylase		1
+Amino acid transport and metabolismSignal transduction mechanisms		HisJ	1GGG	COG0834	ABC-type amino acid transport/signal transduction system, periplasmic component/domain		1
+Energy production and conversion	NADH dehydrogenase	NuoM	6HUM	COG1008	NADH:ubiquinone oxidoreductase subunit 4 (chain M)		1
+Lipid transport and metabolism	Proline degradation	AdhE	1A4S	COG1012	Acyl-CoA reductase or other NAD-dependent aldehyde dehydrogenase		1
+Replication, recombination and repair		Sms	5LKM	COG1066	DNA repair protein RadA/Sms, contains AAA+ ATPase domain		1
+Replication, recombination and repair		RecB	3U44	COG1074	3�-5� helicase subunit RecB of the DNA repair enzyme RecBCD (exonuclease V)		1
+Cell wall/membrane/envelope biogenesisPosttranslational modification, protein turnover, chaperones		FlaA1	2GN4	COG1086	NDP-sugar epimerase, includes UDP-GlcNAc-inverting 4,6-dehydratase FlaA1 and capsular polysaccharide biosynthesis protein EpsC		1
+Cell wall/membrane/envelope biogenesis		RfbB	1G1A	COG1088	dTDP-D-glucose 4,6-dehydratase		1
+Translation, ribosomal structure and biogenesis	23S rRNA modification	RlmK	2B78	COG1092	23S rRNA G2069 N7-methylase RlmK or C1962 C5-methylase RlmI		1
+Translation, ribosomal structure and biogenesis		Krr1	4QMF	COG1094	rRNA processing protein Krr1/Pno1, contains KH domain		2
+Amino acid transport and metabolism		GlnQ	4YMS	COG1126	ABC-type polar amino acid transport system, ATPase component		1
+Defense mechanisms		MdlB	2HYD	COG1132	ABC-type multidrug transport system, ATPase and permease component		3
+Cell wall/membrane/envelope biogenesis		LolD	5GKO	COG1136	ABC-type lipoprotein export system, ATPase component		1
+Coenzyme transport and metabolismLipid transport and metabolism	Pyridoxal phosphate biosynthesis	Dxs	2O1S	COG1154	Deoxyxylulose-5-phosphate synthase		3
+Carbohydrate transport and metabolism		UgpA	3FH6	COG1175	ABC-type sugar transport system, permease component		1
+Replication, recombination and repairTranscription		Mfd	2EYQ	COG1197	Transcription-repair coupling factor (superfamily II helicase)		1
+Cell wall/membrane/envelope biogenesis		GlmU	3FWW	COG1207	Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase		4
+Cell wall/membrane/envelope biogenesis		RmlA1	1FXO	COG1209	dTDP-glucose pyrophosphorylase		3
+Translation, ribosomal structure and biogenesis		ElaC	1WW1	COG1234	Ribonuclease BN, tRNA processing enzyme		1
+Carbohydrate transport and metabolism		PtsG2	1IBA	COG1264	Phosphotransferase system IIB components		2
+Lipid transport and metabolism	Phospholipid biosynthesis	PgpA	1RFZ	COG1267	Phosphatidylglycerophosphatase A		2
+Coenzyme transport and metabolism		BioY	4DVE	COG1268	Biotin transporter BioY		1
+Energy production and conversion		EutG	6AHC	COG1454	Alcohol dehydrogenase, class IV		1
+Carbohydrate transport and metabolism		PulA	2WSK	COG1523	Pullulanase/glycogen debranching enzyme		1
+Cell wall/membrane/envelope biogenesis		DltB	6BUG	COG1696	D-alanyl-lipoteichoic acid acyltransferase DltB, MBOAT superfamily		1
+Amino acid transport and metabolism		SdaA	4RQO	COG1760	L-serine deaminase		2
+Cell cycle control, cell division, chromosome partitioningCytoskeleton		MreC	2J5U	COG1792	Cell shape-determining protein MreC		1
+Signal transduction mechanisms		PpsR	5D0N	COG1806	Regulator of PEP synthase PpsR, kinase-PPPase family (combines ADP:protein kinase and phosphorylase activities)		1
+Energy production and conversion	Pyruvate oxidation	PflD	1CM5	COG1882	Pyruvate-formate lyase		1
+Lipid transport and metabolism	Isoprenoid biosynthesis	IspE	1OJ4	COG1947	4-diphosphocytidyl-2C-methyl-D-erythritol kinase		2
+Transcription		IscR	1XD7	COG1959	DNA-binding transcriptional regulator, IscR family		2
+Translation, ribosomal structure and biogenesis		MraZ	1N0E	COG2001	MraZ, DNA-binding transcriptional regulator and inhibitor of RsmH methyltransferase activity		2
+Cell wall/membrane/envelope biogenesis		SpsE	1VLI	COG2089	Sialic acid synthase SpsE, contains C-terminal SAF domain		1
+Carbohydrate transport and metabolism		XylA	1A0C	COG2115	Xylose isomerase		1
+Transcription		MngR	2WV0	COG2188	DNA-binding transcriptional regulator, GntR family		3
+Nucleotide transport and metabolism		NCS2		COG2252	Xanthine/guanine/uracil/vitamin C permease GhxP/GhxQ, nucleobase:cation symporter 2 ( NCS2) family		1
+Translation, ribosomal structure and biogenesis		HflX	2QTF	COG2262	50S ribosomal subunit-associated GTPase HflX		1
+General function prediction only		FAS1		COG2335	Uncaracterized surface protein containing fasciclin (FAS1) repeats		1
+Nucleotide transport and metabolismSignal transduction mechanisms		YjbM	5F2V	COG2357	ppGpp synthetase catalytic domain (RelA/SpoT-type nucleotidyltranferase)		1
+Carbohydrate transport and metabolism		Pgl	1JOF	COG2706	6-phosphogluconolactonase, cycloisomerase 2 family		1
+Replication, recombination and repair		DnaX	1A5T	COG2812	DNA polymerase III, gamma/tau subunits		2
+General function prediction only				COG3146	Predicted N-acyltransferase		2
+Mobilome: prophages, transposons		IS285		COG3328	Transposase (or an inactivated derivative)		2
+Inorganic ion transport and metabolism		PhnE		COG3639	ABC-type phosphate/phosphonate transport system, permease component		2
+Inorganic ion transport and metabolism		CusA	3K07	COG3696	Cu/Ag efflux pump CusA		1
+Carbohydrate transport and metabolism		ManZ	6K1H	COG3716	Phosphotransferase system, mannose/fructose/N-acetylgalactosamine-specific IID component		1
+Carbohydrate transport and metabolism		MalK	2ONK	COG3839	ABC-type sugar transport system, ATPase component MalK		2
+Amino acid transport and metabolism		PotA	1Z47	COG3842	ABC-type Fe3+/spermidine/putrescine transport systems, ATPase component		1
+Carbohydrate transport and metabolism				COG3940	Beta-xylosidase, GH43 family		4
+General function prediction only		YabN		COG3956	Uncharacterized conserved protein YabN, contains tetrapyrrole methylase and MazG-like pyrophosphatase domain		1
+Carbohydrate transport and metabolism		XFP	3AHC	COG3957	Phosphoketolase		1
+General function prediction only				COG4120	ABC-type uncharacterized transport system, permease component		1
+Amino acid transport and metabolism		OppA	1B05	COG4166	ABC-type oligopeptide transport system, periplasmic component		2
+Carbohydrate transport and metabolism		LplB	4TQU	COG4209	ABC-type polysaccharide transport system, permease component		1
+Posttranslational modification, protein turnover, chaperones		YdjI		COG4260	Membrane protease subunit, stomatin/prohibitin family, contains C-terminal Zn-ribbon domain		2
+Cell wall/membrane/envelope biogenesis		LolE	6F49	COG4591	ABC-type transport system involved in lipoprotein release, permease component LolC		1
+Function unknown			4IA5	COG4716	Myosin-crossreactive antigen  (function unknown)		1
+Lipid transport and metabolism		PccA	3U9S	COG4770	Acetyl/propionyl-CoA carboxylase, alpha subunit		1
+Carbohydrate transport and metabolism		RhaA	1D8W	COG4806	L-rhamnose isomerase		2
+Coenzyme transport and metabolism	Cobalamine/B12 biosynthesis	CbiK	1QGO	COG4822	Cobalamin biosynthesis protein CbiK, Co2+ chelatase		1
+Energy production and conversionPosttranslational modification, protein turnover, chaperones		CydC		COG4987	ABC-type transport system involved in cytochrome bd biosynthesis, fused ATPase and permease components		2
+Amino acid transport and metabolism		RhtA		COG5006	Threonine/homoserine efflux transporter RhtA		1
+Carbohydrate transport and metabolism			3EU8	COG5368	Endo-beta-1,2-glucanase, glucoamylase superfamily		1
+Function unknown				COG5649	Uncharacterized conserved protein, DUF1801 domain		2
+Cell cycle control, cell division, chromosome partitioningSignal transduction mechanisms		Spo0A	1LQ1	COG5801	Stage 0 sporulation initiation regulator Spo0A (response regulator, REC-HTH domains)		2
+Cell cycle control, cell division, chromosome partitioning		SpoIVA		COG5831	Stage IV sporulation protein SpoIVA, required for spore cortex formation and coat assembly		4
+Cell cycle control, cell division, chromosome partitioningPosttranslational modification, protein turnover, chaperones		SpoIVB		COG5832	Stage IV sporulation protein SpoIVB, serine protease, degrades SpoIIQ, SpoIVFA		1

@@ -1,0 +1,181 @@
+genome,strain,species,type,circular,typical_or_atypical,location,st_group,clonal_complex,oxytet_MIC,pmp1,pmp19,notes,sample_id2,AA004,AB563_AK401,AE171_AN896
+GCA_003462485,OM08-11BH,Melissococcus_plutonius,nontype,N,NA,China:Shenzhen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GCA_029024925,DSM20478,Enterococcus_faecalis,type,Y,NA,Unknown,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+GCA_000270185,ATCC35311,Melissococcus_plutonius,type,Y,Typical,UK,ST1,CC13,NA,Y,N,NA,GCA_000270185,N,Y,N
+GCA_014202715,DSM29964,Melissococcus_plutonius,type,N,Typical,missing,ST1,CC13,NA,Y,N,NA,GCA_014202715,N,Y,N
+MP_ATCC35311,MP_ATCC35311,Melissococcus_plutonius,type,Y,Typical,UK,ST1,CC13,NA,Y,N,NA,MP_ATCC35311,N,Y,N
+GCA_000283975,DAT561,Melissococcus_plutonius,nontype,Y,Atypical,Japan,ST12,CC12,4,Y,N,NA,GCA_000283975,N,Y,N
+GCA_003966875,DAT561,Melissococcus_plutonius,nontype,Y,Atypical,Japan,ST12,CC12,4,Y,Y,NA,GCA_003966875,N,Y,Y
+GCA_025728595,2020OR4,Melissococcus_plutonius,nontype,N,Atypical,USA:OR,ST12,CC12,64,Y,Y,NA,GCA_025728595,Y,Y,Y
+GCA_025728615,2020OR23,Melissococcus_plutonius,nontype,N,Atypical,USA:OR,ST12,CC12,64,Y,Y,NA,GCA_025728615,N,Y,Y
+GCA_049529655,23_AN_1_497,Melissococcus_plutonius,nontype,N,Atypical,USA: California,ST12,CC12,NA,Y,Y,NA,GCA_049529655,N,Y,Y
+GCA_049529675,23_AG_1_325,Melissococcus_plutonius,nontype,N,Atypical,USA: California,ST12,CC12,NA,Y,Y,NA,GCA_049529675,N,Y,Y
+GCA_049529695,23_C_7_488,Melissococcus_plutonius,nontype,N,Atypical,USA: California,ST12,CC12,NA,Y,Y,NA,GCA_049529695,N,Y,Y
+GCA_049529715,23_AG_1_323,Melissococcus_plutonius,nontype,N,Atypical,USA: California,ST12,CC12,NA,Y,Y,NA,GCA_049529715,N,Y,Y
+GCA_049529735,23_AG_1_322,Melissococcus_plutonius,nontype,N,Atypical,USA: California,ST12,CC12,NA,Y,Y,NA,GCA_049529735,N,Y,Y
+GCA_049529795,22_O_211,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,N,NA,GCA_049529795,N,Y,N
+GCA_049529815,22_O_210,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049529815,N,Y,Y
+GCA_049529855,22_O_159,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049529855,N,Y,Y
+GCA_049529895,22_N_5_SRC8,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049529895,N,Y,Y
+GCA_049529935,22_N_2_FC1_3,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049529935,N,Y,Y
+GCA_049529955,22_N_3_FH2_1,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049529955,N,Y,Y
+GCA_049529975,22_K_2_06,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049529975,N,Y,Y
+GCA_049529995,22_K_0_S31_1,Melissococcus_plutonius,nontype,N,Atypical,USA: Georgia,ST12,CC12,NA,Y,Y,NA,GCA_049529995,N,Y,Y
+GCA_049530015,22_K_2_03,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530015,N,Y,Y
+GCA_049530055,22_F_5_04,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530055,N,Y,Y
+GCA_049530095,22_F_3_06,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530095,N,Y,Y
+GCA_049530185,22_E_2_04,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530185,N,Y,Y
+GCA_049530295,22_D_1_05,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,N,NA,GCA_049530295,N,Y,N
+GCA_049530535,22_C_P07_1,Melissococcus_plutonius,nontype,N,Atypical,USA: Georgia,ST12,CC12,NA,Y,N,NA,GCA_049530535,N,Y,N
+GCA_049530615,22_A_4_06,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530615,N,Y,Y
+GCA_049530855,21_F_1_02,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530855,N,Y,Y
+GCA_049530875,21_E_2_08,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530875,N,Y,Y
+GCA_049530895,21_E_2_02,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530895,N,Y,Y
+GCA_049530975,21_C_2_01,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049530975,N,Y,Y
+GCA_049531035,21_B_2_05,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049531035,N,Y,Y
+GCA_049531095,21_A_2_02,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049531095,N,Y,Y
+GCA_049531215,20_F_1_13,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049531215,N,Y,Y
+GCA_049531295,19_P_LFD_18_09,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,N,NA,GCA_049531295,N,Y,N
+GCA_049531375,19_P_LFD_05_08,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049531375,N,Y,Y
+GCA_049531395,19_P_LFD_05_02,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,Y,NA,GCA_049531395,N,Y,Y
+GCA_049531455,19_P_LFD_01_05,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST12,CC12,NA,Y,N,NA,GCA_049531455,N,Y,N
+GCA_051487825,2021SK36,Melissococcus_plutonius,nontype,N,Atypical,Canada:SK,ST12,CC12,16,Y,Y,NA,GCA_051487825,N,Y,Y
+GCA_051487865,2020QU2,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,2,Y,Y,NA,GCA_051487865,N,Y,Y
+GCA_051487885,2020SK69,Melissococcus_plutonius,nontype,N,Atypical,Canada:SK,ST12,CC12,8,Y,N,NA,GCA_051487885,N,Y,N
+GCA_051487905,2020QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,4,Y,N,NA,GCA_051487905,N,Y,N
+GCA_051487925,2019QU2,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,32,Y,N,NA,GCA_051487925,N,Y,N
+GCA_051487945,2019QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,4,Y,N,NA,GCA_051487945,N,Y,N
+GCA_051487965,2020QU3,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,8,Y,N,NA,GCA_051487965,N,Y,N
+GCA_051487985,2018QU3,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,2,Y,Y,NA,GCA_051487985,N,Y,Y
+GCA_051488005,2018QU2,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,16,Y,N,NA,GCA_051488005,N,Y,N
+GCA_051488025,2018QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,16,Y,N,NA,GCA_051488025,N,Y,N
+GCA_051488045,2017QU2,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,4,Y,Y,NA,GCA_051488045,N,Y,Y
+GCA_051488065,2017QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,4,Y,Y,NA,GCA_051488065,N,Y,Y
+GCA_051488085,2016QU2,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,16,Y,Y,NA,GCA_051488085,N,Y,Y
+GCA_051488105,2016QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,32,Y,N,NA,GCA_051488105,N,Y,N
+GCA_051488125,2015QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,4,Y,Y,NA,GCA_051488125,N,Y,Y
+GCA_051488145,2008QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,16,Y,N,NA,GCA_051488145,N,Y,N
+GCA_051488165,2007QU1,Melissococcus_plutonius,nontype,N,Atypical,Canada:QC,ST12,CC12,16,Y,N,NA,GCA_051488165,N,Y,N
+GCA_051488185,2020OR32,Melissococcus_plutonius,nontype,N,Atypical,USA: Oregon,ST12,CC12,8,Y,N,NA,GCA_051488185,N,Y,N
+GCA_051488205,2020OR6,Melissococcus_plutonius,nontype,N,Atypical,USA: Oregon,ST12,CC12,32,Y,N,NA,GCA_051488205,N,Y,N
+MP_ONT141,MP_ONT141,Melissococcus_plutonius,nontype,Y,Atypical,Canada:ON,ST12,CC12,NA,Y,Y,NA,MP_ONT141,N,Y,Y
+MP_ONT143,MP_ONT143,Melissococcus_plutonius,nontype,Y,Atypical,Canada:ON,ST12,CC12,NA,Y,Y,NA,MP_ONT143,N,Y,Y
+MP_ONT231,MP_ONT231,Melissococcus_plutonius,nontype,Y,Atypical,Canada:ON,ST12,CC12,NA,Y,Y,NA,MP_ONT231,N,Y,Y
+MP_ONT63,MP_ONT63,Melissococcus_plutonius,nontype,Y,Atypical,Canada:ON,ST12,CC12,NA,Y,Y,NA,MP_ONT63,N,Y,Y
+MP_ONT81,MP_ONT81,Melissococcus_plutonius,nontype,Y,Atypical,Canada:ON,ST12,CC12,NA,Y,Y,NA,MP_ONT81,N,Y,Y
+GCA_001047445,90,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST13,CC3,NA,Y,N,NA,GCA_001047445,N,Y,N
+abin3_BC33,abin3_BC33,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,NA,Y,NA,NA,NA,NA,NA,NA
+GCA_025728635,2020AB19,Melissococcus_plutonius,nontype,N,Atypical,Canada:AB,ST19,CC12,32,Y,Y,NA,GCA_025728635,N,Y,Y
+GCA_025728645,2020BC6,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,32,Y,Y,NA,GCA_025728645,N,Y,Y
+GCA_025728695,2020BC9,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,GCA_025728695,N,Y,Y
+GCA_049529755,23_A_6_380,Melissococcus_plutonius,nontype,N,Atypical,USA: California,ST19,CC12,NA,Y,Y,NA,GCA_049529755,N,Y,Y
+GCA_049529775,22_X_1_04,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049529775,N,Y,Y
+GCA_049529875,22_O_125,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049529875,N,Y,Y
+GCA_049529915,22_O_124,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049529915,N,Y,Y
+GCA_049530075,22_F_4_03,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530075,N,Y,Y
+GCA_049530115,22_F_2_06,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,N,NA,GCA_049530115,N,Y,N
+GCA_049530135,22_E_2_08,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530135,N,Y,Y
+GCA_049530155,22_E_2_05,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530155,N,Y,Y
+GCA_049530175,22_E_2_03,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530175,N,Y,Y
+GCA_049530215,22_D_5_06,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530215,N,Y,Y
+GCA_049530235,22_D_4_07,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530235,N,Y,Y
+GCA_049530255,22_D_2_04,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530255,N,Y,Y
+GCA_049530275,22_D_4_01,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530275,N,Y,Y
+GCA_049530315,22_C_T24_1,Melissococcus_plutonius,nontype,N,Atypical,USA: Georgia,ST19,CC12,NA,Y,Y,NA,GCA_049530315,N,Y,Y
+GCA_049530335,22_C_T24_2,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530335,N,Y,Y
+GCA_049530355,22_C_T21_2,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530355,N,Y,Y
+GCA_049530375,22_C_T21_1,Melissococcus_plutonius,nontype,N,Atypical,USA: Georgia,ST19,CC12,NA,Y,Y,NA,GCA_049530375,N,Y,Y
+GCA_049530395,22_C_T18_2,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530395,N,Y,Y
+GCA_049530415,22_C_T18_1,Melissococcus_plutonius,nontype,N,Atypical,USA: Georgia,ST19,CC12,NA,Y,Y,NA,GCA_049530415,N,Y,Y
+GCA_049530515,22_C_S13_LP_3,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530515,N,Y,Y
+GCA_049530555,22_C_N25_2,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530555,N,Y,Y
+GCA_049530575,22_B_6_08,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,N,NA,GCA_049530575,N,Y,N
+GCA_049530595,22_A_5_10,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530595,N,Y,Y
+GCA_049530635,22_A_4_03,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530635,N,Y,Y
+GCA_049530655,22_A_2_04,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530655,N,Y,Y
+GCA_049530675,22_A_3_05,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,N,NA,GCA_049530675,N,Y,N
+GCA_049530695,22_A_1_07,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,N,NA,GCA_049530695,N,Y,N
+GCA_049530795,21_G_3_02,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530795,N,Y,Y
+GCA_049530815,21_F_5_05,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530815,N,Y,Y
+GCA_049530835,21_F_1_06,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530835,N,Y,Y
+GCA_049530915,21_C_5_05,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530915,N,Y,Y
+GCA_049530935,21_C_4_10,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049530935,N,Y,Y
+GCA_049531055,21_A_4_06,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531055,N,Y,Y
+GCA_049531075,21_A_3_10,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531075,N,Y,Y
+GCA_049531115,21_A_1_08,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531115,N,Y,Y
+GCA_049531135,20_F_2_52,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531135,N,Y,Y
+GCA_049531155,20_F_2_48,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531155,N,Y,Y
+GCA_049531175,20_F_2_46,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531175,N,Y,Y
+GCA_049531195,20_F_1_16,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531195,N,Y,Y
+GCA_049531235,20_F_1_09,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531235,N,Y,Y
+GCA_049531255,19_P_LFD_23_03,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531255,N,Y,Y
+GCA_049531275,19_P_LFD_17_09,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531275,N,Y,Y
+GCA_049531315,19_P_LFD_17_04EF,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531315,N,Y,Y
+GCA_049531335,19_P_LFD_17_04,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531335,N,Y,Y
+GCA_049531355,19_P_LFD_16_07,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531355,N,Y,Y
+GCA_049531415,19_P_LFD_04_11,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531415,N,Y,Y
+GCA_049531435,19_P_LFD_02_03,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,NA,Y,Y,NA,GCA_049531435,N,Y,Y
+GCA_051487705,2021AB55,Melissococcus_plutonius,nontype,N,Atypical,Canada:AB,ST19,CC12,32,Y,N,NA,GCA_051487705,N,Y,N
+GCA_051487725,2020UT9,Melissococcus_plutonius,nontype,N,Atypical,USA: Utah,ST19,CC12,64,Y,N,NA,GCA_051487725,N,Y,N
+GCA_051487745,2020UT13,Melissococcus_plutonius,nontype,N,Atypical,USA: Utah,ST19,CC12,64,Y,Y,NA,GCA_051487745,N,Y,Y
+GCA_051487785,2020TX9,Melissococcus_plutonius,nontype,N,Atypical,USA: Texas,ST19,CC12,16,Y,N,NA,GCA_051487785,N,Y,N
+GCA_051487805,2021SK14,Melissococcus_plutonius,nontype,N,Atypical,Canada:SK,ST19,CC12,32,Y,Y,NA,GCA_051487805,N,Y,Y
+GCA_051487845,2021SK11,Melissococcus_plutonius,nontype,N,Atypical,Canada:SK,ST19,CC12,16,Y,Y,NA,GCA_051487845,N,Y,Y
+GCA_051488225,2020MI68,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,16,Y,N,NA,GCA_051488225,N,Y,N
+GCA_051488245,2020MI13,Melissococcus_plutonius,nontype,N,Atypical,USA: Michigan,ST19,CC12,64,Y,Y,NA,GCA_051488245,N,Y,Y
+GCA_051490895,2021BC13,Melissococcus_plutonius,nontype,NA,Atypical,Canada:BC,ST19,CC12,8,Y,Y,NA,GCA_051490895,N,Y,Y
+GCA_051490925,2021BC9,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,2,Y,Y,NA,GCA_051490925,N,Y,Y
+GCA_051490945,2021BC7,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,GCA_051490945,N,Y,Y
+GCA_051490965,2021BC16,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,4,Y,Y,NA,GCA_051490965,N,Y,Y
+GCA_051490985,2021BC17,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,4,Y,N,NA,GCA_051490985,N,Y,N
+GCA_051491005,2021BC23,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,8,Y,Y,NA,GCA_051491005,N,Y,Y
+GCA_051491025,2021BC20,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,8,Y,N,NA,GCA_051491025,N,Y,N
+GCA_051491045,2020BC41,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,GCA_051491045,N,Y,Y
+GCA_051491065,2020BC85,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,NA,Y,N,NA,GCA_051491065,N,Y,N
+GCA_051491085,2020BC83,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,NA,Y,N,NA,GCA_051491085,N,Y,N
+GCA_051491105,2020BC34,Melissococcus_plutonius,nontype,N,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,GCA_051491105,N,Y,Y
+GCA_051491125,2020AB43,Melissococcus_plutonius,nontype,N,Atypical,Canada:AB,ST19,CC12,16,Y,N,NA,GCA_051491125,N,Y,N
+GCA_051491145,2020AB23,Melissococcus_plutonius,nontype,N,Atypical,Canada:AB,ST19,CC12,32,Y,N,NA,GCA_051491145,N,Y,N
+MP_AB35,MP_AB35,Melissococcus_plutonius,nontype,Y,Atypical,Canada:AB,ST19,CC12,NA,Y,Y,NA,MP_AB35,N,Y,Y
+MP_BC9,MP_BC9,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,NA,Y,Y,NA,MP_BC9,N,Y,Y
+MP_BCQMy204,MP_BCQMy204,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,MP_BCQMy204,N,Y,Y
+MP_BCQMy205,MP_BCQMy205,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,MP_BCQMy205,N,Y,Y
+MP_BCQMy206,MP_BCQMy206,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,MP_BCQMy206,N,Y,Y
+MP_BCQMy223,MP_BCQMy223,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,MP_BCQMy223,N,Y,Y
+MP_BCQMy224,MP_BCQMy224,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,MP_BCQMy224,N,Y,Y
+MP_BCQMy225,MP_BCQMy225,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,16,Y,Y,NA,MP_BCQMy225,N,Y,Y
+MP_BCQMy302,MP_BCQMy302,Melissococcus_plutonius,nontype,Y,Atypical,Canada:BC,ST19,CC12,NA,Y,N,NA,MP_BCQMy302,N,Y,N
+MP_LCAL0054,MP_LCAL0054,Melissococcus_plutonius,nontype,Y,Atypical,US:CA,ST19,CC12,NA,Y,Y,NA,MP_LCAL0054,N,Y,Y
+MP_LCAL0064,MP_LCAL0064,Melissococcus_plutonius,nontype,Y,Atypical,US:CA,ST19,CC12,NA,Y,Y,NA,MP_LCAL0064,N,Y,Y
+GCA_001047515,119,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST20,CC13,NA,Y,N,NA,GCA_001047515,N,Y,N
+GCA_004001205,DAT585,Melissococcus_plutonius,nontype,Y,Typical,Japan,ST26,CC13,4,Y,N,NA,GCA_004001205,N,Y,N
+GCA_051487765,2020TX30,Melissococcus_plutonius,nontype,N,Atypical,USA: Texas,ST27,CC12,16,Y,N,NA,GCA_051487765,N,Y,N
+GCA_000747585,S1,Melissococcus_plutonius,nontype,Y,Typical,Switzerland,ST3,CC3,NA,Y,N,NA,GCA_000747585,N,Y,N
+GCA_001047395,49.3,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST3,CC3,NA,Y,Y,NA,GCA_001047395,N,Y,Y
+GCA_001047435,765-6B,Melissococcus_plutonius,nontype,N,Typical,Norway,ST3,CC3,NA,Y,N,NA,GCA_001047435,N,Y,N
+GCA_001047465,764-5B,Melissococcus_plutonius,nontype,N,Typical,Norway,ST3,CC3,NA,Y,N,NA,GCA_001047465,N,Y,N
+GCA_004001225,DAT606,Melissococcus_plutonius,nontype,Y,Typical,Japan,ST3,CC3,8,Y,Y,NA,GCA_004001225,N,Y,Y
+GCA_009731445,DAT1033,Melissococcus_plutonius,nontype,Y,Typical,Japan,ST3,CC3,NA,Y,N,NA,GCA_009731445,N,Y,N
+GCA_049530715,21_H_1_06,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST3,CC3,NA,Y,N,NA,GCA_049530715,N,Y,N
+GCA_049530735,21_H_2_19,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST3,CC3,NA,Y,Y,NA,GCA_049530735,N,Y,Y
+GCA_049530775,21_G_1_06,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST3,CC3,NA,Y,Y,NA,GCA_049530775,N,Y,Y
+MP_QEQMy132961,MP_QEQMy132961,Melissococcus_plutonius,nontype,Y,Typical,Canada:QC,ST3,CC3,NA,Y,N,NA,MP_QEQMy132961,N,Y,N
+MP_QEQMy133751,MP_QEQMy133751,Melissococcus_plutonius,nontype,Y,Typical,Canada:QC,ST3,CC3,NA,Y,Y,NA,MP_QEQMy133751,N,Y,Y
+GCA_001047595,82,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST32,CC13,NA,Y,N,NA,GCA_001047595,N,Y,N
+GCA_025728675,2020SK1,Melissococcus_plutonius,nontype,N,Atypical,Canada:SK,ST36,CC12,16,Y,Y,NA,GCA_025728675,N,Y,Y
+GCA_049529835,22_O_146,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,N,NA,GCA_049529835,N,Y,N
+GCA_049530035,22_K_0_N40_1,Melissococcus_plutonius,nontype,N,Typical,USA: Georgia,ST39,CC3,NA,Y,Y,NA,GCA_049530035,N,Y,Y
+GCA_049530435,22_C_T09_2,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,Y,NA,GCA_049530435,N,Y,Y
+GCA_049530455,22_C_T16_1,Melissococcus_plutonius,nontype,N,Typical,USA: Georgia,ST39,CC3,NA,Y,Y,NA,GCA_049530455,N,Y,Y
+GCA_049530475,22_C_T09_1,Melissococcus_plutonius,nontype,N,Typical,USA: Georgia,ST39,CC3,NA,Y,Y,NA,GCA_049530475,N,Y,Y
+GCA_049530495,22_C_S17_2,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,Y,NA,GCA_049530495,N,Y,Y
+GCA_049530755,21_J_4_05,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,Y,NA,GCA_049530755,N,Y,Y
+GCA_049530955,21_C_3_01,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,N,NA,GCA_049530955,N,Y,N
+GCA_049530995,21_B_5_01,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,Y,NA,GCA_049530995,N,Y,Y
+GCA_049531015,21_B_3_03,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,Y,NA,GCA_049531015,N,Y,Y
+GCA_051042715,21_F_4_10,Melissococcus_plutonius,nontype,N,Typical,USA: Michigan,ST39,CC3,NA,Y,Y,NA,GCA_051042715,N,Y,Y
+GCA_001047405,B5,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST7,CC3,NA,Y,N,NA,GCA_001047405,N,Y,N
+GCA_001047455,21.1,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST7,CC3,NA,Y,Y,NA,GCA_001047455,N,Y,Y
+GCA_001047525,H6,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST7,CC3,NA,Y,Y,NA,GCA_001047525,N,Y,Y
+GCA_001047545,60,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST7,CC3,NA,Y,Y,NA,GCA_001047545,N,Y,Y
+GCA_001047555,L9,Melissococcus_plutonius,nontype,N,Typical,Switzerland,ST7,CC3,NA,Y,N,NA,GCA_001047555,N,Y,N

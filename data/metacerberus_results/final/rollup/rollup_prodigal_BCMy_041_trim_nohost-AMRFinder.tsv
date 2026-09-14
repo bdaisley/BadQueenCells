@@ -1,0 +1,17 @@
+L1	L2	ID	Function	Gene	Count
+LINCOSAMIDE	LINCOSAMIDE	NF000170.1	Vga family ABC-F type ribosomal protection protein	vga	2
+GLYCOPEPTIDE	VANCOMYCIN	NF000207.3	D-alanine--D-serine ligase	vanC	3
+STREPTOGRAMIN	STREPTOGRAMIN	NF000311.1	Vat family streptogramin A O-acetyltransferase	vat	17
+MACROLIDE	MACROLIDE	NF000355.3	ABC-F type ribosomal protection protein	abc-f	42
+GLYCOPEPTIDE	VANCOMYCIN	NF000403.1	vancomycin resistance response regulator transcription factor VanR-C	vanR-C	11
+TETRACYCLINE	TETRACYCLINE	NF000475.1	tetracycline efflux ABC transporter Tet(46) subunit B	tetB(46)	2
+PHENICOL	CHLORAMPHENICOL	NF000490.1	type B chloramphenicol O-acetyltransferase	catB	17
+PHENICOL/OXAZOLIDINONE	FLORFENICOL/OXAZOLIDINONE	NF000514.1	ABC-F type ribosomal protection protein OptrA	optrA	7
+TETRACYCLINE	TETRACYCLINE	NF012153.1	tetracycline resistance ribosomal protection protein	tet	18
+TETRACYCLINE	TETRACYCLINE	NF012190.1	tetracycline efflux MFS transporter Tet(B)	tet(B)	2
+TETRACYCLINE	TETRACYCLINE	NF012191.0	tetracycline efflux MFS transporter Tet(C)	tet(C)	2
+GLYCOPEPTIDE	VANCOMYCIN	NF033091.0	vancomycin resistance histidine kinase VanS	vanS	22
+GLYCOPEPTIDE	VANCOMYCIN	NF033117.2	VanR-ABDEGLN family response regulator transcription factor	vanR	96
+GLYCOPEPTIDE	VANCOMYCIN	NF033120.0	vancomycin resistance response regulator transcription factor, VanR-F/VanR-M family	vanR	20
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	210
+ARSENIC	ARSENITE	NF033877.0	arsenite efflux transporter membrane subunit ArsB	arsB	2

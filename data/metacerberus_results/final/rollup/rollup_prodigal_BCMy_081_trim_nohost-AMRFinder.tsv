@@ -1,0 +1,4 @@
+L1	L2	ID	Function	Gene	Count
+TETRACYCLINE	TETRACYCLINE	NF000014.1	oxytetracycline resistance phosphoribosyltransferase domain-containing protein Tet(34)	tet(34)	2
+		NF033606.1	heat shock survival AAA family ATPase ClpK	clpK	2
+MERCURY	MERCURY	TIGR02053.1	mercury(II) reductase	merA	3

@@ -1,0 +1,361 @@
+L1	L2	L3	ID	Function	EC	Gene	Count
+Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	K00033	6-phosphogluconate dehydrogenase	1.1.1.44 1.1.1.343	PGD, gnd, gntZ	1
+Metabolism	Metabolism of other amino acids	Glutathione metabolism [PATH:ko00480]	K00033	6-phosphogluconate dehydrogenase	1.1.1.44 1.1.1.343	PGD, gnd, gntZ	1
+Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	K00108	Choline dehydrogenase	1.1.99.1	betA, CHDH	1
+Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	K00161	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1	PDHA, pdhA	2
+Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	K00161	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1	PDHA, pdhA	2
+Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	K00161	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1	PDHA, pdhA	2
+Environmental Information Processing	Signal transduction	HIF-1 signaling pathway [PATH:ko04066]	K00161	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1	PDHA, pdhA	2
+Organismal Systems	Endocrine system	Glucagon signaling pathway [PATH:ko04922]	K00161	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1	PDHA, pdhA	2
+Human Diseases	Cancer: overview	Central carbon metabolism in cancer [PATH:ko05230]	K00161	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1	PDHA, pdhA	2
+Human Diseases	Cardiovascular disease	Diabetic cardiomyopathy [PATH:ko05415]	K00161	Pyruvate dehydrogenase E1 component alpha subunit	1.2.4.1	PDHA, pdhA	2
+Metabolism	Lipid metabolism	Fatty acid biosynthesis [PATH:ko00061]	K00208	Enoyl-[acyl-carrier protein] reductase I	1.3.1.9 1.3.1.10	fabI	1
+Metabolism	Metabolism of cofactors and vitamins	Biotin metabolism [PATH:ko00780]	K00208	Enoyl-[acyl-carrier protein] reductase I	1.3.1.9 1.3.1.10	fabI	1
+Metabolism	Biosynthesis of other secondary metabolites	Prodigiosin biosynthesis [PATH:ko00333]	K00208	Enoyl-[acyl-carrier protein] reductase I	1.3.1.9 1.3.1.10	fabI	1
+Brite Hierarchies	Protein families: metabolism	Lipid biosynthesis proteins [BR:ko01004]	K00208	Enoyl-[acyl-carrier protein] reductase I	1.3.1.9 1.3.1.10	fabI	1
+Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	K00302	Sarcosine oxidase, subunit alpha	1.5.3.1	soxA	1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K00311	Electron-transferring-flavoprotein dehydrogenase	1.5.5.1	ETFDH	2
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K00350	Na+-transporting NADH:ubiquinone oxidoreductase subunit E	7.2.1.1	nqrE	1
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K00567	Methylated-DNA-[protein]-cysteine S-methyltransferase	2.1.1.63	ogt, MGMT	1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K00574	Cyclopropane-fatty-acyl-phospholipid synthase	2.1.1.79	cfa	2
+Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	K00602	Phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	purH	4
+Metabolism	Metabolism of cofactors and vitamins	One carbon pool by folate [PATH:ko00670]	K00602	Phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	purH	4
+Human Diseases	Drug resistance: antineoplastic	Antifolate resistance [PATH:ko01523]	K00602	Phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	purH	4
+Brite Hierarchies	Protein families: signaling and cellular processes	Exosome [BR:ko04147]	K00602	Phosphoribosylaminoimidazolecarboxamide formyltransferase / IMP cyclohydrolase	2.1.2.3 3.5.4.10	purH	4
+Metabolism	Metabolism of cofactors and vitamins	One carbon pool by folate [PATH:ko00670]	K00604	Methionyl-tRNA formyltransferase	2.1.2.9	MTFMT, fmt	1
+Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis [PATH:ko00970]	K00604	Methionyl-tRNA formyltransferase	2.1.2.9	MTFMT, fmt	1
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism [PATH:ko00500]	K00700	1,4-alpha-glucan branching enzyme	2.4.1.18	GBE1, glgB	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Exosome [BR:ko04147]	K00700	1,4-alpha-glucan branching enzyme	2.4.1.18	GBE1, glgB	2
+Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	K00764	Amidophosphoribosyltransferase	2.4.2.14	purF, PPAT	2
+Metabolism	Amino acid metabolism	Alanine, aspartate and glutamate metabolism [PATH:ko00250]	K00764	Amidophosphoribosyltransferase	2.4.2.14	purF, PPAT	2
+Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors [BR:ko01002]	K00764	Amidophosphoribosyltransferase	2.4.2.14	purF, PPAT	2
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	K00789	S-adenosylmethionine synthetase	2.5.1.6	metK	1
+Metabolism	Amino acid metabolism	Alanine, aspartate and glutamate metabolism [PATH:ko00250]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Amino acid metabolism	Arginine biosynthesis [PATH:ko00220]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Amino acid metabolism	Arginine and proline metabolism [PATH:ko00330]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Amino acid metabolism	Phenylalanine metabolism [PATH:ko00360]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis [PATH:ko00400]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Biosynthesis of other secondary metabolites	Isoquinoline alkaloid biosynthesis [PATH:ko00950]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Biosynthesis of other secondary metabolites	Tropane, piperidine and pyridine alkaloid biosynthesis [PATH:ko00960]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Biosynthesis of other secondary metabolites	Novobiocin biosynthesis [PATH:ko00401]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Brite Hierarchies	Protein families: metabolism	Amino acid related enzymes [BR:ko01007]	K00812	Aspartate aminotransferase	2.6.1.1	aspB	1
+Metabolism	Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	K00864	Glycerol kinase	2.7.1.30	glpK, GK	2
+Organismal Systems	Endocrine system	PPAR signaling pathway [PATH:ko03320]	K00864	Glycerol kinase	2.7.1.30	glpK, GK	2
+Organismal Systems	Environmental adaptation	Plant-pathogen interaction [PATH:ko04626]	K00864	Glycerol kinase	2.7.1.30	glpK, GK	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Exosome [BR:ko04147]	K00864	Glycerol kinase	2.7.1.30	glpK, GK	2
+Metabolism	Nucleotide metabolism	Pyrimidine metabolism [PATH:ko00240]	K00876	Uridine kinase	2.7.1.48	udk, UCK	22
+Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes [PATH:ko00983]	K00876	Uridine kinase	2.7.1.48	udk, UCK	22
+Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	K00925	Acetate kinase	2.7.2.1	ackA	5
+Metabolism	Carbohydrate metabolism	Propanoate metabolism [PATH:ko00640]	K00925	Acetate kinase	2.7.2.1	ackA	5
+Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	K00925	Acetate kinase	2.7.2.1	ackA	5
+Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	K00925	Acetate kinase	2.7.2.1	ackA	5
+Metabolism	Metabolism of other amino acids	Taurine and hypotaurine metabolism [PATH:ko00430]	K00925	Acetate kinase	2.7.2.1	ackA	5
+Metabolism	Energy metabolism	Oxidative phosphorylation [PATH:ko00190]	K00937	Polyphosphate kinase	2.7.4.1	ppk1	1
+Genetic Information Processing	Folding, sorting and degradation	RNA degradation [PATH:ko03018]	K00937	Polyphosphate kinase	2.7.4.1	ppk1	1
+Brite Hierarchies	Protein families: genetic information processing	Messenger RNA biogenesis [BR:ko03019]	K00937	Polyphosphate kinase	2.7.4.1	ppk1	1
+Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	K00948	Ribose-phosphate pyrophosphokinase	2.7.6.1	PRPS, prsA	1
+Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	K00948	Ribose-phosphate pyrophosphokinase	2.7.6.1	PRPS, prsA	1
+Brite Hierarchies	Protein families: genetic information processing	Translation factors [BR:ko03012]	K01056	Peptidyl-tRNA hydrolase, PTH1 family	3.1.1.29	PTH1, pth, spoVC	2
+Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism [PATH:ko00562]	K01092	Myo-inositol-1(or 4)-monophosphatase	3.1.3.25	E3.1.3.25, IMPA, suhB	2
+Metabolism	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis [PATH:ko00521]	K01092	Myo-inositol-1(or 4)-monophosphatase	3.1.3.25	E3.1.3.25, IMPA, suhB	2
+Environmental Information Processing	Signal transduction	Phosphatidylinositol signaling system [PATH:ko04070]	K01092	Myo-inositol-1(or 4)-monophosphatase	3.1.3.25	E3.1.3.25, IMPA, suhB	2
+Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	K01139	GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	2.7.6.5 3.1.7.2	spoT	2
+Brite Hierarchies	Protein families: genetic information processing	Ribosome biogenesis [BR:ko03009]	K01139	GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	2.7.6.5 3.1.7.2	spoT	2
+Metabolism	Carbohydrate metabolism	Galactose metabolism [PATH:ko00052]	K01182	Oligo-1,6-glucosidase	3.2.1.10	IMA, malL	1
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism [PATH:ko00500]	K01182	Oligo-1,6-glucosidase	3.2.1.10	IMA, malL	1
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	K01251	Adenosylhomocysteinase	3.3.1.1	E3.3.1.1, ahcY	1
+Brite Hierarchies	Protein families: metabolism	Protein phosphatases and associated proteins [BR:ko01009]	K01251	Adenosylhomocysteinase	3.3.1.1	E3.3.1.1, ahcY	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Exosome [BR:ko04147]	K01251	Adenosylhomocysteinase	3.3.1.1	E3.3.1.1, ahcY	1
+Cellular Processes	Cell growth and death	Cell cycle - Caulobacter [PATH:ko04112]	K01338	ATP-dependent Lon protease	3.4.21.53	lon	1
+Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors [BR:ko01002]	K01338	ATP-dependent Lon protease	3.4.21.53	lon	1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K01531	P-type Mg2+ transporter	7.2.2.14	mgtA, mgtB	1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K01533	P-type Cu2+ transporter	7.2.2.9	copB	1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K01534	Zn2+/Cd2+-exporting ATPase	7.2.2.12 7.2.2.21	zntA	3
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K01537	P-type Ca2+ transporter type 2C	7.2.2.10	ATP2C	1
+Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	K01580	Glutamate decarboxylase	4.1.1.15	E4.1.1.15, gadB, gadA, GAD	1
+Metabolism	Amino acid metabolism	Alanine, aspartate and glutamate metabolism [PATH:ko00250]	K01580	Glutamate decarboxylase	4.1.1.15	E4.1.1.15, gadB, gadA, GAD	1
+Metabolism	Metabolism of other amino acids	beta-Alanine metabolism [PATH:ko00410]	K01580	Glutamate decarboxylase	4.1.1.15	E4.1.1.15, gadB, gadA, GAD	1
+Metabolism	Metabolism of other amino acids	Taurine and hypotaurine metabolism [PATH:ko00430]	K01580	Glutamate decarboxylase	4.1.1.15	E4.1.1.15, gadB, gadA, GAD	1
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing [PATH:ko02024]	K01580	Glutamate decarboxylase	4.1.1.15	E4.1.1.15, gadB, gadA, GAD	1
+Organismal Systems	Nervous system	GABAergic synapse [PATH:ko04727]	K01580	Glutamate decarboxylase	4.1.1.15	E4.1.1.15, gadB, gadA, GAD	1
+Human Diseases	Endocrine and metabolic disease	Type I diabetes mellitus [PATH:ko04940]	K01580	Glutamate decarboxylase	4.1.1.15	E4.1.1.15, gadB, gadA, GAD	1
+Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	K01621	Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9 4.1.2.22	xfp, xpk	1
+Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	K01621	Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9 4.1.2.22	xfp, xpk	1
+Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	K01624	Fructose-bisphosphate aldolase, class II	4.1.2.13	FBA, fbaA	1
+Metabolism	Carbohydrate metabolism	Pentose phosphate pathway [PATH:ko00030]	K01624	Fructose-bisphosphate aldolase, class II	4.1.2.13	FBA, fbaA	1
+Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	K01624	Fructose-bisphosphate aldolase, class II	4.1.2.13	FBA, fbaA	1
+Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms [PATH:ko00710]	K01624	Fructose-bisphosphate aldolase, class II	4.1.2.13	FBA, fbaA	1
+Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	K01624	Fructose-bisphosphate aldolase, class II	4.1.2.13	FBA, fbaA	1
+Metabolism	Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis [PATH:ko00540]	K01627	2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase)	2.5.1.55	kdsA	2
+Brite Hierarchies	Protein families: metabolism	Lipopolysaccharide biosynthesis proteins [BR:ko01005]	K01627	2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase)	2.5.1.55	kdsA	2
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K01643	Citrate lyase subunit alpha / citrate CoA-transferase	2.8.3.10	citF	2
+Metabolism	Metabolism of other amino acids	D-Glutamine and D-glutamate metabolism [PATH:ko00471]	K01776	Glutamate racemase	5.1.1.3	murI	1
+Brite Hierarchies	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins [BR:ko01011]	K01776	Glutamate racemase	5.1.1.3	murI	1
+Metabolism	Glycan biosynthesis and metabolism	O-Antigen nucleotide sugar biosynthesis [PATH:ko00541]	K01790	DTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	rfbC, rmlC	1
+Metabolism	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis [PATH:ko00523]	K01790	DTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	rfbC, rmlC	1
+Metabolism	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis [PATH:ko00521]	K01790	DTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	rfbC, rmlC	1
+Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	PGAM, gpmA	6
+Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	PGAM, gpmA	6
+Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism [PATH:ko00260]	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	PGAM, gpmA	6
+Organismal Systems	Endocrine system	Glucagon signaling pathway [PATH:ko04922]	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	PGAM, gpmA	6
+Human Diseases	Cancer: overview	Central carbon metabolism in cancer [PATH:ko05230]	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	PGAM, gpmA	6
+Brite Hierarchies	Protein families: genetic information processing	Membrane trafficking [BR:ko04131]	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	PGAM, gpmA	6
+Brite Hierarchies	Protein families: signaling and cellular processes	Exosome [BR:ko04147]	K01834	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	PGAM, gpmA	6
+Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis [PATH:ko00970]	K01892	Histidyl-tRNA synthetase	6.1.1.21	HARS, hisS	1
+Brite Hierarchies	Protein families: metabolism	Amino acid related enzymes [BR:ko01007]	K01892	Histidyl-tRNA synthetase	6.1.1.21	HARS, hisS	1
+Brite Hierarchies	Protein families: genetic information processing	Transfer RNA biogenesis [BR:ko03016]	K01892	Histidyl-tRNA synthetase	6.1.1.21	HARS, hisS	1
+Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis [PATH:ko00970]	K01893	Asparaginyl-tRNA synthetase	6.1.1.22	NARS, asnS	3
+Brite Hierarchies	Protein families: metabolism	Amino acid related enzymes [BR:ko01007]	K01893	Asparaginyl-tRNA synthetase	6.1.1.22	NARS, asnS	3
+Brite Hierarchies	Protein families: genetic information processing	Transfer RNA biogenesis [BR:ko03016]	K01893	Asparaginyl-tRNA synthetase	6.1.1.22	NARS, asnS	3
+Metabolism	Nucleotide metabolism	Pyrimidine metabolism [PATH:ko00240]	K01937	CTP synthase	6.3.4.2	pyrG, CTPS	1
+Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	K01961	Acetyl-CoA carboxylase, biotin carboxylase subunit	6.4.1.2 6.3.4.14	accC	5
+Metabolism	Carbohydrate metabolism	Propanoate metabolism [PATH:ko00640]	K01961	Acetyl-CoA carboxylase, biotin carboxylase subunit	6.4.1.2 6.3.4.14	accC	5
+Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	K01961	Acetyl-CoA carboxylase, biotin carboxylase subunit	6.4.1.2 6.3.4.14	accC	5
+Metabolism	Lipid metabolism	Fatty acid biosynthesis [PATH:ko00061]	K01961	Acetyl-CoA carboxylase, biotin carboxylase subunit	6.4.1.2 6.3.4.14	accC	5
+Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	K01963	Acetyl-CoA carboxylase carboxyl transferase subunit beta	6.4.1.2 2.1.3.15	accD	1
+Metabolism	Carbohydrate metabolism	Propanoate metabolism [PATH:ko00640]	K01963	Acetyl-CoA carboxylase carboxyl transferase subunit beta	6.4.1.2 2.1.3.15	accD	1
+Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	K01963	Acetyl-CoA carboxylase carboxyl transferase subunit beta	6.4.1.2 2.1.3.15	accD	1
+Metabolism	Lipid metabolism	Fatty acid biosynthesis [PATH:ko00061]	K01963	Acetyl-CoA carboxylase carboxyl transferase subunit beta	6.4.1.2 2.1.3.15	accD	1
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K01996	Branched-chain amino acid transport system ATP-binding protein		livF	2
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing [PATH:ko02024]	K01996	Branched-chain amino acid transport system ATP-binding protein		livF	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K01996	Branched-chain amino acid transport system ATP-binding protein		livF	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K02003	Putative ABC transport system ATP-binding protein		ABC.CD.A	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K02028	Polar amino acid transport system ATP-binding protein	7.4.2.1	ABC.PA.A	2
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K02072	D-methionine transport system permease protein		metI	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K02072	D-methionine transport system permease protein		metI	1
+Metabolism	Energy metabolism	Oxidative phosphorylation [PATH:ko00190]	K02110	F-type H+-transporting ATPase subunit c		ATPF0C, atpE	1
+Metabolism	Energy metabolism	Photosynthesis [PATH:ko00195]	K02110	F-type H+-transporting ATPase subunit c		ATPF0C, atpE	1
+Brite Hierarchies	Protein families: metabolism	Photosynthesis proteins [BR:ko00194]	K02110	F-type H+-transporting ATPase subunit c		ATPF0C, atpE	1
+Metabolism	Energy metabolism	Oxidative phosphorylation [PATH:ko00190]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Organismal Systems	Environmental adaptation	Thermogenesis [PATH:ko04714]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Human Diseases	Neurodegenerative disease	Alzheimer disease [PATH:ko05010]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Human Diseases	Neurodegenerative disease	Parkinson disease [PATH:ko05012]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Human Diseases	Neurodegenerative disease	Amyotrophic lateral sclerosis [PATH:ko05014]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Human Diseases	Neurodegenerative disease	Huntington disease [PATH:ko05016]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Human Diseases	Neurodegenerative disease	Prion disease [PATH:ko05020]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Human Diseases	Neurodegenerative disease	Pathways of neurodegeneration - multiple diseases [PATH:ko05022]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Human Diseases	Cardiovascular disease	Diabetic cardiomyopathy [PATH:ko05415]	K02132	F-type H+-transporting ATPase subunit alpha		ATPeF1A, ATP5A1, ATP1	2
+Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	Structural proteins	K02197	Cytochrome c-type biogenesis protein CcmE		ccmE	2
+Metabolism	Energy metabolism	Oxidative phosphorylation [PATH:ko00190]	K02297	Cytochrome o ubiquinol oxidase subunit II	7.1.1.3	cyoA	2
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K02313	Chromosomal replication initiator protein		dnaA	2
+Cellular Processes	Cell growth and death	Cell cycle - Caulobacter [PATH:ko04112]	K02313	Chromosomal replication initiator protein		dnaA	2
+Brite Hierarchies	Protein families: genetic information processing	DNA replication proteins [BR:ko03032]	K02313	Chromosomal replication initiator protein		dnaA	2
+Brite Hierarchies	Protein families: genetic information processing	Chromosome and associated proteins [BR:ko03036]	K02313	Chromosomal replication initiator protein		dnaA	2
+Genetic Information Processing	Replication and repair	DNA replication [PATH:ko03030]	K02343	DNA polymerase III subunit gamma/tau	2.7.7.7	dnaX	2
+Genetic Information Processing	Replication and repair	Mismatch repair [PATH:ko03430]	K02343	DNA polymerase III subunit gamma/tau	2.7.7.7	dnaX	2
+Genetic Information Processing	Replication and repair	Homologous recombination [PATH:ko03440]	K02343	DNA polymerase III subunit gamma/tau	2.7.7.7	dnaX	2
+Brite Hierarchies	Protein families: genetic information processing	DNA replication proteins [BR:ko03032]	K02343	DNA polymerase III subunit gamma/tau	2.7.7.7	dnaX	2
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K02343	DNA polymerase III subunit gamma/tau	2.7.7.7	dnaX	2
+Brite Hierarchies	Protein families: genetic information processing	Translation factors [BR:ko03012]	K02357	Elongation factor Ts		tsf, TSFM	1
+Brite Hierarchies	Protein families: genetic information processing	Mitochondrial biogenesis [BR:ko03029]	K02357	Elongation factor Ts		tsf, TSFM	1
+Metabolism	Amino acid metabolism	Tyrosine metabolism [PATH:ko00350]	K02510	4-hydroxy-2-oxoheptanedioate aldolase	4.1.2.52	hpaI, hpcH	2
+Brite Hierarchies	Protein families: genetic information processing	Translation factors [BR:ko03012]	K02518	Translation initiation factor IF-1		infA	2
+Brite Hierarchies	Protein families: genetic information processing	Translation factors [BR:ko03012]	K02519	Translation initiation factor IF-2		infB, MTIF2	5
+Brite Hierarchies	Protein families: genetic information processing	Mitochondrial biogenesis [BR:ko03029]	K02519	Translation initiation factor IF-2		infB, MTIF2	5
+Brite Hierarchies	Protein families: genetic information processing	DNA replication proteins [BR:ko03032]	K02621	Topoisomerase IV subunit A	5.6.2.2	parC	3
+Brite Hierarchies	Protein families: genetic information processing	Chromosome and associated proteins [BR:ko03036]	K02621	Topoisomerase IV subunit A	5.6.2.2	parC	3
+Brite Hierarchies	Protein families: signaling and cellular processes	Prokaryotic defense system [BR:ko02048]	K02621	Topoisomerase IV subunit A	5.6.2.2	parC	3
+Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	K02768	Fructose PTS system EIIA component	2.7.1.202	fruB	1
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS) [PATH:ko02060]	K02768	Fructose PTS system EIIA component	2.7.1.202	fruB	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K02768	Fructose PTS system EIIA component	2.7.1.202	fruB	1
+Metabolism	Carbohydrate metabolism	Galactose metabolism [PATH:ko00052]	K02788	Lactose PTS system EIICB component	2.7.1.207	lacE	2
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS) [PATH:ko02060]	K02788	Lactose PTS system EIICB component	2.7.1.207	lacE	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K02788	Lactose PTS system EIICB component	2.7.1.207	lacE	2
+Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism [PATH:ko00051]	K02800	Mannitol PTS system EIICBA or EIICB component	2.7.1.197	mtlA, cmtA	1
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS) [PATH:ko02060]	K02800	Mannitol PTS system EIICBA or EIICB component	2.7.1.197	mtlA, cmtA	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K02800	Mannitol PTS system EIICBA or EIICB component	2.7.1.197	mtlA, cmtA	1
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism [PATH:ko00500]	K02810	Sucrose PTS system EIIBCA or EIIBC component	2.7.1.211	scrA, sacP, sacX, ptsS	1
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS) [PATH:ko02060]	K02810	Sucrose PTS system EIIBCA or EIIBC component	2.7.1.211	scrA, sacP, sacX, ptsS	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K02810	Sucrose PTS system EIIBCA or EIIBC component	2.7.1.211	scrA, sacP, sacX, ptsS	1
+Brite Hierarchies	Protein families: genetic information processing	Translation factors [BR:ko03012]	K02837	Peptide chain release factor 3		prfC	1
+Genetic Information Processing	Translation	Ribosome [PATH:ko03010]	K02876	Large subunit ribosomal protein L15		RP-L15, MRPL15, rplO	1
+Brite Hierarchies	Protein families: genetic information processing	Ribosome [BR:ko03011]	K02876	Large subunit ribosomal protein L15		RP-L15, MRPL15, rplO	1
+Genetic Information Processing	Translation	Ribosome [PATH:ko03010]	K02879	Large subunit ribosomal protein L17		RP-L17, MRPL17, rplQ	1
+Brite Hierarchies	Protein families: genetic information processing	Ribosome [BR:ko03011]	K02879	Large subunit ribosomal protein L17		RP-L17, MRPL17, rplQ	1
+Genetic Information Processing	Translation	Ribosome [PATH:ko03010]	K02884	Large subunit ribosomal protein L19		RP-L19, MRPL19, rplS	2
+Brite Hierarchies	Protein families: genetic information processing	Ribosome [BR:ko03011]	K02884	Large subunit ribosomal protein L19		RP-L19, MRPL19, rplS	2
+Genetic Information Processing	Translation	Ribosome [PATH:ko03010]	K02952	Small subunit ribosomal protein S13		RP-S13, rpsM	2
+Brite Hierarchies	Protein families: genetic information processing	Ribosome [BR:ko03011]	K02952	Small subunit ribosomal protein S13		RP-S13, rpsM	2
+Genetic Information Processing	Translation	Ribosome [PATH:ko03010]	K02988	Small subunit ribosomal protein S5		RP-S5, MRPS5, rpsE	1
+Brite Hierarchies	Protein families: genetic information processing	Ribosome [BR:ko03011]	K02988	Small subunit ribosomal protein S5		RP-S5, MRPS5, rpsE	1
+Genetic Information Processing	Transcription	RNA polymerase [PATH:ko03020]	K03046	DNA-directed RNA polymerase subunit beta'	2.7.7.6	rpoC	1
+Brite Hierarchies	Protein families: genetic information processing	Transcription machinery [BR:ko03021]	K03046	DNA-directed RNA polymerase subunit beta'	2.7.7.6	rpoC	1
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03046	DNA-directed RNA polymerase subunit beta'	2.7.7.6	rpoC	1
+Cellular Processes	Cell motility	Flagellar assembly [PATH:ko02040]	K03086	RNA polymerase primary sigma factor		rpoD	2
+Brite Hierarchies	Protein families: genetic information processing	Transcription machinery [BR:ko03021]	K03086	RNA polymerase primary sigma factor		rpoD	2
+Brite Hierarchies	Protein families: genetic information processing	DNA replication proteins [BR:ko03032]	K03169	DNA topoisomerase III	5.6.2.1	topB	4
+Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	Transport	K03292	Glycoside/pentoside/hexuronide:cation symporter, GPH family		TC.GPH	1
+Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism [PATH:ko00562]	K03335	Inosose dehydratase	4.2.1.44	iolE	1
+Brite Hierarchies	Protein families: genetic information processing	Chromosome and associated proteins [BR:ko03036]	K03466	DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family		ftsK, spoIIIE	1
+Genetic Information Processing	Replication and repair	DNA replication [PATH:ko03030]	K03470	Ribonuclease HII	3.1.26.4	rnhB	1
+Brite Hierarchies	Protein families: genetic information processing	DNA replication proteins [BR:ko03032]	K03470	Ribonuclease HII	3.1.26.4	rnhB	1
+Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism [PATH:ko00053]	K03475	Ascorbate PTS system EIIC component		ulaA, sgaT	1
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS) [PATH:ko02060]	K03475	Ascorbate PTS system EIIC component		ulaA, sgaT	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K03475	Ascorbate PTS system EIIC component		ulaA, sgaT	1
+Genetic Information Processing	Replication and repair	Homologous recombination [PATH:ko03440]	K03550	Holliday junction DNA helicase RuvA	3.6.4.12	ruvA	2
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03550	Holliday junction DNA helicase RuvA	3.6.4.12	ruvA	2
+Cellular Processes	Cell growth and death	Cell cycle - Caulobacter [PATH:ko04112]	K03588	Cell division protein FtsW		ftsW, spoVE	2
+Brite Hierarchies	Protein families: genetic information processing	Chromosome and associated proteins [BR:ko03036]	K03588	Cell division protein FtsW		ftsW, spoVE	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K03588	Cell division protein FtsW		ftsW, spoVE	2
+Metabolism	Lipid metabolism	Glycerolipid metabolism [PATH:ko00561]	K03621	Phosphate acyltransferase	2.3.1.274	plsX	3
+Brite Hierarchies	Protein families: metabolism	Lipid biosynthesis proteins [BR:ko01004]	K03621	Phosphate acyltransferase	2.3.1.274	plsX	3
+Genetic Information Processing	Replication and repair	Homologous recombination [PATH:ko03440]	K03629	DNA replication and repair protein RecF		recF	2
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03629	DNA replication and repair protein RecF		recF	2
+Brite Hierarchies	Protein families: genetic information processing	Transfer RNA biogenesis [BR:ko03016]	K03650	TRNA modification GTPase	3.6.-.-	mnmE, trmE, MSS1	1
+Genetic Information Processing	Folding, sorting and degradation	RNA degradation [PATH:ko03018]	K03654	ATP-dependent DNA helicase RecQ	3.6.4.12	recQ	2
+Brite Hierarchies	Protein families: genetic information processing	Messenger RNA biogenesis [BR:ko03019]	K03654	ATP-dependent DNA helicase RecQ	3.6.4.12	recQ	2
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03654	ATP-dependent DNA helicase RecQ	3.6.4.12	recQ	2
+Brite Hierarchies	Protein families: genetic information processing	Chaperones and folding catalysts [BR:ko03110]	K03696	ATP-dependent Clp protease ATP-binding subunit ClpC		clpC	1
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03700	Recombination protein U		recU	1
+Genetic Information Processing	Replication and repair	Nucleotide excision repair [PATH:ko03420]	K03701	Excinuclease ABC subunit A		uvrA	2
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03701	Excinuclease ABC subunit A		uvrA	2
+Genetic Information Processing	Replication and repair	Nucleotide excision repair [PATH:ko03420]	K03702	Excinuclease ABC subunit B		uvrB	1
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03702	Excinuclease ABC subunit B		uvrB	1
+Genetic Information Processing	Replication and repair	Nucleotide excision repair [PATH:ko03420]	K03703	Excinuclease ABC subunit C		uvrC	1
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03703	Excinuclease ABC subunit C		uvrC	1
+Genetic Information Processing	Replication and repair	Nucleotide excision repair [PATH:ko03420]	K03723	Transcription-repair coupling factor (superfamily II helicase)	3.6.4.-	mfd	4
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03723	Transcription-repair coupling factor (superfamily II helicase)	3.6.4.-	mfd	4
+Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis [PATH:ko00010]	K03737	Pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1 1.2.7.-	por, nifJ	2
+Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle) [PATH:ko00020]	K03737	Pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1 1.2.7.-	por, nifJ	2
+Metabolism	Carbohydrate metabolism	Pyruvate metabolism [PATH:ko00620]	K03737	Pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1 1.2.7.-	por, nifJ	2
+Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	K03737	Pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1 1.2.7.-	por, nifJ	2
+Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes [PATH:ko00720]	K03737	Pyruvate-ferredoxin/flavodoxin oxidoreductase	1.2.7.1 1.2.7.-	por, nifJ	2
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K03740	D-alanine transfer protein		dltD	1
+Human Diseases	Infectious disease: bacterial	Staphylococcus aureus infection [PATH:ko05150]	K03740	D-alanine transfer protein		dltD	1
+Human Diseases	Drug resistance: antimicrobial	Cationic antimicrobial peptide (CAMP) resistance [PATH:ko01503]	K03740	D-alanine transfer protein		dltD	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Antimicrobial resistance genes [BR:ko01504]	K03740	D-alanine transfer protein		dltD	1
+Genetic Information Processing	Replication and repair	DNA replication [PATH:ko03030]	K03763	DNA polymerase III subunit alpha, Gram-positive type	2.7.7.7	polC	3
+Genetic Information Processing	Replication and repair	Mismatch repair [PATH:ko03430]	K03763	DNA polymerase III subunit alpha, Gram-positive type	2.7.7.7	polC	3
+Genetic Information Processing	Replication and repair	Homologous recombination [PATH:ko03440]	K03763	DNA polymerase III subunit alpha, Gram-positive type	2.7.7.7	polC	3
+Brite Hierarchies	Protein families: genetic information processing	DNA replication proteins [BR:ko03032]	K03763	DNA polymerase III subunit alpha, Gram-positive type	2.7.7.7	polC	3
+Brite Hierarchies	Protein families: genetic information processing	DNA repair and recombination proteins [BR:ko03400]	K03763	DNA polymerase III subunit alpha, Gram-positive type	2.7.7.7	polC	3
+Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors [BR:ko01002]	K03798	Cell division protease FtsH	3.4.24.-	ftsH, hflB	2
+Brite Hierarchies	Protein families: genetic information processing	Chaperones and folding catalysts [BR:ko03110]	K03798	Cell division protease FtsH	3.4.24.-	ftsH, hflB	2
+Metabolism	Metabolism of cofactors and vitamins	Thiamine metabolism [PATH:ko00730]	K04487	Cysteine desulfurase	2.8.1.7	iscS, NFS1	1
+Genetic Information Processing	Folding, sorting and degradation	Sulfur relay system [PATH:ko04122]	K04487	Cysteine desulfurase	2.8.1.7	iscS, NFS1	1
+Brite Hierarchies	Protein families: genetic information processing	Transfer RNA biogenesis [BR:ko03016]	K04487	Cysteine desulfurase	2.8.1.7	iscS, NFS1	1
+Brite Hierarchies	Protein families: genetic information processing	Mitochondrial biogenesis [BR:ko03029]	K04487	Cysteine desulfurase	2.8.1.7	iscS, NFS1	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Prokaryotic defense system [BR:ko02048]	K04487	Cysteine desulfurase	2.8.1.7	iscS, NFS1	1
+Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Escherichia coli [PATH:ko02026]	K04761	LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator		oxyR	2
+Brite Hierarchies	Protein families: genetic information processing	Transcription factors [BR:ko03000]	K04761	LysR family transcriptional regulator, hydrogen peroxide-inducible genes activator		oxyR	2
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism [PATH:ko00500]	K05349	Beta-glucosidase	3.2.1.21	bglX	1
+Metabolism	Metabolism of other amino acids	Cyanoamino acid metabolism [PATH:ko00460]	K05349	Beta-glucosidase	3.2.1.21	bglX	1
+Metabolism	Biosynthesis of other secondary metabolites	Phenylpropanoid biosynthesis [PATH:ko00940]	K05349	Beta-glucosidase	3.2.1.21	bglX	1
+Brite Hierarchies	Protein families: genetic information processing	Transfer RNA biogenesis [BR:ko03016]	K05541	TRNA-dihydrouridine synthase C	1.-.-.-	dusC	1
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K05846	Osmoprotectant transport system permease protein		opuBD	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K05846	Osmoprotectant transport system permease protein		opuBD	1
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K05874	Methyl-accepting chemotaxis protein I, serine sensor receptor		tsr	2
+Cellular Processes	Cell motility	Bacterial chemotaxis [PATH:ko02030]	K05874	Methyl-accepting chemotaxis protein I, serine sensor receptor		tsr	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Bacterial motility proteins [BR:ko02035]	K05874	Methyl-accepting chemotaxis protein I, serine sensor receptor		tsr	2
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K05964	Holo-ACP synthase	2.7.7.61	citX	1
+Brite Hierarchies	Protein families: genetic information processing	Ribosome biogenesis [BR:ko03009]	K06180	23S rRNA pseudouridine1911/1915/1917 synthase	5.4.99.23	rluD	2
+Not Included in Pathway or Brite	Unclassified: signaling and cellular processes	Signaling proteins	K06207	GTP-binding protein		typA, bipA	1
+Metabolism	Lipid metabolism	Fatty acid degradation [PATH:ko00071]	K06445	Acyl-CoA dehydrogenase	1.3.99.-	fadE	1
+Brite Hierarchies	Protein families: genetic information processing	Ribosome biogenesis [BR:ko03009]	K06941	23S rRNA (adenine2503-C2)-methyltransferase	2.1.1.192	rlmN	1
+Brite Hierarchies	Protein families: genetic information processing	Transfer RNA biogenesis [BR:ko03016]	K06967	TRNA (adenine22-N1)-methyltransferase	2.1.1.217	trmK	1
+Not Included in Pathway or Brite	Poorly characterized	Function unknown	K07033	Uncharacterized protein			1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K07037	Cyclic-di-AMP phosphodiesterase PgpH	3.1.4.-	pgpH	2
+Brite Hierarchies	Protein families: genetic information processing	Ribosome biogenesis [BR:ko03009]	K07056	16S rRNA (cytidine1402-2'-O)-methyltransferase	2.1.1.198	rsmI	1
+Not Included in Pathway or Brite	Poorly characterized	Function unknown	K07137	Uncharacterized protein			1
+Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	K07246	Tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93 4.1.1.73 1.1.1.83	ttuC, dmlA	2
+Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	K07246	Tartrate dehydrogenase/decarboxylase / D-malate dehydrogenase	1.1.1.93 4.1.1.73 1.1.1.83	ttuC, dmlA	2
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K07304	Peptide-methionine (S)-S-oxide reductase	1.8.4.11	msrA	1
+Not Included in Pathway or Brite	Unclassified: genetic information processing	Replication and repair	K07478	Putative ATPase		ycaJ	1
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K07644	Two-component system, OmpR family, heavy metal sensor histidine kinase CusS	2.7.13.3	cusS, copS, silS	3
+Brite Hierarchies	Protein families: metabolism	Protein kinases [BR:ko01001]	K07644	Two-component system, OmpR family, heavy metal sensor histidine kinase CusS	2.7.13.3	cusS, copS, silS	3
+Brite Hierarchies	Protein families: signaling and cellular processes	Two-component system [BR:ko02022]	K07644	Two-component system, OmpR family, heavy metal sensor histidine kinase CusS	2.7.13.3	cusS, copS, silS	3
+Brite Hierarchies	Protein families: signaling and cellular processes	Antimicrobial resistance genes [BR:ko01504]	K07644	Two-component system, OmpR family, heavy metal sensor histidine kinase CusS	2.7.13.3	cusS, copS, silS	3
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K07652	Two-component system, OmpR family, sensor histidine kinase VicK	2.7.13.3	vicK	2
+Brite Hierarchies	Protein families: metabolism	Protein kinases [BR:ko01001]	K07652	Two-component system, OmpR family, sensor histidine kinase VicK	2.7.13.3	vicK	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Two-component system [BR:ko02022]	K07652	Two-component system, OmpR family, sensor histidine kinase VicK	2.7.13.3	vicK	2
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K07657	Two-component system, OmpR family, phosphate regulon response regulator PhoB		phoB	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Two-component system [BR:ko02022]	K07657	Two-component system, OmpR family, phosphate regulon response regulator PhoB		phoB	1
+Environmental Information Processing	Signal transduction	AMPK signaling pathway [PATH:ko04152]	K07877	Ras-related protein Rab-2A		RAB2A	1
+Brite Hierarchies	Protein families: genetic information processing	Membrane trafficking [BR:ko04131]	K07877	Ras-related protein Rab-2A		RAB2A	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Exosome [BR:ko04147]	K07877	Ras-related protein Rab-2A		RAB2A	1
+Brite Hierarchies	Protein families: signaling and cellular processes	GTP-binding proteins [BR:ko04031]	K07877	Ras-related protein Rab-2A		RAB2A	1
+Organismal Systems	Immune system	IL-17 signaling pathway [PATH:ko04657]	K07994	Matrix metalloproteinase-13 (collagenase 3)	3.4.24.-	MMP13	30
+Organismal Systems	Endocrine system	Relaxin signaling pathway [PATH:ko04926]	K07994	Matrix metalloproteinase-13 (collagenase 3)	3.4.24.-	MMP13	30
+Organismal Systems	Endocrine system	Parathyroid hormone synthesis, secretion and action [PATH:ko04928]	K07994	Matrix metalloproteinase-13 (collagenase 3)	3.4.24.-	MMP13	30
+Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors [BR:ko01002]	K07994	Matrix metalloproteinase-13 (collagenase 3)	3.4.24.-	MMP13	30
+Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	K08289	Phosphoribosylglycinamide formyltransferase 2	6.3.1.21	purT	4
+Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors [BR:ko01002]	K08326	Aminopeptidase	3.4.11.-	ypdF	2
+Brite Hierarchies	Protein families: metabolism	Peptidases and inhibitors [BR:ko01002]	K08675	ATP-dependent Lon protease	3.4.21.53	PRSS15, PIM1	1
+Brite Hierarchies	Protein families: genetic information processing	Mitochondrial biogenesis [BR:ko03029]	K08675	ATP-dependent Lon protease	3.4.21.53	PRSS15, PIM1	1
+Not Included in Pathway or Brite	Poorly characterized	Function unknown	K09005	Uncharacterized protein			2
+Not Included in Pathway or Brite	Poorly characterized	General function prediction only	K09014	Fe-S cluster assembly protein SufB		sufB	2
+Not Included in Pathway or Brite	Poorly characterized	General function prediction only	K09015	Fe-S cluster assembly protein SufD		sufD	1
+Metabolism	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism [PATH:ko00860]	K09883	Cobaltochelatase CobT	6.6.1.2	cobT	1
+Not Included in Pathway or Brite	Poorly characterized	Function unknown	K09915	Uncharacterized protein			2
+Genetic Information Processing	Folding, sorting and degradation	Protein processing in endoplasmic reticulum [PATH:ko04141]	K10085	ER degradation enhancer, mannosidase alpha-like 2		EDEM2	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Lectins [BR:ko04091]	K10085	ER degradation enhancer, mannosidase alpha-like 2		EDEM2	1
+Metabolism	Xenobiotics biodegradation and metabolism	Nitrotoluene degradation [PATH:ko00633]	K10680	N-ethylmaleimide reductase	1.-.-.-	nemA	2
+Metabolism	Energy metabolism	Sulfur metabolism [PATH:ko00920]	K10764	O-succinylhomoserine sulfhydrylase	2.5.1.-	metZ	4
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	K10764	O-succinylhomoserine sulfhydrylase	2.5.1.-	metZ	4
+Metabolism	Amino acid metabolism	Arginine and proline metabolism [PATH:ko00330]	K10793	D-proline reductase (dithiol) PrdA	1.21.4.1	prdA	2
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K10823	Oligopeptide transport system ATP-binding protein		oppF	1
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing [PATH:ko02024]	K10823	Oligopeptide transport system ATP-binding protein		oppF	1
+Human Diseases	Drug resistance: antimicrobial	beta-Lactam resistance [PATH:ko01501]	K10823	Oligopeptide transport system ATP-binding protein		oppF	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K10823	Oligopeptide transport system ATP-binding protein		oppF	1
+Metabolism	Metabolism of other amino acids	Selenocompound metabolism [PATH:ko00450]	K11717	Cysteine desulfurase / selenocysteine lyase	2.8.1.7 4.4.1.16	sufS	1
+Metabolism	Metabolism of cofactors and vitamins	Folate biosynthesis [PATH:ko00790]	K11754	Dihydrofolate synthase / folylpolyglutamate synthase	6.3.2.12 6.3.2.17	folC	1
+Brite Hierarchies	Protein families: metabolism	Protein kinases [BR:ko01001]	K12132	Eukaryotic-like serine/threonine-protein kinase	2.7.11.1	prkC, stkP	1
+Metabolism	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis [PATH:ko00550]	K12556	Penicillin-binding protein 2X		pbp2X	2
+Human Diseases	Drug resistance: antimicrobial	beta-Lactam resistance [PATH:ko01501]	K12556	Penicillin-binding protein 2X		pbp2X	2
+Brite Hierarchies	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins [BR:ko01011]	K12556	Penicillin-binding protein 2X		pbp2X	2
+Human Diseases	Infectious disease: bacterial	Bacterial invasion of epithelial cells [PATH:ko05100]	K13731	Internalin B		inlB	1
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K13890	Glutathione transport system permease protein		gsiC	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K13890	Glutathione transport system permease protein		gsiC	1
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K13894	Microcin C transport system permease protein		yejB	4
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K13894	Microcin C transport system permease protein		yejB	4
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K13935	Malonate decarboxylase epsilon subunit	2.3.1.39	mdcH	1
+Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions [PATH:ko00040]	K14273	D-xylose 1-dehydrogenase (NADP+, D-xylono-1,5-lactone-forming)	1.1.1.179	xdh	1
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K15583	Oligopeptide transport system ATP-binding protein		oppD	1
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing [PATH:ko02024]	K15583	Oligopeptide transport system ATP-binding protein		oppD	1
+Human Diseases	Drug resistance: antimicrobial	beta-Lactam resistance [PATH:ko01501]	K15583	Oligopeptide transport system ATP-binding protein		oppD	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K15583	Oligopeptide transport system ATP-binding protein		oppD	1
+Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	K15780	Bifunctional protein TilS/HprT	6.3.4.19 2.4.2.8	tilS-hprT	1
+Brite Hierarchies	Protein families: genetic information processing	Transfer RNA biogenesis [BR:ko03016]	K15780	Bifunctional protein TilS/HprT	6.3.4.19 2.4.2.8	tilS-hprT	1
+Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism [PATH:ko00562]	K16044	Scyllo-inositol 2-dehydrogenase (NADP+)	1.1.1.371	iolW	1
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism [PATH:ko00500]	K16153	Glycogen phosphorylase/synthase	2.4.1.1 2.4.1.11		2
+Brite Hierarchies	Protein families: metabolism	Glycosyltransferases [BR:ko01003]	K16153	Glycogen phosphorylase/synthase	2.4.1.1 2.4.1.11		2
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K16200	Dipeptide transport system permease protein		dppB1	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K16200	Dipeptide transport system permease protein		dppB1	1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K17624	Endo-alpha-N-acetylgalactosaminidase	3.2.1.97	engCP, engBF, endoEF	2
+Environmental Information Processing	Signal transduction	MAPK signaling pathway - plant [PATH:ko04016]	K17686	P-type Cu+ transporter	7.2.2.8	copA, ctpA, ATP7	1
+Organismal Systems	Digestive system	Mineral absorption [PATH:ko04978]	K17686	P-type Cu+ transporter	7.2.2.8	copA, ctpA, ATP7	1
+Human Diseases	Drug resistance: antineoplastic	Platinum drug resistance [PATH:ko01524]	K17686	P-type Cu+ transporter	7.2.2.8	copA, ctpA, ATP7	1
+Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism [PATH:ko00630]	K17865	3-hydroxybutyryl-CoA dehydratase	4.2.1.55	croR	4
+Metabolism	Carbohydrate metabolism	Butanoate metabolism [PATH:ko00650]	K17865	3-hydroxybutyryl-CoA dehydratase	4.2.1.55	croR	4
+Metabolism	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis [PATH:ko00550]	K18149	Penicillin-binding protein		pbp5, pbp4, pbp3	2
+Human Diseases	Drug resistance: antimicrobial	beta-Lactam resistance [PATH:ko01501]	K18149	Penicillin-binding protein		pbp5, pbp4, pbp3	2
+Brite Hierarchies	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins [BR:ko01011]	K18149	Penicillin-binding protein		pbp5, pbp4, pbp3	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Antimicrobial resistance genes [BR:ko01504]	K18220	Ribosomal protection tetracycline resistance protein		tetM, tetO	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Antimicrobial resistance genes [BR:ko01504]	K18234	Virginiamycin A acetyltransferase	2.3.1.-	vat	2
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing [PATH:ko02024]	K18307	Multidrug efflux pump		mexI	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K18307	Multidrug efflux pump		mexI	2
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K18581	Unsaturated chondroitin disaccharide hydrolase	3.2.1.180	ugl	2
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K18887	ATP-binding cassette, subfamily B, multidrug efflux pump		efrA, efrE	3
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K18887	ATP-binding cassette, subfamily B, multidrug efflux pump		efrA, efrE	3
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K18888	ATP-binding cassette, subfamily B, multidrug efflux pump		efrB, efrF	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K18888	ATP-binding cassette, subfamily B, multidrug efflux pump		efrB, efrF	1
+Brite Hierarchies	Protein families: genetic information processing	Transcription factors [BR:ko03000]	K18907	GntR family transcriptional regulator, regulator for abcA and norABC		norG	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Antimicrobial resistance genes [BR:ko01504]	K18907	GntR family transcriptional regulator, regulator for abcA and norABC		norG	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Prokaryotic defense system [BR:ko02048]	K19157	MRNA interferase YafQ	3.1.-.-	yafQ	1
+Brite Hierarchies	Protein families: genetic information processing	Transcription factors [BR:ko03000]	K19575	MerR family transcriptional regulator, activator of bmr gene		bmrR	1
+Brite Hierarchies	Protein families: genetic information processing	Chromosome and associated proteins [BR:ko03036]	K19788	Obg-like ATPase 1		OLA1	1
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing [PATH:ko02024]	K20265	Glutamate:GABA antiporter		gadC	1
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K20265	Glutamate:GABA antiporter		gadC	1
+Metabolism	Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis [PATH:ko00540]	K21344	D-glycero-beta-D-manno-heptose-7-phosphate kinase	2.7.1.167	rfaE1	2
+Brite Hierarchies	Protein families: metabolism	Lipopolysaccharide biosynthesis proteins [BR:ko01005]	K21344	D-glycero-beta-D-manno-heptose-7-phosphate kinase	2.7.1.167	rfaE1	2
+Metabolism	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis [PATH:ko00550]	K21464	Penicillin-binding protein 2D	2.4.1.129 3.4.16.4	pbpG	2
+Brite Hierarchies	Protein families: metabolism	Glycosyltransferases [BR:ko01003]	K21464	Penicillin-binding protein 2D	2.4.1.129 3.4.16.4	pbpG	2
+Brite Hierarchies	Protein families: metabolism	Peptidoglycan biosynthesis and degradation proteins [BR:ko01011]	K21464	Penicillin-binding protein 2D	2.4.1.129 3.4.16.4	pbpG	2
+Brite Hierarchies	Protein families: genetic information processing	Mitochondrial biogenesis [BR:ko03029]	K21594	Translation factor GUF1, mitochondrial	3.6.5.-	GUF1	2
+Brite Hierarchies	Protein families: genetic information processing	Transcription factors [BR:ko03000]	K21959	LysR family transcriptional regulator, cell division regulator		ftsR	1
+Brite Hierarchies	Protein families: genetic information processing	Transcription factors [BR:ko03000]	K22043	ArsR family transcriptional regulator, zinc-responsive transcriptional repressor		czrA	1
+Not Included in Pathway or Brite	Unclassified: metabolism	Enzymes with EC numbers	K23107	1-deoxyxylulose-5-phosphate synthase	1.1.-.-	yajO	1
+Metabolism	Nucleotide metabolism	Purine metabolism [PATH:ko00230]	K23269	Phosphoribosylformylglycinamidine synthase subunit PurL	6.3.5.3	purL	2
+Brite Hierarchies	Protein families: signaling and cellular processes	Transporters [BR:ko02000]	K25027	Cobalamin transport system permease protein		btuC	1
