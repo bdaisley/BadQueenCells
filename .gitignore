@@ -1,6 +1,4 @@
-.gitignore
 .Rproj.user
 *.Rhistory$
 *Rmarkdown*
 *x_*
-tables/Supplementary_Data_2.xlsx
